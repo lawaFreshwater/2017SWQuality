@@ -1,0 +1,933 @@
+,LawaSiteID,SiteID,CouncilSiteID,SWQuality,SWQAltitude,SWQLanduse,SWQFrequencyAll,SWQFrequencyLast5,Region,Agency,ISLAND,CatchID,CatchType,TermReach,LAWA_CATCH,Comment,SOE_FW_RIV,CATCH_LBL
+1,ARC-00001,44603,44603,Yes,Lowland,Native,Monthly,Monthly,Auckland,Auckland Council,North,515,Parent,2005849,515,NA,1,Cascade Stream
+2,ARC-00003,45313,45313,Yes,Lowland,Rural,Monthly,Monthly,Auckland,Auckland Council,North,272,Parent,2003750,272,NA,1,Kumeu
+3,ARC-00004,7830,7830,Yes,Lowland,Urban,Monthly,Monthly,Auckland,Auckland Council,North,866,Parent,2004574,866,NA,1,Lucas Creek
+4,ARC-00005,6811,6811,Yes,Lowland,Exotic,Monthly,Monthly,Auckland,Auckland Council,North,441,Parent,2001770,441,NA,1,Mahurangi River
+5,ARC-00006,6804,6804,Yes,Lowland,Rural,Monthly,Monthly,Auckland,Auckland Council,North,441,Parent,2001770,441,NA,1,Mahurangi River
+6,ARC-00008,6604,6604,Yes,Lowland,Rural,Monthly,Monthly,Auckland,Auckland Council,North,1057,Parent,2001404,1057,NA,1,Matakana River
+7,ARC-00009,43829,43829,Yes,lowland,Rural,Monthly,Monthly,Auckland,Auckland Council,North,660,Parent,2008585,660,NA,1,Ngakaroa Stream
+8,ARC-00010,8110,8110,Yes,Lowland,Urban,Monthly,Monthly,Auckland,Auckland Council,North,1165,Parent,2005759,1165,NA,1,Oakley Creek
+9,ARC-00011,7502,7502,Yes,Lowland,Rural,Monthly,Monthly,Auckland,Auckland Council,North,1189,Parent,2004083,1189,NA,1,NA
+10,ARC-00013,7904,7904,Yes,Lowland,Rural,Monthly,Monthly,Auckland,Auckland Council,North,541,Parent,2005611,541,NA,1,Opanuku Stream
+11,ARC-00014,8219,8219,Yes,Lowland,Urban,Monthly,Monthly,Auckland,Auckland Council,North,3555,Parent,2006774,3555,NA,1,Otaki Creek
+12,ARC-00015,8214,8214,Yes,Lowland,Urban,Monthly,Monthly,Auckland,Auckland Council,North,782,Parent,2006598,782,NA,1,Otara Creek
+13,ARC-00016,8205,8205,Yes,Lowland,Urban,Monthly,Monthly,Auckland,Auckland Council,North,782,Parent,2006598,782,NA,1,Otara Creek
+14,ARC-00017,7811,7811,Yes,Lowland,Urban,Monthly,Monthly,Auckland,Auckland Council,North,866,Parent,2004574,866,NA,1,Lucas Creek
+15,ARC-00018,8217,8217,Yes,Lowland,Urban,Monthly,Monthly,Auckland,Auckland Council,North,3094,Parent,2006385,1003094,"Merger of NIWA Catchment 3094, 1580, 1931, 2268 and 2862",1,Pakuranga Creek
+16,ARC-00019,8215,8215,Yes,Lowland,Urban,Monthly,Monthly,Auckland,Auckland Council,North,3094,Parent,2006385,1003094,"Merger of NIWA Catchment 3094, 1580, 1931, 2268 and 2862",1,Pakuranga Creek
+17,ARC-00021,43856,43856,Yes,Lowland,Rural,Monthly,Monthly,Auckland,Auckland Council,North,650,Parent,2007627,650,NA,1,Papakura Stream
+18,ARC-00022,43807,43807,Yes,Lowland,Urban,Monthly,Monthly,Auckland,Auckland Council,North,925,Parent,2007377,925,NA,1,Puhinui Stream
+19,ARC-00024,7506,7506,Yes,Lowland,Rural,Monthly,Monthly,Auckland,Auckland Council,North,2196,Parent,2004089,2196,NA,1,Vaighans Stream
+20,ARC-00025,8516,8516,Yes,Lowland,Rural,Monthly,Monthly,Auckland,Auckland Council,North,275,Parent,2006693,275,NA,1,Wairoa River
+21,ARC-00026,7104,7104,Yes,Lowland,Rural,Monthly,Monthly,Auckland,Auckland Council,North,721,Parent,2002811,721,NA,1,Waiwera Stream
+22,ARC-00027,7206,7206,Yes,Lowland,Native,Monthly,Monthly,Auckland,Auckland Council,North,2536,Parent,2003226,2536,NA,1,West Hoe Stream
+23,ARC-00028,43601,43601,Yes,Lowland,Rural,Monthly,Monthly,Auckland,Auckland Council,North,968,Parent,2009665,968,NA,1,Waitangi Stream
+24,ARC-00029,438100,438100,Yes,Lowland,Rural,Monthly,Monthly,Auckland,Auckland Council,North,878,Parent,2008607,878,NA,1,Whangamaire Stream
+25,ARC-00030,8568,8568,Yes,Lowland,Native,Monthly,Monthly,Auckland,Auckland Council,North,275,Parent,2006693,275,NA,1,Wairoa River
+26,ARC-00031,45373,45373,Yes,Lowland,Exotic,Monthly,Monthly,Auckland,Auckland Council,North,272,Parent,2003750,272,NA,1,Kumeu
+27,ARC-00033,45505,45505,Yes,Lowland,Rural,Monthly,Monthly,Auckland,Auckland Council,North,487,Parent,2002821,487,NA,1,Makarau River
+28,ARC-00034,8249,8249,Yes,Lowland,Urban,Monthly,Monthly,Auckland,Auckland Council,North,2301,Parent,2005837,2301,NA,1,Omaru Creek
+29,ARC-00035,45415,45415,Yes,Lowland,Rural,Monthly,Monthly,Auckland,Auckland Council,North,403,Parent,2003669,403,NA,1,Kaukapakapa
+30,ARC-00036,8019,8019,Yes,Lowland,Urban,Monthly,Monthly,Auckland,Auckland Council,North,1176,Parent,2006060,1176,NA,1,Avondale Stream
+31,ARC-00037,1043837,1043837,Yes,Lowland,Urban,Monthly,Monthly,Auckland,Auckland Council,North,650,Parent,2007627,650,NA,1,Papakura Stream
+32,ARC-00038,7171,7171,Yes,Lowland,Native,Monthly,Monthly,Auckland,Auckland Council,North,2298,Parent,2003112,2298,NA,1,Nukumea
+33,ARC-00039,74401,74401,Yes,Lowland,Rural,Monthly,Monthly,Auckland,Auckland Council,North,4095,Parent,2005154,4095,NA,1,Onetangi Stream
+34,ARC-00040,74701,74701,Yes,Lowland,Rural,Monthly,Monthly,Auckland,Auckland Council,North,2738,Parent,2005487,2738,NA,1,Waiheke Cascade Stream
+35,ARC-00051,Hoteo,45703,Yes,Lowland,Rural,Monthly,Monthly,Auckland,Auckland Council,North,228,Parent,2001886,228,NA,1,Hoteo
+36,ARC-00057,Kaukapakapa,45415,Yes,Lowland,Rural,Monthly,Monthly,Auckland,Auckland Council,North,403,Parent,2003669,403,NA,1,Kaukapakapa
+37,ARC-00074,Oteha,7811,Yes,Lowland,Native,Monthly,Monthly,Auckland,Auckland Council,North,866,Parent,2004574,866,NA,1,Lucas Creek
+38,ARC-00079,Puhinui,43807,Yes,Lowland,Rural,Monthly,Monthly,Auckland,Auckland Council,North,925,Parent,2007377,925,NA,1,Puhinui Stream
+39,ARC-00082,Rangitopuni at Walkers,7805,Yes,Lowland,Urban,Monthly,Monthly,Auckland,Auckland Council,North,439,Parent,2004741,439,NA,1,Rangitopuni River
+40,ARC-00090,Wairoa,8516,Yes,Lowland,Exotic,Monthly,Monthly,Auckland,Auckland Council,North,275,Parent,2006693,275,NA,1,Wairoa River
+41,ARC-00095,West Hoe,7206,Yes,Lowland,Rural,Monthly,Monthly,Auckland,Auckland Council,North,2536,Parent,2003226,2536,NA,1,West Hoe Stream
+42,EBOP-00001,BQ966369,Aongatete at SH2,Yes,Lowland,Rural,Monthly,Monthly,Bay of Plenty,BOPRC,North,489,Parent,4000484,489,NA,1,Aongatete
+43,EBOP-00002,RN123610,Haparapara at SH35,Yes,Lowland,Native,Monthly,Monthly,Bay of Plenty,BOPRC,North,339,Parent,4003925,339,NA,1,Haparapara
+44,EBOP-00003,FN834668,Kaituna at Maungarangi Rd,Yes,Lowland,Rural,Monthly,Monthly,Bay of Plenty,BOPRC,North,72,Parent,4002050,72,NA,1,Kaituna River
+45,EBOP-00007,FL356693,Kaituna at Rotoiti Outlet,Yes,Upland,Urban,Monthly,Monthly,Bay of Plenty,BOPRC,North,72,Parent,4002050,72,NA,1,Kaituna River
+46,EBOP-00057,FO620177,Kaituna at Te Matai,Yes,Lowland,Rural,Monthly,Monthly,Bay of Plenty,BOPRC,North,72,Parent,4002050,72,NA,1,Kaituna River
+47,EBOP-00101,RO629568,Kereru at SH35,Yes,Lowland,Native,Monthly,Monthly,Bay of Plenty,BOPRC,North,372,Parent,4002179,372,NA,1,Kereu River
+48,EBOP-00006,DP784306,Kopurererua at SH2,Yes,Lowland,Urban,Monthly,Monthly,Bay of Plenty,BOPRC,North,494,Parent,4001195,494,NA,1,Kopurererua
+49,EBOP-00005,DO406909,Kopurererua at SH29,Yes,Lowland,Rural,Monthly,Monthly,Bay of Plenty,BOPRC,North,494,Parent,4001195,494,NA,1,Kopurererua
+50,EBOP-00045,QM756918,Motu River at Houpoto,Yes,Lowland,Native,Monthly,Monthly,Bay of Plenty,BOPRC,North,63,Parent,4005089,63,NA,1,Motu River
+51,EBOP-00009,CO543022,Ngamuwahine at Old Bridge,Yes,Lowland,Rural,Monthly,Monthly,Bay of Plenty,BOPRC,North,198,Parent,4001064,198,NA,1,Wairoa River
+52,EBOP-00010,EL174017,Ngongotaha at SH36,Yes,Upland,Rural,Monthly,Monthly,Bay of Plenty,BOPRC,North,72,Parent,4002050,72,NA,1,Kaituna River
+53,EBOP-00062,MK788545,Nukuhou at Glenholme Road,Yes,Lowland,Rural,Monthly,Monthly,Bay of Plenty,BOPRC,North,423,Parent,4009202,423,NA,1,Nukuhou
+55,EBOP-00011,MK283728,Nukuhou at Old Quarry,Yes,Lowland,Rural,Monthly,Monthly,Bay of Plenty,BOPRC,North,423,Parent,4009202,423,NA,1,Nukuhou
+56,EBOP-00012,FL230406,Ohau Channel at SH33,Yes,Upland,Native,Monthly,Monthly,Bay of Plenty,BOPRC,North,72,Parent,4002050,72,NA,1,Kaituna River
+57,EBOP-00013,DO047598,Omanawa at SH29,Yes,Lowland,Rural,Monthly,Monthly,Bay of Plenty,BOPRC,North,198,Parent,4001064,198,NA,1,Wairoa River
+58,EBOP-00102,FD445529,Otamatea at Wairere Rd,Yes,Upland,Native,Monthly,Monthly,Bay of Plenty,BOPRC,North,29,Parent,4029020,29,NA,1,Rangitaiki River
+59,EBOP-00014,OK300616,Otara at Browns Bridge,Yes,Lowland,Rural,Monthly,Monthly,Bay of Plenty,BOPRC,North,243,Parent,4008497,243,NA,1,Otara
+60,EBOP-00017,GN849464,Pongakawa at Old Coach Rd,Yes,Lowland,Rural,Monthly,Monthly,Bay of Plenty,BOPRC,North,353,Parent,4002572,353,NA,1,Pongakawa
+61,EBOP-00047,GM781934,Pongakawa at Pumphouse,Yes,Lowland,Native,Monthly,Monthly,Bay of Plenty,BOPRC,North,353,Parent,4002572,353,NA,1,Pongakawa
+62,EBOP-00016,GN922883,Pongakawa at SH2,Yes,Lowland,Native,Monthly,Monthly,Bay of Plenty,BOPRC,North,353,Parent,4002572,353,NA,1,Pongakawa
+63,EBOP-00019,EK598179,Puarenga at FRI,Yes,Upland,Native,Monthly,Monthly,Bay of Plenty,BOPRC,North,72,Parent,4002050,72,NA,1,Kaituna River
+64,LAWA-100396,JI148319,Rangitaiki at Aniwhenua Canal,Yes,Lowland,Native,Quarterly,Quarterly,Bay of Plenty,BOPRC,North,29,Parent,4029020,29,NA,1,Rangitaiki River
+65,LAWA-100397,JK491452,Rangitaiki at Matahina Dam,Yes,Lowland,Native,Monthly,Monthly,Bay of Plenty,BOPRC,North,29,Parent,4029020,29,NA,1,Rangitaiki River
+66,EBOP-00104,FC231176,Rangitaiki at SH5,Yes,Upland,Native,Monthly,Monthly,Bay of Plenty,BOPRC,North,29,Parent,4029020,29,NA,1,Rangitaiki River
+67,EBOP-00049,JL350292,Rangitaiki at Te Teko,Yes,Lowland,Rural,Monthly,Monthly,Bay of Plenty,BOPRC,North,29,Parent,4029020,29,NA,1,Rangitaiki River
+68,EBOP-00048,IG265664,Rangitaiki River at Murupara,Yes,Upland,Exotic,Monthly,Monthly,Bay of Plenty,BOPRC,North,29,Parent,4029020,29,NA,1,Rangitaiki River
+69,EBOP-00022,SO991920,Raukokore at SH35,Yes,Lowland,Native,Monthly,Monthly,Bay of Plenty,BOPRC,North,229,Parent,4001443,229,NA,1,Raukokore
+70,EBOP-00023,EP623312,Rocky Stream at Mangatawa Lane,Yes,Lowland,Rural,Monthly,Monthly,Bay of Plenty,BOPRC,North,714,Parent,4001230,714,NA,1,Rocky
+71,EBOP-00050,JM102399,Tarawera at Awakaponga,Yes,Lowland,Native,Monthly,Monthly,Bay of Plenty,BOPRC,North,116,Parent,4005128,116,NA,1,Tarawera River
+72,EBOP-00024,IK564876,Tarawera at Kawerau Bridge,Yes,Lowland,Native,Monthly,Monthly,Bay of Plenty,BOPRC,North,116,Parent,4005128,116,NA,1,Tarawera River
+73,EBOP-00025,IL818464,Tarawera at SH30,Yes,Lowland,Exotic,Monthly,Monthly,Bay of Plenty,BOPRC,North,116,Parent,4005128,116,NA,1,Tarawera River
+74,EBOP-00051,GJ662805,Tarawera River at Lake Outlet,Yes,Upland,Native,Monthly,Monthly,Bay of Plenty,BOPRC,North,116,Parent,4005128,116,NA,1,Tarawera River
+75,EBOP-00103,LI953392,Tauranga at Ranger Station,Yes,Lowland,Rural,Monthly,Monthly,Bay of Plenty,BOPRC,North,48,Parent,4006872,48,NA,1,Whakatane River
+76,EBOP-00031,LK149881,Tauranga at Taneatua Bridge,Yes,Lowland,Native,Monthly,Monthly,Bay of Plenty,BOPRC,North,48,Parent,4006872,48,NA,1,Whakatane River
+77,EBOP-00026,BQ711622,Te Mania at SH2,Yes,Lowland,Rural,Monthly,Monthly,Bay of Plenty,BOPRC,North,1219,Parent,4000427,1219,NA,1,Te Mania
+78,EBOP-00027,BQ708712,Te Rereatukahia at SH2,Yes,Lowland,Rural,Monthly,Monthly,Bay of Plenty,BOPRC,North,728,Parent,4000415,728,NA,1,Te Rereatukahia
+79,EBOP-00028,BR809582,Tuapiro at Hikurangi Rd,Yes,Lowland,Rural,Monthly,Monthly,Bay of Plenty,BOPRC,North,569,Parent,4000158,569,NA,1,Tuapiro
+80,EBOP-00052,BQ723939,Uretara at Henry Rd Ford,Yes,Lowland,Rural,Monthly,Monthly,Bay of Plenty,BOPRC,North,996,Parent,4000306,996,NA,1,Uretara
+81,EBOP-00030,BS961133,Waiau at Waiau Rd Ford,Yes,Lowland,Rural,Monthly,Monthly,Bay of Plenty,BOPRC,North,816,Parent,4000058,816,NA,1,Waiau River (North Is)
+82,EBOP-00033,DO688849,Waimapu 100m d/s of SH29,Yes,Lowland,Rural,Monthly,Monthly,Bay of Plenty,BOPRC,North,414,Parent,4001549,414,NA,1,Waimapu
+83,EBOP-00032,DO712717,Waimapu at Pukemapu Rd,Yes,Lowland,Rural,Monthly,Monthly,Bay of Plenty,BOPRC,North,414,Parent,4001549,414,NA,1,Waimapu
+84,EBOP-00044,NK608503,Waioeka at Gorge Mouth,Yes,Lowland,Native,Monthly,Monthly,Bay of Plenty,BOPRC,North,112,Parent,4008681,112,NA,1,Waioeka River
+86,EBOP-00035,CP466747,Waipapa at Old Highway,Yes,Lowland,Rural,Monthly,Monthly,Bay of Plenty,BOPRC,North,744,Parent,4000728,744,NA,1,Waipapa River (Tauranga)
+87,EBOP-00037,DP281304,Wairoa at SH2,Yes,Lowland,Rural,Monthly,Monthly,Bay of Plenty,BOPRC,North,198,Parent,4001064,198,NA,1,Wairoa River
+88,EBOP-00036,CO938527,Wairoa d/s of Ruahihi Powerstation,Yes,Lowland,Native,Monthly,Monthly,Bay of Plenty,BOPRC,North,198,Parent,4001064,198,NA,1,Wairoa River
+89,EBOP-00038,HN674689,Waitahanui at Otamarakau Marae,Yes,Lowland,Rural,Monthly,Monthly,Bay of Plenty,BOPRC,North,405,Parent,4003723,405,NA,1,Waitahanui
+90,EBOP-00039,EO451883,Waitao at 172 Waitao Rd,Yes,Lowland,Rural,Monthly,Monthly,Bay of Plenty,BOPRC,North,736,Parent,4001448,736,NA,1,Waitao
+91,EBOP-00040,BQ739463,Waitekohe at SH2,Yes,Lowland,Rural,Monthly,Monthly,Bay of Plenty,BOPRC,North,937,Parent,4000417,937,NA,1,Waitekohe
+92,EBOP-00042,KL998150,Whakatane at Pekatahi Bridge,Yes,Lowland,Native,Monthly,Monthly,Bay of Plenty,BOPRC,North,48,Parent,4006872,48,NA,1,Whakatane River
+93,EBOP-00041,LK082095,Whakatane at Ruatoki,Yes,Lowland,Native,Monthly,Monthly,Bay of Plenty,BOPRC,North,48,Parent,4006872,48,NA,1,Whakatane River
+94,EBOP-00053,IG619428,Whirinaki at Galatea,Yes,Upland,Native,Monthly,Monthly,Bay of Plenty,BOPRC,North,29,Parent,4029020,29,NA,1,Rangitaiki River
+95,ECAN-00117,SQ10005,Omarama Stream SH8,YES,Upland,Natural,Quarterly,Quarterly,Canterbury,Environment Canterbury Regional Council,South,3,Parent,13524507,3,NA,1,Upper and Lower Waitaki Catchment
+96,ECAN-00001,SQ10012,Willowburn Quailburn Road,YES,Upland,Rural,Quarterly,Quarterly,Canterbury,Environment Canterbury Regional Council,South,3,Parent,13524507,3,NA,1,Upper and Lower Waitaki Catchment
+97,ECAN-00002,SQ10037,Sutherlands Creek Ben Omar Road,YES,Upland,Rural,Quarterly,Quarterly,Canterbury,Environment Canterbury Regional Council,South,3,Parent,13524507,3,NA,1,Upper and Lower Waitaki Catchment
+98,ECAN-00003,SQ10057,Hakataramea River Cattle Creek,YES,Upland,Rural,Quarterly,Quarterly,Canterbury,Environment Canterbury Regional Council,South,3,Parent,13524507,3,NA,1,Upper and Lower Waitaki Catchment
+99,ECAN-00118,SQ10160,Maerewhenua River SH83,YES,Lowland,Rural,Quarterly,Quarterly,Canterbury,Environment Canterbury Regional Council,South,3,Parent,13524507,3,NA,1,Upper and Lower Waitaki Catchment
+100,ECAN-00119,SQ10167,Otiake River Mt Bell Station,YES,Upland,Rural,Quarterly,Quarterly,Canterbury,Environment Canterbury Regional Council,South,3,Parent,13524507,3,NA,1,Upper and Lower Waitaki Catchment
+101,ECAN-00121,SQ10174,Penticotico Stream SH83,YES,Lowland,Rural,Quarterly,Quarterly,Canterbury,Environment Canterbury Regional Council,South,3,Parent,13524507,3,NA,1,Upper and Lower Waitaki Catchment
+102,ECAN-00123,SQ10275,Maryburn SH8 Bridge,YES,Upland,Rural,Quarterly,Quarterly,Canterbury,Environment Canterbury Regional Council,South,3,Parent,13524507,3,NA,1,Upper and Lower Waitaki Catchment
+103,ECAN-00124,SQ10301,Otematata River SH83,YES,Upland,Rural,Quarterly,Monthly,Canterbury,Environment Canterbury Regional Council,South,3,Parent,13524507,3,NA,1,Upper and Lower Waitaki Catchment
+104,ECAN-00007,SQ10804,Wairepo Creek Arm Inlet,YES,Upland,Exotic,Quarterly,Quarterly,Canterbury,Environment Canterbury Regional Council,South,3,Parent,13524507,3,NA,1,Upper and Lower Waitaki Catchment
+105,ECAN-00008,SQ10814,Cattle Creek Morland Settlement Road,YES,Upland,Rural,Quarterly,Quarterly,Canterbury,Environment Canterbury Regional Council,South,3,Parent,13524507,3,NA,1,Upper and Lower Waitaki Catchment
+106,ECAN-00010,SQ10818,Deadman Stream Hakataramea Valley Road,YES,Upland,Rural,Quarterly,Quarterly,Canterbury,Environment Canterbury Regional Council,South,3,Parent,13524507,3,NA,1,Upper and Lower Waitaki Catchment
+107,ECAN-00014,SQ20104,Ashburton River SH1,YES,Lowland,Urban,Quarterly,Quarterly,Canterbury,Environment Canterbury Regional Council,South,51,Parent,13061477,51,NA,1,Ashburton River
+108,ECAN-00016,SQ20106,Ashburton River North Branch Digbys Bridge,YES,Lowland,Rural,Quarterly,Quarterly,Canterbury,Environment Canterbury Regional Council,South,51,Parent,13061477,51,NA,1,Ashburton River
+109,ECAN-00018,SQ20107,Ashburton River South Branch Hills Road,YES,Lowland,Rural,Quarterly,Quarterly,Canterbury,Environment Canterbury Regional Council,South,51,Parent,13061477,51,NA,1,Ashburton River
+110,ECAN-00020,SQ20112,Ashburton River North Branch North Branch SH72 bridge,YES,Upland,Rural,Quarterly,Quarterly,Canterbury,Environment Canterbury Regional Council,South,51,Parent,13061477,51,NA,1,Ashburton River
+111,ECAN-00181,SQ20175,Rangitata River Mouth,YES,Lowland,Rural,Quarterly,Quarterly,Canterbury,Environment Canterbury Regional Council,South,47,Parent,13063688,47,NA,1,Rangitata River
+112,ECAN-00025,SQ20176,Rangitata River Upstream of SH1 bridge,YES,Lowland,Rural,Quarterly,Quarterly,Canterbury,Environment Canterbury Regional Council,South,47,Parent,13063688,47,NA,1,Rangitata River
+113,ECAN-00026,SQ20177,Rangitata River SH72,YES,Upland,Rural,Quarterly,Quarterly,Canterbury,Environment Canterbury Regional Council,South,47,Parent,13063688,47,NA,1,Rangitata River
+114,ECAN-00027,SQ20195,Smithfield Creek Te Awa Rd,YES,Lowland,Rural,Quarterly,Quarterly,Canterbury,Environment Canterbury Regional Council,South,35,Parent,13070002,35,NA,1,Opihi River
+115,ECAN-00028,SQ20199,Taumatakahu Stream Murray St,YES,Lowland,Urban,Quarterly,Quarterly,Canterbury,Environment Canterbury Regional Council,South,35,Parent,13070002,35,NA,1,Opihi River
+116,ECAN-00033,SQ20243,Opihi River at SH1 Bridge,YES,Lowland,Rural,Quarterly,Quarterly,Canterbury,Environment Canterbury Regional Council,South,35,Parent,13070002,35,NA,1,Opihi River
+117,ECAN-00034,SQ20252,Temuka River Manse Bridge,YES,Lowland,Rural,Quarterly,Quarterly,Canterbury,Environment Canterbury Regional Council,South,35,Parent,13070002,35,NA,1,Opihi River
+118,ECAN-00036,SQ20318,Raukapuka Creek Coach Road,YES,Lowland,Rural,Quarterly,Quarterly,Canterbury,Environment Canterbury Regional Council,South,35,Parent,13070002,35,NA,1,Opihi River
+119,ECAN-00038,SQ20332,Waihi River Waimarie,YES,Upland,Rural,Quarterly,Quarterly,Canterbury,Environment Canterbury Regional Council,South,35,Parent,13070002,35,NA,1,Opihi River
+120,ECAN-00040,SQ20350,Te Ngawai River Tengawai Bridge,YES,Lowland,Rural,Quarterly,Quarterly,Canterbury,Environment Canterbury Regional Council,South,35,Parent,13070002,35,NA,1,Opihi River
+121,ECAN-00042,SQ20401,Saltwater Creek SH1 Bridge,YES,Lowland,Urban,Quarterly,Quarterly,Canterbury,Environment Canterbury Regional Council,South,594,Parent,13066271,594,NA,1,Saltwater Creek Timaru
+122,ECAN-00043,SQ20454,Pareora River at Evans Crossing,YES,Lowland,Rural,Quarterly,Quarterly,Canterbury,Environment Canterbury Regional Council,South,164,Parent,13066928,164,NA,1,Paeora River
+123,ECAN-00045,SQ20509,Boundary Drain Trigpole Road,YES,Lowland,Rural,Quarterly,Quarterly,Canterbury,Environment Canterbury Regional Council,South,616,Parent,13062653,616,NA,1,Boundary Drain
+124,ECAN-00182,SQ20541,Petries Drain Canal Road,YES,Lowland,Rural,Quarterly,Quarterly,Canterbury,Environment Canterbury Regional Council,South,1384,Parent,13064342,1384,NA,1,Rhodes
+125,ECAN-00046,SQ20545,Rhodes Stream Parke Road,YES,Lowland,Rural,Quarterly,Quarterly,Canterbury,Environment Canterbury Regional Council,South,1384,Parent,13064342,1384,NA,1,Rhodes
+126,ECAN-00047,SQ20575,Waihao River Bradshaw Bridge,YES,Lowland,Rural,Quarterly,Quarterly,Canterbury,Environment Canterbury Regional Council,South,161,Parent,13068893,161,NA,1,Waihao
+127,ECAN-00049,SQ20577,Waihao River McCulloch Bridge,YES,Lowland,Rural,Quarterly,Quarterly,Canterbury,Environment Canterbury Regional Council,South,161,Parent,13068893,161,NA,1,Waihao
+128,ECAN-10029,SQ20606,Pareora River Pareora Huts,YES,Lowland,Rural,,Monthly,Canterbury,Environment Canterbury Regional Council,South,164,Parent,13066928,164,NA,1,Paeora River
+129,ECAN-00050,SQ20725,Hae Hae Te Moana River at Glentohi,YES,Upland,Rural,Quarterly,Quarterly,Canterbury,Environment Canterbury Regional Council,South,35,Parent,13070002,35,NA,1,Opihi River
+130,ECAN-00177,SQ21044,North Branch Ohapi Creek Guild Rd,YES,Lowland,Rural,Quarterly,Quarterly,Canterbury,Environment Canterbury Regional Council,South,135,Parent,13064483,135,NA,1,Orari River
+131,ECAN-00178,SQ21045,Ohapi Creek Guild Rd,YES,Lowland,Exotic,Quarterly,Quarterly,Canterbury,Environment Canterbury Regional Council,South,135,Parent,13064483,135,NA,1,Orari River
+132,ECAN-00179,SQ21046,Ohapi Creek South Branch Guild Rd,YES,Lowland,Exotic,Quarterly,Quarterly,Canterbury,Environment Canterbury Regional Council,South,135,Parent,13064483,135,NA,1,Orari River
+133,ECAN-00052,SQ21047,Ohapi Creek upstream Orari River Confluence,YES,Lowland,Rural,Quarterly,Quarterly,Canterbury,Environment Canterbury Regional Council,South,135,Parent,13064483,135,NA,1,Orari River
+134,ECAN-00183,SQ21254,Waikakahi Stream Te Maiharoa Road,YES,Lowland,Rural,Monthly,Monthly,Canterbury,Environment Canterbury Regional Council,South,3,Parent,13524507,3,NA,1,Upper and Lower Waitaki Catchment
+135,ECAN-00055,SQ21289,Whitneys Creek Carrolls Rd,YES,Lowland,Rural,Quarterly,Quarterly,Canterbury,Environment Canterbury Regional Council,South,664,Parent,13523917,664,NA,1,Whitneys Creek
+136,ECAN-00057,SQ21292,Buchanans Creek upstream confluence Waihao River,YES,Lowland,Rural,Quarterly,Quarterly,Canterbury,Environment Canterbury Regional Council,South,161,Parent,13068893,161,NA,1,Waihao
+137,ECAN-00058,SQ21296,Sir Charles Creek end of Haymans Road,YES,Lowland,Rural,Quarterly,Quarterly,Canterbury,Environment Canterbury Regional Council,South,448,Parent,13068692,448,NA,1,Waimate Creek
+138,ECAN-00059,SQ21298,Hook River Beach Road,YES,Lowland,Rural,Quarterly,Quarterly,Canterbury,Environment Canterbury Regional Council,South,459,Parent,13068410,459,NA,1,Hook River
+139,ECAN-00061,SQ21299,Hook Drain Beach Road,YES,Lowland,Rural,Quarterly,Quarterly,Canterbury,Environment Canterbury Regional Council,South,3006,Parent,13068115,3006,NA,1,Hook Drain
+140,ECAN-00062,SQ21309,Coopers Creek SH72,YES,Upland,Exotic,Quarterly,Quarterly,Canterbury,Environment Canterbury Regional Council,South,135,Parent,13064483,135,NA,1,Orari River
+141,ECAN-00127,SQ22030,Taitarakihi Creek SH1,YES,Lowland,Urban,Quarterly,Quarterly,Canterbury,Environment Canterbury Regional Council,South,1867,Parent,13065906,1867,NA,1,Taitarakihi
+142,ECAN-00065,SQ26221,McKinnons Stream Wallaces Bridge,YES,Lowland,Urban,Quarterly,Quarterly,Canterbury,Environment Canterbury Regional Council,South,47,Parent,13063688,47,NA,1,Rangitata River
+143,ECAN-00128,SQ26368,Forks Stream SH8,YES,Upland,Rural,Quarterly,Quarterly,Canterbury,Environment Canterbury Regional Council,South,3,Parent,13524507,3,NA,1,Upper and Lower Waitaki Catchment
+144,ECAN-00129,SQ26369,Irishman Creek SH8,YES,Upland,Rural,Quarterly,Quarterly,Canterbury,Environment Canterbury Regional Council,South,3,Parent,13524507,3,NA,1,Upper and Lower Waitaki Catchment
+145,ECAN-00069,SQ26633,Orari River Parke Rd,YES,Lowland,Exotic,Quarterly,Quarterly,Canterbury,Environment Canterbury Regional Council,South,135,Parent,13064483,135,NA,1,Orari River
+146,ECAN-00145,SQ26931,Bush Stream Rangitata Gorge Road,YES,Upland,Rural,Quarterly,Quarterly,Canterbury,Environment Canterbury Regional Council,South,47,Parent,13063688,47,NA,1,Rangitata River
+147,ECAN-00146,SQ26932,Deep Stream Access Road near Tui House,YES,Upland,Rural,Quarterly,Quarterly,Canterbury,Environment Canterbury Regional Council,South,47,Parent,13063688,47,NA,1,Rangitata River
+148,ECAN-00130,SQ30011,Leader River SH1,YES,Lowland,Rural,Quarterly,Quarterly,Canterbury,Environment Canterbury Regional Council,South,23,Parent,13020018,23,NA,1,Waiau River (South Is)
+149,ECAN-00070,SQ30162,Waipara River Teviotdale Bridg,YES,Lowland,Rural,Quarterly,Quarterly,Canterbury,Environment Canterbury Regional Council,South,133,Parent,13033329,133,NA,1,Waipara River
+150,ECAN-00071,SQ30175,Ashley River SH1,YES,Lowland,Rural,Quarterly,Quarterly,Canterbury,Environment Canterbury Regional Council,South,77,Parent,13037679,77,NA,1,Ashley River
+151,ECAN-00134,SQ30184,Ashley River/Rakahuri Ashley Gorge Rd,YES,Upland,Natural,Quarterly,Quarterly,Canterbury,Environment Canterbury Regional Council,South,77,Parent,13037679,77,NA,1,Ashley River
+152,ECAN-00175,SQ30215,Taranaki Creek Gressons Rd,YES,Lowland,Rural,Quarterly,Quarterly,Canterbury,Environment Canterbury Regional Council,South,708,Parent,13037829,708,NA,1,Lower Waipara Catchment
+153,ECAN-00072,SQ30222,Waikuku Stream SH1,YES,Lowland,Rural,Quarterly,Quarterly,Canterbury,Environment Canterbury Regional Council,South,708,Parent,13037829,708,NA,1,Lower Waipara Catchment
+154,ECAN-00167,SQ30253,Waimakariri River at Stewarts Gully Yacht Club,YES,Lowland,Exotic,Quarterly,Quarterly,Canterbury,Environment Canterbury Regional Council,South,17,Parent,13070003,17,NA,1,Waimakariri River
+155,ECAN-00079,SQ30332,Kaiapoi River Island Rd,YES,Lowland,Rural,Quarterly,Quarterly,Canterbury,Environment Canterbury Regional Council,South,17,Parent,13070003,17,NA,1,Waimakariri River
+156,ECAN-00080,SQ30369,Cam River Bramleys Road,YES,Lowland,Rural,Quarterly,Quarterly,Canterbury,Environment Canterbury Regional Council,South,17,Parent,13070003,17,NA,1,Waimakariri River
+157,ECAN-00148,SQ30390,Southbrook Stream Marsh Rd,YES,Lowland,Urban,Quarterly,Quarterly,Canterbury,Environment Canterbury Regional Council,South,17,Parent,13070003,17,NA,1,Waimakariri River
+158,ECAN-00081,SQ30400,Cust River Skewbridge Road,YES,Lowland,Rural,Quarterly,Quarterly,Canterbury,Environment Canterbury Regional Council,South,17,Parent,13070003,17,NA,1,Waimakariri River
+159,ECAN-00082,SQ30426,Ohoka River Island Rd,YES,Lowland,Rural,Quarterly,Quarterly,Canterbury,Environment Canterbury Regional Council,South,17,Parent,13070003,17,NA,1,Waimakariri River
+160,ECAN-00083,SQ30445,Otukaikino Creek Dickeys Rd,YES,Lowland,Urban,Quarterly,Quarterly,Canterbury,Environment Canterbury Regional Council,South,17,Parent,13070003,17,NA,1,Waimakariri River
+161,ECAN-00149,SQ30707,Aylmers Valley Stream Beach Road bridge,YES,Lowland,Urban,Quarterly,Quarterly,Canterbury,Environment Canterbury Regional Council,South,2209,Parent,13055880,2209,NA,1,Aylmers Valley Stream
+162,ECAN-00084,SQ30782,Kaituna Stream Kaituna Valley Road,YES,Lowland,Rural,Monthly,Monthly,Canterbury,Environment Canterbury Regional Council,South,42,Parent,13057593,42,NA,1,Ellesmere/Waihora Catchment
+163,ECAN-00085,SQ30878,LII Stream Pannetts Rd bridge,YES,Lowland,Rural,Monthly,Monthly,Canterbury,Environment Canterbury Regional Council,South,42,Parent,13057593,42,NA,1,Ellesmere/Waihora Catchment
+164,ECAN-00086,SQ30916,Selwyn River Coes Ford,YES,Lowland,Rural,Monthly,Monthly,Canterbury,Environment Canterbury Regional Council,South,42,Parent,13057593,42,NA,1,Ellesmere/Waihora Catchment
+165,ECAN-00088,SQ30928,Selwyn River Whitecliffs recorder,YES,Upland,Rural,Quarterly,Quarterly,Canterbury,Environment Canterbury Regional Council,South,42,Parent,13057593,42,NA,1,Ellesmere/Waihora Catchment
+166,ECAN-00151,SQ30945,Waireka River (Waianiwaniwa R) Auchenflower Rd,YES,Upland,Rural,Quarterly,Quarterly,Canterbury,Environment Canterbury Regional Council,South,42,Parent,13057593,42,NA,1,Ellesmere/Waihora Catchment
+167,ECAN-00091,SQ30976,Boggy Creek Lake Road,YES,Lowland,Rural,Quarterly,Quarterly,Canterbury,Environment Canterbury Regional Council,South,186,Parent,13057386,186,NA,1,Southern Ellesmere Stream
+168,ECAN-00092,SQ30977,Doyleston Drain Lake Rd,YES,Lowland,Rural,Quarterly,Quarterly,Canterbury,Environment Canterbury Regional Council,South,186,Parent,13057386,186,NA,1,Southern Ellesmere Stream
+169,ECAN-00093,SQ30992,Harts Creek Lower Lake Rd,YES,Lowland,Rural,Monthly,Monthly,Canterbury,Environment Canterbury Regional Council,South,186,Parent,13057386,186,NA,1,Southern Ellesmere Stream
+170,ECAN-00094,SQ31018,Rakaia River SH1- north chanel,YES,Lowland,Rural,Quarterly,Quarterly,Canterbury,Environment Canterbury Regional Council,South,30,Parent,13058454,30,NA,1,Rakaia River
+171,ECAN-00095,SQ31020,Rakaia River Gorge,YES,Upland,Rural,Quarterly,Quarterly,Canterbury,Environment Canterbury Regional Council,South,30,Parent,13058454,30,NA,1,Rakaia River
+172,ECAN-00152,SQ32732,French Farm Stream French Farm Valley Road,YES,Lowland,Rural,Quarterly,Quarterly,Canterbury,Environment Canterbury Regional Council,South,1487,Parent,13054579,1487,NA,1,French Farm Stream
+173,ECAN-00097,SQ32872,Halswell River McCartneys bridge,YES,Lowland,Rural,Monthly,Monthly,Canterbury,Environment Canterbury Regional Council,South,42,Parent,13057593,42,NA,1,Ellesmere/Waihora Catchment
+174,ECAN-00100,SQ33055,Okuti River Kinloch Road Bridge,YES,Lowland,Rural,Quarterly,Quarterly,Canterbury,Environment Canterbury Regional Council,South,408,Parent,13056578,408,NA,1,Okuti & Okana Streams
+175,ECAN-00101,SQ33056,Okana River SH75,YES,Lowland,Rural,Monthly,Monthly,Canterbury,Environment Canterbury Regional Council,South,408,Parent,13056578,408,NA,1,Okuti & Okana Streams
+176,ECAN-00153,SQ33148,Conway River Inland Road,YES,Upland,Rural,Quarterly,Quarterly,Canterbury,Environment Canterbury Regional Council,South,178,Parent,13014983,178,NA,1,Conway River
+177,ECAN-00102,SQ33270,Kowhai River SH1,YES,Lowland,Rural,Quarterly,Quarterly,Canterbury,Environment Canterbury Regional Council,South,463,Parent,13009676,463,NA,1,Kowhai River
+178,ECAN-00103,SQ33273,Lyell Creek SH1,YES,Lowland,Urban,Quarterly,Quarterly,Canterbury,Environment Canterbury Regional Council,South,1038,Parent,13009368,1038,NA,1,Lyell Creek
+179,ECAN-00176,SQ33274,Lyell Creek Mill Road,YES,Lowland,Rural,Quarterly,Quarterly,Canterbury,Environment Canterbury Regional Council,South,1038,Parent,13009368,1038,NA,1,Lyell Creek
+180,ECAN-00154,SQ33899,Okarahia stream SH1,YES,Lowland,Natural,Quarterly,Quarterly,Canterbury,Environment Canterbury Regional Council,South,1122,Parent,13013746,1122,NA,1,Okarahia Stream
+181,ECAN-00104,SQ33962,Waipara River Laidmore Rd,YES,Upland,Rural,Quarterly,Quarterly,Canterbury,Environment Canterbury Regional Council,South,133,Parent,13033329,133,NA,1,Waipara River
+182,ECAN-00106,SQ34191,Taranaki Creek Preeces Rd,YES,Lowland,Rural,Quarterly,Quarterly,Canterbury,Environment Canterbury Regional Council,South,708,Parent,13037829,708,NA,1,Lower Waipara Catchment
+183,ECAN-00107,SQ34412,Warren Creek Rorrisons Road,YES,Lowland,Rural,Quarterly,Quarterly,Canterbury,Environment Canterbury Regional Council,South,1038,Parent,13009368,1038,NA,1,Lyell Creek
+184,ECAN-00172,SQ34417,Pahau River Dalzell's Bridge,YES,Lowland,Rural,Monthly,Monthly,Canterbury,Environment Canterbury Regional Council,South,31,Parent,13024355,31,NA,1,Hurunui River
+185,ECAN-00173,SQ34418,Dry Stream Above Hurunui Conf. NW of Pylons,YES,Lowland,Rural,Monthly,Monthly,Canterbury,Environment Canterbury Regional Council,South,31,Parent,13024355,31,NA,1,Hurunui River
+186,ECAN-00109,SQ34538,Lee River Bridge on Brooklands Farm,YES,Lowland,Rural,Quarterly,Quarterly,Canterbury,Environment Canterbury Regional Council,South,952,Parent,13058011,952,NA,1,Lee
+187,ECAN-00110,SQ34540,Waikewai Creek Gullivers Rd,YES,Lowland,Rural,Quarterly,Quarterly,Canterbury,Environment Canterbury Regional Council,South,456,Parent,13057548,456,NA,1,Waikekewai
+188,ECAN-00111,SQ34557,Middle Creek Beach Rd,YES,Lowland,Rural,Quarterly,Quarterly,Canterbury,Environment Canterbury Regional Council,South,831,Parent,13008564,831,NA,1,Middle Creek
+189,ECAN-00155,SQ34569,Te Wharau Stream Charteris Bay Road,YES,Lowland,Urban,Quarterly,Quarterly,Canterbury,Environment Canterbury Regional Council,South,1251,Parent,13050285,1251,NA,1,Te Whareau
+190,ECAN-00112,SQ34580,Hawkins River Deans Road,YES,Upland,Rural,Quarterly,Quarterly,Canterbury,Environment Canterbury Regional Council,South,42,Parent,13057593,42,NA,1,Ellesmere/Waihora Catchment
+191,ECAN-00135,SQ34626,Living Springs Stream Governors Bay-Teddington Rd,YES,Lowland,Rural,Quarterly,Quarterly,Canterbury,Environment Canterbury Regional Council,South,4109,Parent,13049890,4109,NA,1,Living Springs
+192,ECAN-00113,SQ34646,Saltwater Creek Factory Rd,YES,Lowland,Rural,Quarterly,Quarterly,Canterbury,Environment Canterbury Regional Council,South,449,Parent,13037218,449,NA,1,Saltwater Creek
+193,ECAN-00114,SQ34704,Waiau River Leslie Hills Road,YES,Upland,Rural,Quarterly,Quarterly,Canterbury,Environment Canterbury Regional Council,South,23,Parent,13020018,23,NA,1,Waiau River (South Is)
+194,ECAN-00115,SQ34705,Waiau River at Waiau,YES,Lowland,Rural,Quarterly,Quarterly,Canterbury,Environment Canterbury Regional Council,South,23,Parent,13020018,23,NA,1,Waiau River (South Is)
+195,ECAN-00116,SQ34706,Waiau River SH1,YES,Lowland,Rural,Quarterly,Quarterly,Canterbury,Environment Canterbury Regional Council,South,23,Parent,13020018,23,NA,1,Waiau River (South Is)
+196,ECAN-00136,SQ34711,Conway River SH1,YES,Lowland,Rural,Quarterly,Quarterly,Canterbury,Environment Canterbury Regional Council,South,178,Parent,13014983,178,NA,1,Conway River
+197,ECAN-00137,SQ34865,Waitohi River 1.6km Upstream Hurunui Confluence,YES,Upland,Exotic,Monthly,Monthly,Canterbury,Environment Canterbury Regional Council,South,31,Parent,13024355,31,NA,1,Hurunui River
+198,ECAN-00138,SQ34866,St Leonards Drain Dalzells Farm,YES,Lowland,Rural,Monthly,Monthly,Canterbury,Environment Canterbury Regional Council,South,31,Parent,13024355,31,NA,1,Hurunui River
+199,ECAN-00139,SQ34869,Mason River SH70,YES,Upland,Rural,,,Canterbury,Environment Canterbury Regional Council,South,23,Parent,13020018,23,NA,1,Waiau River (South Is)
+200,ECAN-00140,SQ34884,Zephyr Stream Above Governors Bay Rd,YES,Lowland,Natural,Quarterly,Quarterly,Canterbury,Environment Canterbury Regional Council,South,3464,Parent,13049268,3464,NA,1,Zephyr Stream
+201,ECAN-00141,SQ34903,North Brook Upstream side of Bridge Marsh Rd,YES,Lowland,Rural,Quarterly,Quarterly,Canterbury,Environment Canterbury Regional Council,South,17,Parent,13070003,17,NA,1,Waimakariri River
+202,ECAN-00189,SQ34905,Cam River Marsh Rd bridge,YES,Lowland,Rural,Quarterly,Quarterly,Canterbury,Environment Canterbury Regional Council,South,17,Parent,13070003,17,NA,1,Waimakariri River
+203,ECAN-00168,SQ35080,Ashburton River Above mouth via north bank,YES,Lowland,Rural,Quarterly,Quarterly,Canterbury,Environment Canterbury Regional Council,South,51,Parent,13061477,51,NA,1,Ashburton River
+204,ECAN-00185,SQ35119,Twizel River - Lower Below Black Stilt Station,YES,Upland,Rural,,Monthly,Canterbury,Environment Canterbury Regional Council,South,3,Parent,13524507,3,NA,1,Upper and Lower Waitaki Catchment
+205,ECAN-00156,SQ35156,Wainui Stream upstream from Wainui Main Rd Bridge,YES,Lowland,Rural,Quarterly,Quarterly,Canterbury,Environment Canterbury Regional Council,South,1306,Parent,13056104,1306,NA,1,Wainui Stream
+206,ECAN-00157,SQ35157,Takamatua Stream Above Highway Bridge,YES,Lowland,Rural,Quarterly,Quarterly,Canterbury,Environment Canterbury Regional Council,South,1158,Parent,13054679,1158,NA,1,Takamatua Stream
+207,ECAN-00160,SQ35172,Kahutara River Dairy Farm Rd,YES,Lowland,Rural,Quarterly,Quarterly,Canterbury,Environment Canterbury Regional Council,South,291,Parent,13010305,291,NA,1,Kahutara River
+208,ECAN-00161,SQ35173,Blue Duck Creek Above SH1,YES,Lowland,Natural,Quarterly,Quarterly,Canterbury,Environment Canterbury Regional Council,South,2030,Parent,13006067,2030,NA,1,Blue Duck Creek
+209,ECAN-00162,SQ35174,Hapuku River SH1,YES,Lowland,Rural,Quarterly,Quarterly,Canterbury,Environment Canterbury Regional Council,South,379,Parent,13007509,379,NA,1,Hapuka River
+210,ECAN-00163,SQ35234,"Barrys Bay Stream, Barrys Bay Valley Rd",YES,Lowland,Rural,Quarterly,Quarterly,Canterbury,Environment Canterbury Regional Council,South,1254,Parent,13053930,1254,NA,1,Barry's Bay Stream
+211,ECAN-00164,SQ35235,Pawsons Stream Pawsons Valley Road,YES,Lowland,Rural,Quarterly,Quarterly,Canterbury,Environment Canterbury Regional Council,South,1587,Parent,13053325,1587,NA,1,Pawsons
+212,ECAN-00190,SQ35236,Purau Stream Above Main Road Bridge,YES,Lowland,Urban,Quarterly,Quarterly,Canterbury,Environment Canterbury Regional Council,South,1058,Parent,13049826,1058,NA,1,Purau Stream
+213,ECAN-00191,SQ35545,Teddington Stream Blatchford property,YES,Lowland,Rural,Quarterly,Quarterly,Canterbury,Environment Canterbury Regional Council,South,1525,Parent,13050705,1525,NA,1,Duck Creek
+214,ECAN-00186,SQ35792,Quailburn Quailburn Road,YES,Upland,Rural,,Monthly,Canterbury,Environment Canterbury Regional Council,South,3,Parent,13524507,3,NA,1,Upper and Lower Waitaki Catchment
+215,ECAN-00192,SQ35818,Clarence River over Jacks Pass,YES,Upland,Rural,Quarterly,Quarterly,Canterbury,Environment Canterbury Regional Council,South,24,Parent,13003220,24,NA,1,Clarence River
+216,CCC-00001,,Wairarapa Stream,YES,Lowland,Urban,Monthly,Monthly,Canterbury,Christchurch,South,337,Parent,13046167,337,NA,1,Avon River
+217,CCC-00002,,Waimairi Stream,YES,Lowland,Urban,Monthly,Monthly,Canterbury,Christchurch,South,337,Parent,13046167,337,NA,1,Avon River
+218,CCC-00003,,Avon River at Mona Vale,YES,Lowland,Urban,Monthly,Monthly,Canterbury,Christchurch,South,337,Parent,13046167,337,NA,1,Avon River
+219,CCC-00004,,Avon River at Carlton Mill Corner,YES,Lowland,Urban,Monthly,Monthly,Canterbury,Christchurch,South,337,Parent,13046167,337,NA,1,Avon River
+220,CCC-00005,,Riccarton Main Drain,YES,Lowland,Urban,Monthly,Monthly,Canterbury,Christchurch,South,337,Parent,13046167,337,NA,1,Avon River
+221,CCC-00006,,Addington Brook,YES,Lowland,Urban,Monthly,Monthly,Canterbury,Christchurch,South,337,Parent,13046167,337,NA,1,Avon River
+222,CCC-00007,,Avon River at Manchester Street,YES,Lowland,Urban,Monthly,Monthly,Canterbury,Christchurch,South,337,Parent,13046167,337,NA,1,Avon River
+223,CCC-00008,,Dudley Creek,YES,Lowland,Urban,Monthly,Monthly,Canterbury,Christchurch,South,337,Parent,13046167,337,NA,1,Avon River
+224,CCC-00009,,Avon River at Dallington Terrace/Gayhurst Road,YES,Lowland,Urban,Monthly,Monthly,Canterbury,Christchurch,South,337,Parent,13046167,337,NA,1,Avon River
+225,CCC-00010,,Horseshoe Lake Discharge,YES,Lowland,Urban,Monthly,Monthly,Canterbury,Christchurch,South,337,Parent,13046167,337,NA,1,Avon River
+226,CCC-00011,,Avon River at Avondale Road Bridge,YES,Lowland,Urban,Monthly,Monthly,Canterbury,Christchurch,South,337,Parent,13046167,337,NA,1,Avon River
+227,CCC-00012,,Avon River at Pages/Seaview Bridge,YES,Lowland,Urban,Monthly,Monthly,Canterbury,Christchurch,South,337,Parent,13046167,337,NA,1,Avon River
+228,CCC-00013,,Avon River at Bridge Street,YES,Lowland,Urban,Monthly,Monthly,Canterbury,Christchurch,South,337,Parent,13046167,337,NA,1,Avon River
+229,CCC-00014,,Heathcote River at Templetons Road,YES,Lowland,Urban,Monthly,Monthly,Canterbury,Christchurch,South,409,Parent,13047241,409,NA,1,Heathcote River
+230,CCC-00015,,Haytons Stream at Retention Basin,YES,Lowland,Urban,Monthly,Monthly,Canterbury,Christchurch,South,409,Parent,13047241,409,NA,1,Heathcote River
+231,CCC-00016,,Curletts Road Stream Upstream of Heathcote River,YES,Lowland,Urban,Monthly,Monthly,Canterbury,Christchurch,South,409,Parent,13047241,409,NA,1,Heathcote River
+232,CCC-00017,,Curletts Road Stream at Motorway,YES,Lowland,Urban,Monthly,Monthly,Canterbury,Christchurch,South,409,Parent,13047241,409,NA,1,Heathcote River
+233,CCC-00018,,Heathcote River at Rose Street,YES,Lowland,Urban,Monthly,Monthly,Canterbury,Christchurch,South,409,Parent,13047241,409,NA,1,Heathcote River
+234,CCC-00019,,Cashmere Stream at Sutherlands Road,YES,Lowland,Rural,Monthly,Monthly,Canterbury,Christchurch,South,409,Parent,13047241,409,NA,1,Heathcote River
+235,CCC-00020,,Cashmere Stream at Worsleys Road,YES,Lowland,Urban,Monthly,Monthly,Canterbury,Christchurch,South,409,Parent,13047241,409,NA,1,Heathcote River
+236,CCC-00021,,Heathcote River at Ferniehurst Street,YES,Lowland,Urban,Monthly,Monthly,Canterbury,Christchurch,South,409,Parent,13047241,409,NA,1,Heathcote River
+237,CCC-00022,,Heathcote River at Bowenvale Avenue,YES,Lowland,Urban,Monthly,Monthly,Canterbury,Christchurch,South,409,Parent,13047241,409,NA,1,Heathcote River
+238,CCC-00023,,Heathcote River at Opawa Road/Clarendon Terrace,YES,Lowland,Urban,Monthly,Monthly,Canterbury,Christchurch,South,409,Parent,13047241,409,NA,1,Heathcote River
+239,CCC-00024,,Heathcote River at MacKenzie Avenue,YES,Lowland,Urban,Monthly,Monthly,Canterbury,Christchurch,South,409,Parent,13047241,409,NA,1,Heathcote River
+240,CCC-00026,,Heathcote River at Tunnel Road,YES,Lowland,Urban,Monthly,Monthly,Canterbury,Christchurch,South,409,Parent,13047241,409,NA,1,Heathcote River
+241,CCC-00027,,Heathcote River at Ferrymead Bridge,YES,Lowland,Urban,Monthly,Monthly,Canterbury,Christchurch,South,409,Parent,13047241,409,NA,1,Heathcote River
+242,CCC-00028,,Smacks Creek at Gardiners Road,YES,Lowland,Urban,Monthly,Monthly,Canterbury,Christchurch,South,17,Parent,13070003,17,NA,1,Waimakariri River
+243,CCC-00029,,Styx River at Gardiners Road,YES,Lowland,Rural,Monthly,Monthly,Canterbury,Christchurch,South,17,Parent,13070003,17,NA,1,Waimakariri River
+244,CCC-00030,,Styx River at Main North Road,YES,Lowland,Urban,Monthly,Monthly,Canterbury,Christchurch,South,17,Parent,13070003,17,NA,1,Waimakariri River
+245,CCC-00031,,Kaputone Creek at Blakes Road,YES,Lowland,Rural,Monthly,Monthly,Canterbury,Christchurch,South,17,Parent,13070003,17,NA,1,Waimakariri River
+246,CCC-00032,SQ30305,Kaputone Creek at Belfast Road,YES,Lowland,Rural,Monthly,Monthly,Canterbury,Christchurch,South,17,Parent,13070003,17,NA,1,Waimakariri River
+247,CCC-00033,,Styx River at Marshland Road Bridge,YES,Lowland,Urban,Monthly,Monthly,Canterbury,Christchurch,South,17,Parent,13070003,17,NA,1,Waimakariri River
+248,CCC-00034,,Styx River at Richards Bridge,YES,Lowland,Rural,Monthly,Monthly,Canterbury,Christchurch,South,17,Parent,13070003,17,NA,1,Waimakariri River
+249,CCC-00035,,Styx River at Harbour Road Bridge,YES,Lowland,Rural,Monthly,Monthly,Canterbury,Christchurch,South,17,Parent,13070003,17,NA,1,Waimakariri River
+250,CCC-00036,,Nottingham Stream at Candys Road,YES,Lowland,Rural,Monthly,Monthly,Canterbury,Christchurch,South,409,Parent,13047241,409,NA,1,Heathcote River
+251,CCC-00037,,Knights Stream at Sabys Road,YES,Lowland,Rural,Monthly,Monthly,Canterbury,Christchurch,South,42,Parent,13057593,42,NA,1,Ellesmere/Waihora Catchment
+252,CCC-00038,,Halswell River at Akaroa Highway (Tai Tapu Road),YES,Lowland,Rural,Monthly,Monthly,Canterbury,Christchurch,South,42,Parent,13057593,42,NA,1,Ellesmere/Waihora Catchment
+253,CCC-00039,,Otukaikino River at Groynes Inlet,YES,Lowland,Urban,Monthly,Monthly,Canterbury,Christchurch,South,17,Parent,13070003,17,NA,1,Waimakariri River
+254,CCC-00040,,Wilsons Stream,YES,Lowland,Rural,Monthly,Monthly,Canterbury,Christchurch,South,17,Parent,13070003,17,NA,1,Waimakariri River
+255,CCC-00041,,Linwood Canal/City Outfall Drain,YES,Lowland,Urban,Monthly,Monthly,Canterbury,Christchurch,South,1811,Parent,13046651,1811,NA,1,City Outfall
+256,CCC-00042,,Otukaikino Creek at Omaka Scout Camp,YES,Lowland,Rural,Monthly,Monthly,Canterbury,Christchurch,South,17,Parent,13070003,17,NA,1,Waimakariri River
+257,ECAN-10005,SQ34906,Heathcote River at Catherine St,YES,Lowland,Urban,Monthly,Monthly,Canterbury,Environment Canterbury Regional Council,South,409,Parent,13047241,409,NA,1,Heathcote River
+258,ECAN-10026,SQ20203,Orari River Gorge,YES,Upland,Rural,,Monthly,Canterbury,Environment Canterbury Regional Council,South,135,Parent,13064483,135,NA,1,Orari River
+259,ECAN-00180,SQ20450,Pareora River SH1,YES,Lowland,Rural,,Quarterly,Canterbury,Environment Canterbury Regional Council,South,164,Parent,13066928,164,NA,1,Paeora River
+260,ECAN-00184,SQ20785,Tekapo River Steel Bridge,YES,Upland,Rural,,Monthly,Canterbury,Environment Canterbury Regional Council,South,3,Parent,13524507,3,NA,1,Upper and Lower Waitaki Catchment
+261,ECAN-00054,SQ21160,Waikakahi Stream Cock %26 Hen Road,YES,Lowland,Rural,Quarterly,Monthly,Canterbury,Environment Canterbury Regional Council,South,3,Parent,13524507,3,NA,1,Upper and Lower Waitaki Catchment
+262,ECAN-00194,SQ26242,Parakanoi Drain Lower Beach Road,YES,Lowland,Rural,,Monthly,Canterbury,Environment Canterbury Regional Council,South,321,Parent,13062020,321,NA,1,Parakanoi Drain
+263,ECAN-00132,SQ30065,Hurunui River at at SH7,YES,Upland,Rural,Quarterly,Quarterly,Canterbury,Environment Canterbury Regional Council,South,31,Parent,13024355,31,NA,1,Hurunui River
+264,ECAN-00193,SQ35798,Hinds River Lower Beach Road,YES,Lowland,Exotic,,Monthly,Canterbury,Environment Canterbury Regional Council,South,199,Parent,13062422,199,NA,1,Hinds River
+265,ECAN-00195,SQ35800,Clarence River above river mouth,YES,Lowland,Rural,,Quarterly,Canterbury,Environment Canterbury Regional Council,South,24,Parent,13003220,24,NA,1,Clarence River
+266,ECAN-00188,SQ35871,Otekaieke River Special School Road,YES,Upland,Rural,,Monthly,Canterbury,Environment Canterbury Regional Council,South,3,Parent,13524507,3,NA,1,Upper and Lower Waitaki Catchment
+267,ECAN-00174,SQ35872,Mandamus River Tekoa Road,YES,Upland,Rural,,Monthly,Canterbury,Environment Canterbury Regional Council,South,31,Parent,13024355,31,NA,1,Hurunui River
+268,ECAN-00169,SQ35873,South Ashburton River Quarry Road,YES,Upland,Rural,,Monthly,Canterbury,Environment Canterbury Regional Council,South,51,Parent,13061477,51,NA,1,Ashburton River
+269,ECAN-00170,SQ35874,Gentleman Smith Stream Hakatere-Heron Road,YES,Upland,Rural,,Monthly,Canterbury,Environment Canterbury Regional Council,South,51,Parent,13061477,51,NA,1,Ashburton River
+270,ECAN-00171,SQ35875,Lambies Stream Ashburton Gorge Road,YES,Upland,Rural,,Monthly,Canterbury,Environment Canterbury Regional Council,South,51,Parent,13061477,51,NA,1,Ashburton River
+271,ECAN-00187,SQ35876,Ahuriri River Ben Omar,YES,Upland,Rural,,Monthly,Canterbury,Environment Canterbury Regional Council,South,3,Parent,13524507,3,NA,1,Upper and Lower Waitaki Catchment
+272,ES-00072,Aparima River at Thornbury,Aparima River at Thornbury,Yes,Lowland,Rural,Monthly,Monthly,Southland,ES,South,55,Parent,15059243,1000055,NA,1,Aparima River
+273,ES-00112,Oreti River at Wallacetown,Oreti River at Wallacetown,Yes,Lowland,Rural,Monthly,Monthly,Southland,ES,South,20,Parent,15060885,20,NA,1,Oreti River
+274,ES-00121,Waiau River at Sunnyside,Waiau River at Sunnyside,Yes,Lowland,Native,Monthly,Monthly,Southland,ES,South,4,Parent,15054970,4,NA,1,Waiau River
+275,ES-00130,Waimea Stream at Mandeville,Waimea Stream at Mandeville,Yes,Lowland,Rural,Monthly,Monthly,Southland,ES,South,11,Parent,15062310,11,NA,1,Mataura River
+276,ES-00135,Waituna Creek at Marshall Road,Waituna Creek at Marshall Road,Yes,Lowland,Rural,Monthly,Monthly,Southland,ES,South,375,Parent,15062561,375,NA,1,Waituna Creek
+277,ES-00004,Aparima River at Dunrobin,Aparima River at Dunrobin,Yes,Upland,Native,Monthly,Monthly,Southland,ES,South,55,Parent,15059243,1000055,NA,1,Aparima River
+278,ES-00013,Irthing Stream at Ellis Road,Irthing Stream at Ellis Road,Yes,Upland,Rural,Monthly,Monthly,Southland,ES,South,20,Parent,15060885,20,NA,1,Oreti River
+279,ES-00037,Mataura River at Gore,Mataura River at Gore,Yes,Lowland,Urban,Monthly,Monthly,Southland,ES,South,11,Parent,15062310,11,NA,1,Mataura River
+280,ES-00024,Mataura River at Parawa,Mataura River at Parawa,Yes,Upland,Rural,Monthly,Monthly,Southland,ES,South,11,Parent,15062310,11,NA,1,Mataura River
+281,ES-00061,Orauea River at Orawia Pukemaori Road,Orauea River at Orawia Pukemaori Road,Yes,Lowland,Rural,Monthly,Monthly,Southland,ES,South,4,Parent,15054970,4,NA,1,Waiau River
+282,ES-00009,Oreti River at Three Kings,Oreti River at Three Kings,Yes,Upland,Rural,Monthly,Monthly,Southland,ES,South,20,Parent,15060885,20,NA,1,Oreti River
+283,ES-00046,Otapiri Stream at Otapiri Gorge,Otapiri Stream at Otapiri Gorge,Yes,Lowland,Rural,Monthly,Monthly,Southland,ES,South,20,Parent,15060885,20,NA,1,Oreti River
+284,ES-00048,Bog Burn d/s Hundred Line Road,Bog Burn d/s Hundred Line Road,Yes,Lowland,Rural,Monthly,Monthly,Southland,ES,South,20,Parent,15060885,20,NA,1,Oreti River
+285,ES-00057,Carran Creek at Waituna Lagoon Road,Carran Creek at Waituna Lagoon Road,Yes,Lowland,Rural,Monthly,Monthly,Southland,ES,South,375,Parent,15062561,375,NA,1,Waituna Creek
+286,ES-00006,Cascade Stream at Pourakino Valley Road,Cascade Stream at Pourakino Valley Road,Yes,Lowland,Native,Monthly,Monthly,Southland,ES,South,281,Sub,1505909,281,NA,1,Pourakino River
+287,ES-00012,Cromel Stream at Selbie Road,Cromel Stream at Selbie Road,Yes,Upland,Native,Monthly,Monthly,Southland,ES,South,20,Parent,15060885,20,NA,1,Oreti River
+288,ES-00163,Dipton Stream at South Hillend-Dipton Rd,Dipton Stream at South Hillend-Dipton Rd,Yes,Lowland,Rural,Monthly,Monthly,Southland,ES,South,20,Parent,15060885,20,NA,1,Oreti River
+289,ES-00016,Dunsdale Stream at Dunsdale Reserve,Dunsdale Stream at Dunsdale Reserve,Yes,Lowland,Native,Monthly,Monthly,Southland,ES,South,20,Parent,15060885,20,NA,1,Oreti River
+290,ES-00164,Hamilton Burn at Affleck Road,Hamilton Burn at Affleck Road,Yes,Upland,Rural,Monthly,Monthly,Southland,ES,South,55,Parent,15059243,1000055,NA,1,Aparima River
+291,ES-00165,Hedgehope Stream 20m u/s Makarewa Confl,Hedgehope Stream 20m u/s Makarewa Confl,Yes,Lowland,Rural,Monthly,Monthly,Southland,ES,South,20,Parent,15060885,20,NA,1,Oreti River
+292,ES-00166,Lill Burn at Lill Burn-Monowai Road,Lill Burn at Lill Burn-Monowai Road,Yes,Lowland,Native,Monthly,Monthly,Southland,ES,South,4,Parent,15054970,4,NA,1,Waiau River
+293,ES-00065,Longridge Stream at Sandstone,Longridge Stream at Sandstone,Yes,Upland,Rural,Monthly,Monthly,Southland,ES,South,11,Parent,15062310,11,NA,1,Mataura River
+294,ES-00047,Makarewa River at Lora Gorge Road,Makarewa River at Lora Gorge Road,Yes,Lowland,Rural,Monthly,Monthly,Southland,ES,South,20,Parent,15060885,20,NA,1,Oreti River
+295,ES-00015,Makarewa River at Wallacetown,Makarewa River at Wallacetown,Yes,Lowland,Rural,Monthly,Monthly,Southland,ES,South,20,Parent,15060885,20,NA,1,Oreti River
+296,ES-00003,Mararoa River at South Mavora Lake,Mararoa River at South Mavora Lake,Yes,Upland,Native,Monthly,Monthly,Southland,ES,South,4,Parent,15054970,4,NA,1,Waiau River
+297,ES-00045,Mararoa River at The Key,Mararoa River at The Key,Yes,Upland,Rural,Monthly,Monthly,Southland,ES,South,4,Parent,15054970,4,NA,1,Waiau River
+298,ES-00002,Mararoa River at Weir Road,Mararoa River at Weir Road,Yes,Upland,Rural,Monthly,Monthly,Southland,ES,South,4,Parent,15054970,4,NA,1,Waiau River
+299,ES-00022,Mataura River 200m d/s Mataura Bridge,Mataura River 200m d/s Mataura Bridge,Yes,Lowland,Rural,Monthly,Monthly,Southland,ES,South,11,Parent,15062310,11,NA,1,Mataura River
+300,ES-00021,Mataura River at Mataura Island Bridge,Mataura River at Mataura Island Bridge,Yes,Lowland,Rural,Monthly,Monthly,Southland,ES,South,11,Parent,15062310,11,NA,1,Mataura River
+301,ES-00029,Mimihau Stream Tributary at Venlaw Forest,Mimihau Stream Tributary at Venlaw Forest,Yes,Upland,Rural,Monthly,Monthly,Southland,ES,South,11,Parent,15062310,11,NA,1,Mataura River
+302,ES-00044,Mimihau Stream at Wyndham,Mimihau Stream at Wyndham,Yes,Lowland,Rural,Monthly,Monthly,Southland,ES,South,11,Parent,15062310,11,NA,1,Mataura River
+303,ES-00028,Mokoreta River at Wyndham River Road,Mokoreta River at Wyndham River Road,Yes,Lowland,Rural,Monthly,Monthly,Southland,ES,South,11,Parent,15062310,11,NA,1,Mataura River
+304,ES-00054,Mokotua Stream at Awarua,Mokotua Stream at Awarua,Yes,Lowland,Rural,Monthly,Monthly,Southland,ES,South,522,Parent,15061463,522,NA,1,Mokotua Stream
+305,ES-00067,North Peak Stream at Waimea Valley Road,North Peak Stream at Waimea Valley Road,Yes,Lowland,Rural,Monthly,Monthly,Southland,ES,South,11,Parent,15062310,11,NA,1,Mataura River
+306,ES-00052,Opouriki Stream at Tweedie Road,Opouriki Stream at Tweedie Road,Yes,Lowland,Rural,Monthly,Monthly,Southland,ES,South,281,Sub,1505909,281,NA,1,Pourakino River
+307,ES-00011,Oreti River at Lumsden Bridge,Oreti River at Lumsden Bridge,Yes,Upland,Rural,Monthly,Monthly,Southland,ES,South,20,Parent,15060885,20,NA,1,Oreti River
+308,ES-00030,Otamita Stream at Mandeville,Otamita Stream at Mandeville,Yes,Lowland,Rural,Monthly,Monthly,Southland,ES,South,11,Parent,15062310,11,NA,1,Mataura River
+309,ES-00008,Otautau Stream at Otautau-Tuatapere Road,Otautau Stream at Otautau-Tuatapere Road,Yes,Lowland,Rural,Monthly,Monthly,Southland,ES,South,55,Parent,15059243,1000055,NA,1,Aparima River
+310,ES-00053,Otautau Stream at Waikouro,Otautau Stream at Waikouro,Yes,Lowland,Rural,Monthly,Monthly,Southland,ES,South,55,Parent,15059243,1000055,NA,1,Aparima River
+311,ES-00019,Otepuni Creek at Nith Street,Otepuni Creek at Nith Street,Yes,Lowland,Urban,Monthly,Monthly,Southland,ES,South,297,Parent,15060158,1000297,NA,1,Otepuni Stream
+312,ES-00036,Oteramika Stream at Seaward Downs,Oteramika Stream at Seaward Downs,Yes,Lowland,Rural,Monthly,Monthly,Southland,ES,South,11,Parent,15062310,11,NA,1,Mataura River
+313,ES-00051,Pourakino River at Traill Road,Pourakino River at Traill Road,Yes,Lowland,Native,Monthly,Monthly,Southland,ES,South,281,Sub,1505909,281,NA,1,Pourakino River
+314,ES-00068,Sandstone Stream at Kingston Crossing Rd,Sandstone Stream at Kingston Crossing Rd,Yes,Lowland,Rural,Monthly,Monthly,Southland,ES,South,11,Parent,15062310,11,NA,1,Mataura River
+315,ES-00064,Tokanui River at Fortrose Otara Road,Tokanui River at Fortrose Otara Road,Yes,Lowland,Rural,Monthly,Monthly,Southland,ES,South,467,Parent,15062924,467,NA,1,Tokanui River
+316,ES-00049,Tussock Creek at Cooper Road,Tussock Creek at Cooper Road,Yes,Lowland,Rural,Monthly,Monthly,Southland,ES,South,20,Parent,15060885,20,NA,1,Oreti River
+317,ES-00043,Upukerora River at Te Anau Milford Road,Upukerora River at Te Anau Milford Road,Yes,Upland,Native,Monthly,Monthly,Southland,ES,South,4,Parent,15054970,4,NA,1,Waiau River
+318,ES-00001,Waiau River at Tuatapere,Waiau River at Tuatapere,Yes,Lowland,Rural,Monthly,Monthly,Southland,ES,South,4,Parent,15054970,4,NA,1,Waiau River
+319,ES-00018,Waihopai River u/s Queens Drive,Waihopai River u/s Queens Drive,Yes,Lowland,Rural,Monthly,Monthly,Southland,ES,South,297,Parent,15060158,297,NA,1,Waihopai Stream
+320,ES-00042,Waikaia River at Waikaia,Waikaia River at Waikaia,Yes,Upland,Rural,Monthly,Monthly,Southland,ES,South,11,Parent,15062310,11,NA,1,Mataura River
+321,ES-00025,Waikaia River at Waipounamu Bridge Road,Waikaia River at Waipounamu Bridge Road,Yes,Lowland,Rural,Monthly,Monthly,Southland,ES,South,11,Parent,15062310,11,NA,1,Mataura River
+322,ES-00026,Waikaia River u/s Piano Flat,Waikaia River u/s Piano Flat,Yes,Upland,Rural,Monthly,Monthly,Southland,ES,South,11,Parent,15062310,11,NA,1,Mataura River
+323,ES-00027,Waikaka Stream at Gore,Waikaka Stream at Gore,Yes,Lowland,Rural,Monthly,Monthly,Southland,ES,South,11,Parent,15062310,11,NA,1,Mataura River
+324,ES-00034,Waikawa River at Progress Valley,Waikawa River at Progress Valley,Yes,Lowland,Rural,Monthly,Monthly,Southland,ES,South,307,Parent,15062598,307,NA,1,Waikawa River
+325,ES-00017,Waikiwi Stream at North Road,Waikiwi Stream at North Road,Yes,Lowland,Rural,Monthly,Monthly,Southland,ES,South,20,Parent,15060885,20,NA,1,Oreti River
+326,ES-00033,Waikopikopiko Stream at Haldane CurioBay,Waikopikopiko Stream at Haldane CurioBay,Yes,Lowland,Native,Monthly,Monthly,Southland,ES,South,553,Parent,15062857,553,NA,1,Waikopikopiko Stream
+327,ES-00035,Waimatuku Stream at Lorneville Riverton Hwy,Waimatuku Stream at Lorneville Riverton Hwy,Yes,Lowland,Rural,Monthly,Monthly,Southland,ES,South,327,Parent,15059174,327,NA,1,Waimatuku Stream
+328,ES-00167,Wairaki River ds Blackmount Road,Wairaki River ds Blackmount Road,Yes,Lowland,Rural,Monthly,Monthly,Southland,ES,South,4,Parent,15054970,4,NA,1,Waiau River
+329,ES-00062,Whitestone River d/s Manapouri-Hillside,Whitestone River d/s Manapouri-Hillside,Yes,Upland,Rural,Monthly,Monthly,Southland,ES,South,4,Parent,15054970,4,NA,1,Waiau River
+330,ES-00014,Winton Stream at Lochiel,Winton Stream at Lochiel,Yes,Lowland,Rural,Monthly,Monthly,Southland,ES,South,20,Parent,15060885,20,NA,1,Oreti River
+331,ES-00106,Moffat Creek at Moffat Road,Moffat Creek at Moffat Road,Yes,Lowland,Rural,Monthly,Monthly,Southland,ES,South,375,Parent,15062561,375,NA,1,Waituna Creek
+332,GDC-00004,Hikuwai River at Willowflat,Hikuwai River at Willowflat,TRUE,Lowland,Rural,Monthly,Bimonthly,Gisborne,GDC,North,165,Parent,5008880,165,NA,1,Uawa River
+333,GDC-00010,Mangatu River at Omapere Station,Mangatu River at Omapere Station,TRUE,Lowland,Rural,Monthly,Monthly,Gisborne,GDC,North,37,Parent,5013426,37,NA,1,Waipaoa
+334,LAWA-100348,Mata at Mata Bridge Telemetry Station,Mata at Mata Bridge,TRUE,Lowland,Exotic,Monthly,Bimonthly,Gisborne,GDC,North,53,Parent,5001810,53,NA,1,Waiapu
+335,GDC-00017,Te Arai River at Pykes Weir,Te Arai River at Pykes Weir,TRUE,Lowland,Rural,Monthly,Monthly,Gisborne,GDC,North,37,Parent,5013426,37,NA,1,Waipaoa
+336,GDC-00021,Waikohu River at Mahaki Station,Waikohu River at Mahaki Station,TRUE,Lowland,Rural,Monthly,Monthly,Gisborne,GDC,North,37,Parent,5013426,37,NA,1,Waipaoa
+337,GDC-00022,Waimata River at Goodwins Rd Bridge,Waimata River at Goodwins Rd Bridge,TRUE,Lowland,Rural,Monthly,Monthly,Gisborne,GDC,North,294,Parent,5013192,294,NA,1,Waimata River
+338,GDC-00023,Waimata River at Monowai Bridge,Waimata River at Monowai Bridge,TRUE,Lowland,Rural,Monthly,Monthly,Gisborne,GDC,North,294,Parent,5013192,294,NA,1,Waimata River
+339,GDC-00024,Waingaromia River at Terrace Station,Waingaromia River at Terrace Station,TRUE,Lowland,Rural,Monthly,Monthly,Gisborne,GDC,North,37,Parent,5013426,37,NA,1,Waipaoa
+340,GDC-00027,Waipaoa River at Kanakanaia,Waipaoa River at Kanakanaia Bridge,TRUE,Lowland,Rural,Monthly,Monthly,Gisborne,GDC,North,37,Parent,5013426,37,NA,1,Waipaoa
+341,GDC-00028,Waipaoa River at Matawhero Bridge,Waipaoa at Matawhero Bridge,TRUE,Lowland,Rural,Monthly,Monthly,Gisborne,GDC,North,37,Parent,5013426,37,NA,1,Waipaoa
+342,GDC-00030,Wharekopae River at Rangimoe,Wharekopae River at Rangimoe,TRUE,Lowland,Rural,Monthly,Monthly,Gisborne,GDC,North,37,Parent,5013426,37,NA,1,Waipaoa
+343,GDC-00006,Karakatuwhero River at SH35 Bridge 17800001,Karakatuwhero River at SH35 Bridge 17800001,TRUE,Lowland,Rural,Monthly,Bimonthly,Gisborne,GDC,North,474,Parent,5000331,474,NA,1,Karakatuwhero River
+344,GDC-00005,Ihungia River at Ihungia Rd Br 18326002,Ihungia @ Ihungia Rd Bridge,TRUE,Upland,Rural,Monthly,Bimonthly,Gisborne,GDC,North,53,Parent,5001810,53,NA,1,Waiapu
+345,GDC-00008,Mangaheia River at Paroa Road Bridge,Mangaheia River @ Paroa Rd Bridge,TRUE,Lowland,Rural,Monthly,Bimonthly,Gisborne,GDC,North,165,Parent,5008880,165,NA,1,Uawa River
+346,GDC-00009,Mangaoporo River at Tutamatai Bridge 18314003,Mangaoporo River at Tutumatai Bridge,TRUE,Lowland,Rural,Monthly,Bimonthly,Gisborne,GDC,North,53,Parent,5001810,53,NA,1,Waiapu
+348,GDC-00026,Wainui Stream at Pare Street,Wainui Stream at Pare Street,TRUE,Lowland,Rural,Monthly,Bimonthly,Gisborne,GDC,North,1753,Parent,5013341,1753,NA,1,Wainui Stream
+349,GDC-00001,Awapuni Drain Site 4 D/S Wetland Outlet at Fence Line,Awapuni Drain Site 4,TRUE,Lowland,Rural,Monthly,Bimonthly,Gisborne,GDC,North,1205,Parent,5013371,1205,NA,1,Awapuni Drain
+350,LAWA-100332,Matawai Stream at Tawai 16521512,Matawai Stream at Tawai,TRUE,Upland,Rural,Monthly,Monthly,Gisborne,GDC,North,63,Parent,4005089,63,NA,1,Motu River
+351,GDC-00031,Whakaahu Stream at Brunton Rd 19704009,Whakaahu Stream at Brunton Rd 19704009,TRUE,Lowland,Rural,Monthly,Monthly,Gisborne,GDC,North,37,Parent,5013426,37,NA,1,Waipaoa
+353,GDC-00024,Waingaromia River at Terrace Station 19722001,Waingaromia River at Terrace Station 19722001,TRUE,Lowland,Rural,Monthly,Monthly,Gisborne,GDC,North,37,Parent,5013426,37,NA,1,Waipaoa
+354,GDC-00023,Waimata River at Monowai Bridge 19600056,Waimata River at Monowai Bridge,TRUE,Lowland,Rural,Monthly,Monthly,Gisborne,GDC,North,294,Parent,5013192,294,NA,1,Waimata River
+355,GDC-00002,Awatere River at SH35 Bridge,Awatere River at SH35 Bridge,TRUE,Lowland,Rural,Monthly,Bimonthly,Gisborne,GDC,North,336,Parent,5000408,336,NA,1,Awatere River (East Cape)
+356,LAWA-100330,Motu River at Kotare Station Bridge,Motu River at Kotare,TRUE,Upland,Rural,Monthly,Monthly,Gisborne,GDC,North,63,Parent,4005089,63,NA,1,Motu River
+357,GDC-00033,Turanganui River at Gladstone Rd Bridge,Turanganui River @ Gladstone Rd Bridge,TRUE,Lowland,Urban,Monthly,Monthly,Gisborne,GDC,North,294,Parent,5013192,294,NA,1,Waimata River
+359,GDC-00003,Hikuwai River at No 4 Bridge,Hikuwai River at No 4 Bridge,TRUE,Lowland,Rural,Monthly,Bimonthly,Gisborne,GDC,North,165,Parent,5008880,165,NA,1,Uawa River
+360,GDC-00007,Kopuawhakapata Stream at Hirini St,Kopuawhakapata Stream at Hirini St,TRUE,Lowland,Urban,Monthly,Monthly,Gisborne,GDC,North,3184,Parent,5013240,3184,NA,1,Kopuawhakapapa
+361,GDC-00009,Mangaoporo River at Tutamatai Bridge,Mangaoporo River at Tutumatai Bridge,TRUE,Lowland,Rural,Monthly,Bimonthly,Gisborne,GDC,North,53,Parent,5001810,53,NA,1,Waiapu
+362,LAWA-100336,Mangatutu Str at Sh35-Waipahuru Bridge,Mangatutu Stream @ SH35,TRUE,Lowland,Rural,Monthly,Bimonthly,Gisborne,GDC,North,360,Parent,5000099,360,NA,1,Wharekahika River
+363,GDC-00011,Mata River at Aorangi (Makarika Road),Mata River at Aorangi (Makarika Road),TRUE,Lowland,Rural,Monthly,Bimonthly,Gisborne,GDC,North,53,Parent,5001810,53,NA,1,Waiapu
+364,LAWA-100332,Matawai Stream at Tawai,Matawai Stream at Tawai,TRUE,Upland,Rural,Monthly,Monthly,Gisborne,GDC,North,63,Parent,4005089,63,NA,1,Motu River
+365,GDC-00013,Oweka River at SH35 Bridge,Oweka River at SH35 Bridge,TRUE,Lowland,Rural,Monthly,Bimonthly,Gisborne,GDC,North,360,Parent,5000099,360,NA,1,Wharekahika River
+366,GDC-00015,Poroporo River at Rangitukia Rd Bridge,Poroporo River at Rangitukia,TRUE,Lowland,Rural,Monthly,Bimonthly,Gisborne,GDC,North,359,Parent,5001786,359,NA,1,Poroporo River
+367,GDC-00020,Waikanae Creek at Grey St Bridge,Waikanae Creek at Grey St Bridge,TRUE,Lowland,Urban,Monthly,Monthly,Gisborne,GDC,North,1263,Parent,5013208,1263,NA,1,Waikanae Creek
+369,GDC-00027,Waipaoa River at Kanakanaia Bridge,Waipaoa River at Kanakanaia Br,TRUE,Lowland,Rural,Monthly,M,Gisborne,GDC,North,37,Parent,5013426,37,NA,1,Waipaoa
+370,GDC-00031,Whakaahu Stream at Brunton Rd,Whakaahu Stream at Brunton Rd,TRUE,Lowland,Rural,Monthly,Monthly,Gisborne,GDC,North,37,Parent,5013426,37,NA,1,Waipaoa
+371,GDC-00029,Wharekahika River U/S Of Wharf Bridge,Wharekahika River upstream of Wharf Rd Bridge,TRUE,Lowland,Rural,Monthly,Bimonthly,Gisborne,GDC,North,360,Parent,5000099,360,NA,1,Wharekahika River
+372,GDC-00012,Motu River @ Matawai Conserv Area,Motu River at Matawai Conservation Area,TRUE,Upland,Native,Monthly,Monthly,Gisborne,GDC,North,63,Parent,4005089,63,NA,1,Motu River
+373,GDC-00014,Pakarae River at Pakarae Station Bridge,Pakarae River at Pakarae Station Bridge,TRUE,Lowland,Rural,Monthly,Bimonthly,Gisborne,GDC,North,282,Parent,5012089,282,NA,1,Pakarae River
+374,LAWA-100331,Motu River above Falls,Motu River above Falls,TRUE,Upland,Rural,Monthly,Monthly,Gisborne,GDC,North,63,Parent,4005089,63,NA,1,Motu River
+376,GW-00025,Akatarawa River at Hutt Confluence,Akatarawa River at Hutt Confluence,TRUE,Lowland,Forest,Monthly,Monthly,Wellington,GWRC,North,147,Parent,9013064,147,NA,1,Hutt River
+377,GW-00053,Awhea River at Tora Rd,Awhea River at Tora Rd,TRUE,Lowland,Rural,Monthly,Monthly,Wellington,GWRC,North,358,Parent,9017645,358,NA,1,Awhea River
+378,GW-00049,Beef Creek at headwaters,Beef Creek at headwaters,TRUE,Upland,Forest,Monthly,Monthly,Wellington,GWRC,North,22,Parent,9016633,22,NA,1,Ruamahanga River
+379,GW-00013,Horokiri Stream at Snodgrass,Horokiri Stream at Snodgrass,TRUE,Lowland,Rural,Monthly,Monthly,Wellington,GWRC,North,733,Parent,9009478,733,NA,1,Horokiri Stream
+380,GW-00051,Huangarua River at Ponatahi Bridge,Huangarua River at Ponatahi Bridge,TRUE,Lowland,Rural,Monthly,Monthly,Wellington,GWRC,North,22,Parent,9016633,22,NA,1,Ruamahanga River
+381,GW-10001,Hutt River at Birchville,Hutt River at Birchville,TRUE,Lowland,Forest,Unstated,Unstated,Wellington,GWRC,North,147,Parent,9013064,147,NA,1,Hutt River
+382,GW-00022,Hutt River at Boulcott,Hutt River at Boulcott,TRUE,Lowland,Forest,Monthly,Monthly,Wellington,GWRC,North,147,Parent,9013064,147,NA,1,Hutt River
+384,GW-10002,Hutt River at Maoribank Corner,Hutt River at Maoribank Corner,TRUE,Lowland,Forest,Unstated,Unstated,Wellington,GWRC,North,147,Parent,9013064,147,NA,1,Hutt River
+385,GW-10003,Hutt River at Melling Bridge,Hutt River at Melling Bridge,TRUE,Lowland,Forest,Unstated,Unstated,Wellington,GWRC,North,147,Parent,9013064,147,NA,1,Hutt River
+386,GW-10004,Hutt River at Poets Park,Hutt River at Poets Park,TRUE,Lowland,Forest,Unstated,Unstated,Wellington,GWRC,North,147,Parent,9013064,147,NA,1,Hutt River
+387,GW-10005,Hutt River at Silverstream Bridge,Hutt River at Silverstream Bridge,TRUE,Lowland,Forest,Unstated,Unstated,Wellington,GWRC,North,147,Parent,9013064,147,NA,1,Hutt River
+388,GW-00020,Hutt River at Te Marua Intake Site,Hutt River at Te Marua Intake Site,TRUE,Lowland,Forest,Monthly,Monthly,Wellington,GWRC,North,147,Parent,9013064,147,NA,1,Hutt River
+389,GW-00021,Hutt River Opposite Manor Park Golf Club,Hutt River Opposite Manor Park Golf Club,TRUE,Lowland,Forest,Monthly,Monthly,Wellington,GWRC,North,147,Parent,9013064,147,NA,1,Hutt River
+390,GW-00019,Kaiwharawhara Stream at Ngaio Gorge,Kaiwharawhara Stream at Ngaio Gorge,TRUE,Lowland,Urban,Monthly,Monthly,Wellington,GWRC,North,1024,Parent,9013529,1024,NA,1,Kaiwharawhara Stream
+391,GW-00018,Karori Stream at Makara Peak Mountain Bike Park,Karori Stream at Makara Peak Mountain Bike Park,TRUE,Lowland,Urban,Monthly,Monthly,Wellington,GWRC,North,760,Parent,9015439,760,NA,1,Karori Stream
+392,GW-00038,Kopuaranga River at Stuarts,Kopuaranga River at Stuarts,TRUE,Lowland,Rural,Monthly,Monthly,Wellington,GWRC,North,22,Parent,9016633,22,NA,1,Ruamahanga River
+393,GW-00017,Makara Stream at Kennels,Makara Stream at Kennels,TRUE,Lowland,Rural,Monthly,Monthly,Wellington,GWRC,North,475,Parent,9012545,475,NA,1,Makara Stream
+394,GW-00007,Mangaone Stream at Sims Road Bridge,Mangaone Stream at Sims Road Bridge,TRUE,Lowland,Rural,Monthly,Monthly,Wellington,GWRC,North,581,Parent,9001452,581,NA,1,Mangaone Stream
+395,GW-00002,Mangapouri Stream at Bennetts Rd,Mangapouri Stream at Bennetts Rd,TRUE,Lowland,Urban,Monthly,Monthly,Wellington,GWRC,North,617,Parent,9000255,617,NA,1,Waitohu Stream
+396,GW-00024,Mangaroa River at Te Marua,Mangaroa River at Te Marua,TRUE,Lowland,Rural,Monthly,Monthly,Wellington,GWRC,North,147,Parent,9013064,147,NA,1,Hutt River
+397,GW-00050,Mangatarere River at State Highway 2,Mangatarere River at State Highway 2,TRUE,Lowland,Rural,Monthly,Monthly,Wellington,GWRC,North,22,Parent,9016633,22,NA,1,Ruamahanga River
+398,GW-00043,Motuwaireka Stream at headwaters,Motuwaireka Stream at headwaters,TRUE,Lowland,Forest,Monthly,Monthly,Wellington,GWRC,North,735,Parent,9009866,735,NA,1,Motuwaireka Stream
+399,GW-00008,Ngarara Stream at Field Way,Ngarara Stream at Field Way,TRUE,Lowland,Urban,Monthly,Monthly,Wellington,GWRC,North,982,Parent,9003336,982,NA,1,Ngarara Stream
+400,GW-00030,Orongorongo River at Orongorongo Station,Orongorongo River at Orongorongo Station,TRUE,Lowland,Forest,Monthly,Monthly,Wellington,GWRC,North,445,Parent,9016841,445,NA,1,Orongorongo River
+401,GW-00006,Otaki River at Mouth,Otaki River at Mouth,TRUE,Lowland,Forest,Monthly,Monthly,Wellington,GWRC,North,231,Parent,9000730,231,NA,1,Otaki River
+402,GW-00005,Otaki River at Pukehinau,Otaki River at Pukehinau,TRUE,Lowland,Forest,Monthly,Monthly,Wellington,GWRC,North,231,Parent,9000730,231,NA,1,Otaki River
+403,GW-10006,Otaki River at State Highway 1,Otaki River at State Highway One,TRUE,Lowland,Forest,Unstated,Unstated,Wellington,GWRC,North,231,Parent,9000730,231,NA,1,Otaki River
+404,GW-00023,Pakuratahi River 50m Below Farm Creek,Pakuratahi River 50m Below Farm Creek,TRUE,Lowland,Forest,Monthly,Monthly,Wellington,GWRC,North,147,Parent,9013064,147,NA,1,Hutt River
+405,GW-10007,Pakuratahi River at Forks,Pakuratahi River at Hutt Forks,TRUE,Upland,Forest,Unstated,Unstated,Wellington,GWRC,North,147,Parent,9013064,147,NA,1,Hutt River
+406,GW-00046,Parkvale Stream at Renalls Weir,Parkvale Stream at Renalls Weir,TRUE,Lowland,Rural,Monthly,Monthly,Wellington,GWRC,North,22,Parent,9016633,22,NA,1,Ruamahanga River
+407,GW-00045,Parkvale tributary at Lowes Reserve,Parkvale tributary at Lowes Reserve,TRUE,Lowland,Rural,Monthly,Monthly,Wellington,GWRC,North,22,Parent,9016633,22,NA,1,Ruamahanga River
+408,GW-00014,Pauatahanui Stream at Elmwood Bridge,Pauatahanui Stream at Elmwood Bridge,TRUE,Lowland,Rural,Monthly,Monthly,Wellington,GWRC,North,640,Parent,9009735,640,NA,1,Puatahanui Stream
+409,GW-00015,Porirua Stream at Glenside Overhead Cable,Porirua Stream at Glenside Overhead Cables,TRUE,Lowland,Urban,Monthly,Monthly,Wellington,GWRC,North,562,Parent,9010379,562,NA,1,Porirua Stream
+410,GW-00016,Porirua Stream at Wall Park,Porirua Stream at Milk Depot,TRUE,Lowland,Urban,Monthly,Monthly,Wellington,GWRC,North,562,Parent,9010379,562,NA,1,Porirua Stream
+411,GW-10008,Ruamahanga River at Double Bridges,Ruamahanga River at Double Bridges,TRUE,Upland,Forest,Unstated,Unstated,Wellington,GWRC,North,22,Parent,9016633,22,NA,1,Ruamahanga River
+412,GW-00033,Ruamahanga River at Gladstone Bridge,Ruamahanga River at Gladstone Bridge,TRUE,Lowland,Rural,Monthly,Monthly,Wellington,GWRC,North,22,Parent,9016633,22,NA,1,Ruamahanga River
+413,GW-10009,Ruamahanga River at Kokotau,Ruamahanga River at Kokotau,TRUE,Lowland,Rural,Unstated,Unstated,Wellington,GWRC,North,22,Parent,9016633,22,NA,1,Ruamahanga River
+414,GW-00031,Ruamahanga River at McLays,Ruamahanga River at McLays,TRUE,Upland,Forest,Monthly,Monthly,Wellington,GWRC,North,22,Parent,9016633,22,NA,1,Ruamahanga River
+415,GW-10010,Ruamahanga River at Morrisons Bush,Ruamahanga River at Morrisons Bush,TRUE,Lowland,Rural,Unstated,Unstated,Wellington,GWRC,North,22,Parent,9016633,22,NA,1,Ruamahanga River
+416,GW-00034,Ruamahanga River at Pukio,Ruamahanga River at Pukio,TRUE,Lowland,Rural,Monthly,Monthly,Wellington,GWRC,North,22,Parent,9016633,22,NA,1,Ruamahanga River
+417,GW-00032,Ruamahanga River at Te Ore Ore,Ruamahanga River at Te Ore Ore,TRUE,Lowland,Rural,Monthly,Monthly,Wellington,GWRC,North,22,Parent,9016633,22,NA,1,Ruamahanga River
+418,GW-10011,Ruamahanga River at The Cliffs,Ruamahanga River at The Cliffs,TRUE,Lowland,Rural,Unstated,Unstated,Wellington,GWRC,North,22,Parent,9016633,22,NA,1,Ruamahanga River
+421,GW-00052,Tauanui River at Whakatomotomo Rd,Tauanui River at Whakatomotomo Rd,TRUE,Upland,Forest,Monthly,Monthly,Wellington,GWRC,North,22,Parent,9016633,22,NA,1,Ruamahanga River
+422,GW-00036,Taueru River at Castlehill,Taueru River at Castlehill,TRUE,Upland,Rural,Monthly,Monthly,Wellington,GWRC,North,22,Parent,9016633,22,NA,1,Ruamahanga River
+423,GW-00037,Taueru River at Gladstone,Taueru River at Gladstone,TRUE,Lowland,Rural,Monthly,Monthly,Wellington,GWRC,North,22,Parent,9016633,22,NA,1,Ruamahanga River
+424,GW-00055,Tauherenikau River at Websters,Tauherenikau River at Websters,TRUE,Lowland,Forest,Monthly,Monthly,Wellington,GWRC,North,22,Parent,9016633,22,NA,1,Ruamahanga River
+425,GW-00044,Totara Stream at Stronvar,Totara Stream at Stronvar,TRUE,Upland,Forest,Monthly,Monthly,Wellington,GWRC,North,426,Parent,9012629,426,NA,1,Kaiwhata River
+426,GW-00010,Waikanae River at Greenaway Rd,Waikanae River at Greenaway Rd,TRUE,Lowland,Forest,Monthly,Monthly,Wellington,GWRC,North,354,Parent,9003742,354,NA,1,Waikanae River
+427,GW-10013,Waikanae River at Jim Cooke Park,Waikanae River at Jim Cooke Park,TRUE,Lowland,Rural,Unstated,Unstated,Wellington,GWRC,North,354,Parent,9003742,354,NA,1,Waikanae River
+428,GW-00009,Waikanae River at Mangaone Walkway,Waikanae River at Mangaone Walkway,TRUE,Upland,Forest,Monthly,Monthly,Wellington,GWRC,North,354,Parent,9003742,354,NA,1,Waikanae River
+429,GW-10014,Waikanae River at State Highway 1,Waikanae River at State Highway One,TRUE,Lowland,Rural,Unstated,Unstated,Wellington,GWRC,North,354,Parent,9003742,354,NA,1,Waikanae River
+430,GW-10015,Waingawa River at Kaituna,Waingawa River at Kaituna,TRUE,Upland,Forest,Unstated,Unstated,Wellington,GWRC,North,22,Parent,9016633,22,NA,1,Ruamahanga River
+431,GW-00041,Waingawa River at South Rd,Waingawa River at South Rd,TRUE,Lowland,Forest,Monthly,Monthly,Wellington,GWRC,North,22,Parent,9016633,22,NA,1,Ruamahanga River
+432,GW-00028,Wainuiomata River at Manuka Track,Wainuiomata River at Manuka Track,TRUE,Upland,Forest,Monthly,Monthly,Wellington,GWRC,North,381,Parent,9016680,381,NA,1,Wainuiomata River
+433,GW-00048,Waiohine River at Bicknells,Waiohine River at Bicknells,TRUE,Lowland,Rural,Monthly,Monthly,Wellington,GWRC,North,22,Parent,9016633,22,NA,1,Ruamahanga River
+434,GW-00047,Waiohine River at Gorge,Waiohine River at Gorge,TRUE,Lowland,Forest,Monthly,Monthly,Wellington,GWRC,North,22,Parent,9016633,22,NA,1,Ruamahanga River
+435,GW-10017,Waiohine River at State Highway 2,Waiohine River at State Highway 2,TRUE,Lowland,Forest,Unstated,Unstated,Wellington,GWRC,North,22,Parent,9016633,22,NA,1,Ruamahanga River
+436,GW-00056,Waiorongomai River at Forest Park,Waiorongomai River at Forest Park,TRUE,Lowland,Forest,Monthly,Monthly,Wellington,GWRC,North,22,Parent,9016633,22,NA,1,Ruamahanga River
+437,GW-00040,Waipoua River at Colombo Rd Bridge,Waipoua River at Colombo Rd Bridge,TRUE,Lowland,Rural,Monthly,Monthly,Wellington,GWRC,North,22,Parent,9016633,22,NA,1,Ruamahanga River
+438,GW-00003,Waitohu Stream at Forest Park,Waitohu Stream at Forest Park,TRUE,Upland,Forest,Monthly,Monthly,Wellington,GWRC,North,617,Parent,9000255,617,NA,1,Waitohu Stream
+439,GW-00004,Waitohu Stream at Norfolk Crescent,Waitohu Stream at Norfolk Crescent,TRUE,Lowland,Rural,Monthly,Monthly,Wellington,GWRC,North,617,Parent,9000255,617,NA,1,Waitohu Stream
+440,GW-00264,Waiwhetu Stream at Whites Line East,Waiwhetu Stream at Whites Line East,TRUE,Lowland,Urban,Monthly,Monthly,Wellington,GWRC,North,147,Parent,9013064,147,NA,1,Hutt River
+441,GW-00026,Whakatikei River at Riverstone,Whakatikei River at Riverstone,TRUE,Lowland,Forest,Monthly,Monthly,Wellington,GWRC,North,147,Parent,9013064,147,NA,1,Hutt River
+442,GW-00039,Whangaehu River at 250m from Confluence,Whangaehu River at 250m from Confluence,TRUE,Lowland,Rural,Monthly,Monthly,Wellington,GWRC,North,22,Parent,9016633,22,NA,1,Ruamahanga River
+443,GW-00042,Whareama River at Gauge,Whareama River at Gauge,TRUE,Lowland,Rural,Monthly,Monthly,Wellington,GWRC,North,167,Parent,9008105,167,NA,1,Whareama River
+444,GW-00012,Whareroa Stream at QE Park,Whareroa Stream at QE Park,TRUE,Lowland,Rural,Monthly,Monthly,Wellington,GWRC,North,1048,Parent,9005999,1048,NA,1,Whareroa Stream
+445,GW-00011,Whareroa Stream at Waterfall Rd,Whareroa Stream at Waterfall Rd,TRUE,Lowland,Rural,Monthly,Monthly,Wellington,GWRC,North,1048,Parent,9005999,1048,NA,1,Whareroa Stream
+446,LAWA-100394,Enaki Stream upstream of Mangatarere Stream confluence,Enaki Stream D/S site for Riparian,TRUE,Lowland,Urban,Monthly,Monthly,Wellington,GWRC,North,22,Parent,9016633,22,NA,1,Ruamahanga River
+447,GW-10016,Wainuiomata River at Richard Prouse Park,Wainuiomata River at Richard Prouse Park,TRUE,Upland,Forest,Unstated,Unstated,Wellington,GWRC,North,381,Parent,9016680,381,NA,1,Wainuiomata River
+448,GW-00029,Wainuiomata River Dnstr of White Bridge,Wainuiomata River Dnstr of White Bridge,TRUE,Lowland,Forest,Monthly,Monthly,Wellington,GWRC,North,381,Parent,9016680,381,NA,1,Wainuiomata River
+449,HRC-00001,Arawhata Drain at Hokio Beach Road,Arawhata Drain at Hokio Beach Road,Yes,Lowland,Rural,Monthly,Monthly,Horizons,HRC,North,506,Parent,7045468,506,NA,1,Lake Horowhenua
+450,HRC-00002,Hautapu at US Rangitikei River Conf,Hautapu at US Rangitikei River Conf,Yes,Upland,Rural,Monthly,Monthly,Horizons,HRC,North,15,Parent,7038092,15,NA,1,Rangitikei River
+451,HRC-00003,Hautapu at Alabasters,Hautapu at Alabasters,Yes,Upland,Rural,Monthly,Monthly,Horizons,HRC,North,15,Parent,7038092,15,NA,1,Rangitikei River
+452,HRC-00004,Hokio at Lake Horowhenua,Hokio at Lake Horowhenua,Yes,Lowland,Rural,Monthly,Monthly,Horizons,HRC,North,506,Parent,7045468,506,NA,1,Lake Horowhenua
+453,HRC-00005,Kahuterawa at Johnstons Rata,Kahuterawa at Johnstons Rata,Yes,Lowland,Forest,Monthly,Monthly,Horizons,HRC,North,7,Parent,7042266,7,NA,1,Manawatu
+454,HRC-00006,Kumeti at Te Rehunga,Kumeti at Te Rehunga,Yes,Upland,Rural,Monthly,Monthly,Horizons,HRC,North,7,Parent,7042266,7,NA,1,Manawatu
+455,HRC-00007,Makotuku at Raetihi,Makotuku at Raetihi,Yes,Upland,Rural,Monthly,Monthly,Horizons,HRC,North,44,Parent,7032316,44,NA,1,Whangaehu River
+456,HRC-00008,Makakahi at Hamua,Makakahi at Hamua,Yes,Upland,Rural,Monthly,Monthly,Horizons,HRC,North,7,Parent,7042266,7,NA,1,Manawatu
+457,HRC-00009,Makotuku at SH49A,Makotuku at SH49A,Yes,Upland,Forest,Monthly,Monthly,Horizons,HRC,North,44,Parent,7032316,44,NA,1,Whangaehu River
+458,HRC-00010,Makuri at Tuscan Hills,Makuri at Tuscan Hills,Yes,Lowland,Rural,Monthly,Monthly,Horizons,HRC,North,7,Parent,7042266,7,NA,1,Manawatu
+459,HRC-00011,Manakau at S.H.1 Bridge,Manakau at S.H.1 Bridge,Yes,Lowland,Rural,Monthly,Monthly,Horizons,HRC,North,481,Parent,7048125,481,NA,1,Waikawa Stream
+460,HRC-00012,Manawatu at Whirokino,Manawatu at Whirokino,Yes,Lowland,Rural,Monthly,Monthly,Horizons,HRC,North,7,Parent,7042266,7,NA,1,Manawatu
+461,HRC-00013,Manawatu at Opiki Bridge,Manawatu at Opiki Br,Yes,Lowland,Rural,Monthly,Monthly,Horizons,HRC,North,7,Parent,7042266,7,NA,1,Manawatu
+462,HRC-00014,Manawatu at Ngawapurua Bridge,Manawatu at Ngawapurua Bridge,Yes,Lowland,Rural,Monthly,Monthly,Horizons,HRC,North,7,Parent,7042266,7,NA,1,Manawatu
+463,HRC-00015,Manawatu at Teachers College,Manawatu at Teachers College,Yes,Lowland,Rural,Monthly,Monthly,Horizons,HRC,North,7,Parent,7042266,7,NA,1,Manawatu
+464,HRC-00016,Manawatu at Hopelands,Manawatu at Hopelands,Yes,Lowland,Rural,Monthly,Monthly,Horizons,HRC,North,7,Parent,7042266,7,NA,1,Manawatu
+465,HRC-00017,Manawatu at Upper Gorge,Manawatu at Upper Gorge,Yes,Lowland,Rural,Monthly,Monthly,Horizons,HRC,North,7,Parent,7042266,7,NA,1,Manawatu
+466,HRC-00018,Manawatu at Weber Road,Manawatu at Weber Road,Yes,Upland,Rural,Monthly,Monthly,Horizons,HRC,North,7,Parent,7042266,7,NA,1,Manawatu
+467,HRC-00019,Mangahao at Ballance,Mangahao at Ballance,Yes,Lowland,Rural,Monthly,Monthly,Horizons,HRC,North,7,Parent,7042266,7,NA,1,Manawatu
+468,HRC-00020,Mangapapa at Troup Rd,Mangapapa at Troup Rd,Yes,Lowland,Rural,Monthly,Monthly,Horizons,HRC,North,7,Parent,7042266,7,NA,1,Manawatu
+469,HRC-00021,Mangatainoka at Putara,Mangatainoka at Putara,Yes,Upland,Forest,Monthly,Monthly,Horizons,HRC,North,7,Parent,7042266,7,NA,1,Manawatu
+470,HRC-00022,Mangatainoka at Larsons Road,Mangatainoka at Larsons Road,Yes,Upland,Forest,Monthly,Monthly,Horizons,HRC,North,7,Parent,7042266,7,NA,1,Manawatu
+471,HRC-00023,Mangatainoka at Pahiatua Town Bridge,Mangatainoka at Pahiatua Town Bridge,Yes,Lowland,Rural,Monthly,Monthly,Horizons,HRC,North,7,Parent,7042266,7,NA,1,Manawatu
+472,HRC-00024,Mangatainoka at Brewery - S.H.2 Bridge,Mangatainoka at Brewery - S.H.2 Bridge,Yes,Lowland,Rural,Monthly,Monthly,Horizons,HRC,North,7,Parent,7042266,7,NA,1,Manawatu
+473,HRC-00025,Mangatera at u/s Manawatu confluence,Mangatera at u/s Manawatu confluence,Yes,Upland,Rural,Monthly,Monthly,Horizons,HRC,North,7,Parent,7042266,7,NA,1,Manawatu
+474,HRC-00026,Mangatoro at Mangahei Road,Mangatoro at Mangahei Road,Yes,Upland,Rural,Monthly,Monthly,Horizons,HRC,North,7,Parent,7042266,7,NA,1,Manawatu
+475,HRC-00027,Mangawhero at Raupiu Road,Mangawhero at Raupiu Road,Yes,Lowland,Rural,Monthly,Monthly,Horizons,HRC,North,44,Parent,7032316,44,NA,1,Whangaehu River
+476,HRC-00028,Mangawhero at Pakihi Rd Bridge,Mangawhero at Pakihi Rd Bridge,Yes,Upland,Rural,Monthly,Monthly,Horizons,HRC,North,44,Parent,7032316,44,NA,1,Whangaehu River
+477,HRC-00029,Mangawhero at DOC Headquarters,Mangawhero at DOC Headquarters,Yes,Upland,Forest,Monthly,Monthly,Horizons,HRC,North,44,Parent,7032316,44,NA,1,Whangaehu River
+478,HRC-00030,Ohau at Gladstone Reserve,Ohau at Gladstone Reserve,Yes,Lowland,Forest,Monthly,Monthly,Horizons,HRC,North,328,Parent,7047344,328,NA,1,Ohau
+479,HRC-00031,Ohau at Haines Property,Ohau at Haines Property,Yes,Lowland,Rural,Monthly,Monthly,Horizons,HRC,North,328,Parent,7047344,328,NA,1,Ohau
+480,HRC-00032,Ohura at Tokorima,Ohura at Tokorima,Yes,Lowland,Rural,Monthly,Monthly,Horizons,HRC,North,5,Parent,7030483,5,NA,1,Whanganui River
+481,HRC-00033,Ongarue at Taringamotu,Ongarue at Taringamotu,Yes,Upland,Rural,Monthly,Monthly,Horizons,HRC,North,5,Parent,7030483,5,NA,1,Whanganui River
+482,HRC-00034,Oroua at Awahuri Bridge,Oroua at Awahuri Bridge,Yes,Lowland,Rural,Monthly,Monthly,Horizons,HRC,North,7,Parent,7042266,7,NA,1,Manawatu
+483,HRC-00035,Oroua at Almadale Slackline,Oroua at Almadale Slackline,Yes,Lowland,Rural,Monthly,Monthly,Horizons,HRC,North,7,Parent,7042266,7,NA,1,Manawatu
+484,HRC-00036,Oroua at Apiti,Oroua at Apiti Gorge Bridge,Yes,Upland,Forest,Monthly,Monthly,Horizons,HRC,North,7,Parent,7042266,7,NA,1,Manawatu
+485,HRC-00037,Oruakeretaki at S.H.2 Napier,Oruakeretaki at S.H.2 Napier,Yes,Upland,Rural,Monthly,Monthly,Horizons,HRC,North,7,Parent,7042266,7,NA,1,Manawatu
+486,HRC-00038,Owahanga at Branscombe Bridge,Owahanga at Branscombe Bridge,Yes,Lowland,Rural,Monthly,Monthly,Horizons,HRC,North,212,Parent,7048573,212,NA,1,Owahanga
+487,HRC-00039,Patiki Stream at Kawiu Road,Patiki Stream at Kawiu Road,Yes,Lowland,Rural,Monthly,Monthly,Horizons,HRC,North,506,Parent,7045468,506,NA,1,Lake Horowhenua
+488,HRC-00040,Pohangina at Mais Reach,Pohangina at Mais Reach,Yes,Lowland,Rural,Monthly,Monthly,Horizons,HRC,North,7,Parent,7042266,7,NA,1,Manawatu
+489,HRC-00041,Pohangina at Piripiri,Pohangina at Piripiri,Yes,Upland,Forest,Monthly,Monthly,Horizons,HRC,North,7,Parent,7042266,7,NA,1,Manawatu
+490,HRC-00042,POREWA AT ONEPUHI ROAD,Porewa at Onepuhi,Yes,Lowland,Rural,Monthly,Monthly,Horizons,HRC,North,15,Parent,7038092,15,NA,1,Rangitikei River
+491,HRC-00043,Rangitikei at McKelvies,Rangitikei at McKelvies,Yes,Lowland,Rural,Monthly,Monthly,Horizons,HRC,North,15,Parent,7038092,15,NA,1,Rangitikei River
+492,HRC-00044,Rangitikei at Onepuhi,Rangitikei at Onepuhi,Yes,Lowland,Rural,Monthly,Monthly,Horizons,HRC,North,15,Parent,7038092,15,NA,1,Rangitikei River
+493,HRC-00045,Rangitikei at Mangaweka,Rangitikei at Mangaweka,Yes,Upland,Rural,Monthly,Monthly,Horizons,HRC,North,15,Parent,7038092,15,NA,1,Rangitikei River
+494,HRC-00046,Rangitikei at Pukeokahu,Rangitikei at Pukeokahu,Yes,Upland,Forest,Monthly,Monthly,Horizons,HRC,North,15,Parent,7038092,15,NA,1,Rangitikei River
+495,HRC-00047,Raparapawai at Jackson Rd,Raparapawai at Jackson Rd,Yes,Lowland,Rural,Monthly,Monthly,Horizons,HRC,North,7,Parent,7042266,7,NA,1,Manawatu
+496,HRC-00048,Tamaki at Stephensons,Tamaki at Stephensons,Yes,Upland,Rural,Monthly,Monthly,Horizons,HRC,North,7,Parent,7042266,7,NA,1,Manawatu
+497,HRC-00049,Tamaki at Tamaki Reserve,Tamaki at Tamaki Reserve,Yes,Upland,Forest,Monthly,Monthly,Horizons,HRC,North,7,Parent,7042266,7,NA,1,Manawatu
+498,HRC-00050,Tiraumea at Ngaturi,Tiraumea at Ngaturi,Yes,Lowland,Rural,Monthly,Monthly,Horizons,HRC,North,7,Parent,7042266,7,NA,1,Manawatu
+499,HRC-00051,Tiraumea u/s Manawatu Confluence,Tiraumea u/s Manawatu Confluence,Yes,Lowland,Rural,Monthly,Monthly,Horizons,HRC,North,7,Parent,7042266,7,NA,1,Manawatu
+500,HRC-00053,Tokiahuru at Junction,Tokiahuru at Junction,Yes,Upland,Forest,Monthly,Monthly,Horizons,HRC,North,44,Parent,7032316,44,NA,1,Whangaehu River
+501,HRC-00054,Tokomaru River at Horseshoe bend,Tokomaru River at Horseshoe bend,Yes,Lowland,Forest,Monthly,Monthly,Horizons,HRC,North,7,Parent,7042266,7,NA,1,Manawatu
+502,HRC-00055,Turakina at ONeills Bridge,Turakina at ONeills Bridge,Yes,Lowland,Rural,Monthly,Monthly,Horizons,HRC,North,98,Parent,7033210,98,NA,1,Turakina
+503,HRC-00056,Waikawa at North Manakau Road,Waikawa at North Manakau Road,Yes,Lowland,Forest,Monthly,Monthly,Horizons,HRC,North,481,Parent,7048125,481,NA,1,Waikawa Stream
+504,HRC-00057,Waikawa Stream at Huritini,Waikawa at Huritini,Yes,Lowland,Rural,Monthly,Monthly,Horizons,HRC,North,481,Parent,7048125,481,NA,1,Waikawa Stream
+505,HRC-00058,Whangaehu at Kauangaroa,Whangaehu at Kauangaroa,Yes,Lowland,Rural,Monthly,Monthly,Horizons,HRC,North,44,Parent,7032316,44,NA,1,Whangaehu River
+506,HRC-00059,Whanganui at Te Rewa,Whanganui at Te Rewa,Yes,Lowland,Rural,Monthly,Monthly,Horizons,HRC,North,5,Parent,7030483,5,NA,1,Whanganui River
+507,HRC-00060,Whanganui at Pipiriki,Whanganui at Pipiriki,Yes,Lowland,Forest,Monthly,Monthly,Horizons,HRC,North,5,Parent,7030483,5,NA,1,Whanganui River
+508,HRC-00061,Whanganui at Wades Landing,Whanganui at Wades Landing,Yes,Lowland,Rural,Monthly,Monthly,Horizons,HRC,North,5,Parent,7030483,5,NA,1,Whanganui River
+509,HRC-00062,Whanganui at Te Maire,Whanganui at Te Maire,Yes,Upland,Forest,Monthly,Monthly,Horizons,HRC,North,5,Parent,7030483,5,NA,1,Whanganui River
+510,HRC-00063,Whanganui at Cherry Grove,Whanganui at Cherry Grove,Yes,Upland,Forest,Monthly,Monthly,Horizons,HRC,North,5,Parent,7030483,5,NA,1,Whanganui River
+511,HRC-00064,Mangawhero at u/s Ohakune STP,Mangawhero at u/s Ohakune STP,Yes,Upland,Rural,Monthly,Monthly,Horizons,HRC,North,44,Parent,7032316,44,NA,1,Whangaehu River
+512,HRC-00065,Mangaehuehu at u/s Rangataua STP,Mangaehuehu at u/s Rangataua STP,Yes,Upland,Forest,Monthly,Monthly,Horizons,HRC,North,44,Parent,7032316,44,NA,1,Whangaehu River
+513,HRC-00066,Makotuku at Above Sewage Plant,Makotuku at Above Sewage Plant,Yes,Upland,Rural,Monthly,Monthly,Horizons,HRC,North,44,Parent,7032316,44,NA,1,Whangaehu River
+514,HRC-00067,Pongaroa at u/s Pongaroa STP,Pongaroa at u/s Pongaroa STP,Yes,Lowland,Rural,Monthly,Monthly,Horizons,HRC,North,212,Parent,7048573,212,NA,1,Owahanga
+515,HRC-00069,Rangitikei at u/s Bulls STP,Rangitikei at u/s Bulls STP,Yes,Lowland,Rural,Monthly,Monthly,Horizons,HRC,North,15,Parent,7038092,15,NA,1,Rangitikei River
+516,HRC-00070,Rangitawa Stream at us Halcombe oxpond,Rangitawa Stream at us Halcombe oxpond,Yes,Lowland,Rural,Monthly,Monthly,Horizons,HRC,North,15,Parent,7038092,15,NA,1,Rangitikei River
+517,HRC-00071,Whangaehu at u/s Winstone Pulp,Whangaehu at u/s Winstone Pulp,Yes,Upland,Rural,Monthly,Monthly,Horizons,HRC,North,44,Parent,7032316,44,NA,1,Whangaehu River
+518,HRC-00072,Waitangi at u/s Waiouru STP,Waitangi at u/s Waiouru STP,Yes,Upland,Rural,Monthly,Monthly,Horizons,HRC,North,44,Parent,7032316,44,NA,1,Whangaehu River
+519,HRC-00073,Piakatutu at u/s Sanson STP,Piakatutu at u/s Sanson STP,Yes,Lowland,Rural,Monthly,Monthly,Horizons,HRC,North,15,Parent,7038092,15,NA,1,Rangitikei River
+520,HRC-00074,Mangaore at u/s Shannon STP,Mangaore at u/s Shannon STP,Yes,Lowland,Forest,Monthly,Monthly,Horizons,HRC,North,7,Parent,7042266,7,NA,1,Manawatu
+521,HRC-00075,Mangatera at Dannevirke,Mangatera at Dannevirke,Yes,Lowland,Rural,Monthly,Monthly,Horizons,HRC,North,7,Parent,7042266,7,NA,1,Manawatu
+522,HRC-00076,Mangaatua at u/s Woodville STP,Mangaatua at u/s Woodville STP,Yes,Lowland,Rural,Monthly,Monthly,Horizons,HRC,North,7,Parent,7042266,7,NA,1,Manawatu
+523,HRC-00077,Makakahi at u/s Eketahuna STP,Makakahi at u/s Eketahuna STP,Yes,Upland,Rural,Monthly,Monthly,Horizons,HRC,North,7,Parent,7042266,7,NA,1,Manawatu
+524,HRC-00078,Oroua at U/S AFFCO Feilding,Oroua at U/S AFFCO Feilding,Yes,Lowland,Rural,Monthly,Monthly,Horizons,HRC,North,7,Parent,7042266,7,NA,1,Manawatu
+525,HRC-00079,Oroua at U/S Feilding STP,Oroua at U/S Feilding STP,Yes,Lowland,Rural,Monthly,Monthly,Horizons,HRC,North,7,Parent,7042266,7,NA,1,Manawatu
+526,HRC-00080,Manawatu at u/s PNCC STP,Manawatu at u/s PNCC STP,Yes,Lowland,Rural,Monthly,Monthly,Horizons,HRC,North,7,Parent,7042266,7,NA,1,Manawatu
+527,HRC-00081,Manawatu at us Fonterra Longburn,Manawatu at us Fonterra Longburn,Yes,Lowland,Rural,Monthly,Monthly,Horizons,HRC,North,7,Parent,7042266,7,NA,1,Manawatu
+528,HRC-00082,Manawatu at u/s PPCS Shannon,Manawatu at u/s PPCS Shannon,Yes,Lowland,Rural,Monthly,Monthly,Horizons,HRC,North,7,Parent,7042266,7,NA,1,Manawatu
+529,HRC-00083,Mangatainoka at u/s Pahiatua STP,Mangatainoka at u/s Pahiatua STP,Yes,Lowland,Rural,Monthly,Monthly,Horizons,HRC,North,7,Parent,7042266,7,NA,1,Manawatu
+530,HRC-00085,Tutaenui Stream at u/s Marton STP,Tutaenui Stream at u/s Marton STP,Yes,Lowland,Rural,Monthly,Monthly,Horizons,HRC,North,15,Parent,7038092,15,NA,1,Rangitikei River
+531,HRC-00086,Mangarangiora Trib at US Norsewood STP,Mangarangiora Trib at US Norsewood STP,Yes,Upland,Rural,Monthly,Monthly,Horizons,HRC,North,7,Parent,7042266,7,NA,1,Manawatu
+532,HRC-00087,Unnamed Trib of Waipu at us Ratana STP,Unnamed Trib of Waipu at us Ratana STP,Yes,Lowland,Rural,Monthly,Monthly,Horizons,HRC,North,98,Parent,7033210,98,NA,1,Turakina
+533,HRC-00088,Oroua Trib at U/S Kimbolton STP,Oroua Trib at U/S Kimbolton STP,Yes,Upland,Rural,Monthly,Monthly,Horizons,HRC,North,7,Parent,7042266,7,NA,1,Manawatu
+534,HRC-00089,Mowhanau Stream at Footbridge,Mowhanau Stream at Footbridge,Yes,Lowland,Rural,Monthly,Monthly,Horizons,HRC,North,774,Parent,7028803,774,NA,1,Mowhanau
+535,HRC-00343,Mangatainoka at Scarborough Konini Rd,Mangatainoka at Scarborough Konini Rd,Yes,Lowland,Rural,Monthly,Monthly,Horizons,HRC,North,7,Parent,7042266,7,NA,1,Manawatu
+536,HRC-00344,Mangatainoka at u/s Tiraumea Confluence,Mangatainoka at u/s Tiraumea Confluence,Yes,Lowland,Rural,Monthly,Monthly,Horizons,HRC,North,7,Parent,7042266,7,NA,1,Manawatu
+537,LAWA-100248,Oroua at Mangawhata,Oroua at Mangawhata,Yes,Lowland,Rural,Monthly,Monthly,Horizons,HRC,North,7,Parent,7042266,7,NA,1,Manawatu
+540,MDC-00030,Waihopai River at Craiglochart,Waihopai River at Craiglochart,TRUE,Upland,Rural,Monthly,Monthly,Marlborough,MDC,South,18,Parent,11016624,100018,Merger of NIWA catchment 18 and 715,1,Wairau River
+541,MDC-00005,Branch River at Weir Intake,Branch River at Weir Intake,TRUE,Upland,Exotic,Monthly,Monthly,Marlborough,MDC,South,18,Parent,11016624,100018,Merger of NIWA catchment 18 and 715,1,Wairau River
+542,MDC-00003,Awatere River at Awapiri,Awatere River at Awapiri,TRUE,Upland,Rural,Monthly,Monthly,Marlborough,MDC,South,54,Parent,11021883,54,NA,1,Awatere River (Kaikoura)
+543,MDC-00010,Graham River at Road Bridge,Graham River at Road Bridge,TRUE,Lowland,Native,Monthly,Monthly,Marlborough,MDC,South,993,Parent,11010999,993,NA,1,Graham
+544,MDC-00001,Are Are Creek at Kaituna Tuamarina Track,Are Are Creek at Kaituna Tuamarina Track,TRUE,Lowland,Rural,Monthly,Monthly,Marlborough,MDC,South,18,Parent,11016624,100018,Merger of NIWA catchment 18 and 715,1,Wairau River
+545,MDC-00012,Kaituna River at Higgins Bridge,Kaituna River at Higgins Bridge,TRUE,Lowland,Rural,Monthly,Monthly,Marlborough,MDC,South,366,Parent,11011388,366,NA,1,Kaituna River
+546,MDC-00008,Doctors Creek Upstream Taylor,Doctors Creek Upstream Taylor,TRUE,Lowland,Rural,Monthly,Monthly,Marlborough,MDC,South,194,Parent,11018918,194,NA,1,Omaka River
+547,MDC-00013,Mill Creek at Ormonds,Mill Creek at Ormonds,TRUE,Upland,Rural,Monthly,Monthly,Marlborough,MDC,South,18,Parent,11016624,100018,Merger of NIWA catchment 18 and 715,1,Wairau River
+548,MDC-00006,Cullen Creek at Road Bridge,Cullen Creek at Road Bridge,TRUE,Lowland,Exotic,Monthly,Monthly,Marlborough,MDC,South,793,Parent,11011585,793,NA,1,Cullen Creek
+549,MDC-00015,Omaka River at Hawkesbury Road Bridge,Omaka River at Hawkesbury Road Bridge,TRUE,Lowland,Rural,Monthly,Monthly,Marlborough,MDC,South,194,Parent,11018918,194,NA,1,Omaka River
+550,MDC-00034,Waitohi River at State Highway One,Waitohi River at State Highway One,TRUE,Lowland,Rural,Monthly,Monthly,Marlborough,MDC,South,1003,Parent,11011620,1003,NA,1,Waitohi Stream
+551,MDC-00011,Kenepuru Stream at Kenepuru Head,Kenepuru Stream at Kenepuru Head,TRUE,Lowland,Rural,Monthly,Monthly,Marlborough,MDC,South,769,Parent,11008672,769,NA,1,Keneperu River
+552,MDC-00014,Murphys Creek at Nelson Street,Murphys Creek at Nelson Street,TRUE,Lowland,Urban,Monthly,Monthly,Marlborough,MDC,South,194,Parent,11018918,194,NA,1,Omaka River
+553,MDC-00022,Rai River at Rai Falls,Rai River at Rai Falls,TRUE,Lowland,Rural,Monthly,Monthly,Marlborough,MDC,South,106,Parent,11010920,106,NA,1,Pelorus River
+554,MDC-00016,Ohinemahuta River at Northbank Road,Onamalutu River at Northbank Road,TRUE,Lowland,Exotic,Monthly,Monthly,Marlborough,MDC,South,18,Parent,11016624,100018,Merger of NIWA catchment 18 and 715,1,Wairau River
+555,MDC-00019,Opaoa River at Hammerichs Road,Opawa River at Hammerichs Road,TRUE,Lowland,Rural,Monthly,Monthly,Marlborough,MDC,South,194,Parent,11018918,194,NA,1,Omaka River
+556,MDC-00017,Opouri River at Tunakino Valley Road,Opouri River at Tunakino Valley Road,TRUE,Lowland,Rural,Monthly,Monthly,Marlborough,MDC,South,106,Parent,11010920,106,NA,1,Pelorus River
+557,MDC-00025,Tuamarina River at State Highway One,Tuamarina River at State Highway One,TRUE,Lowland,Rural,Monthly,Monthly,Marlborough,MDC,South,18,Parent,11016624,100018,Merger of NIWA catchment 18 and 715,1,Wairau River
+558,MDC-00009,Flaxbourne River at Quarry,Flaxbourne River at Quarry,TRUE,Lowland,Rural,Monthly,Monthly,Marlborough,MDC,South,352,Parent,11028279,352,NA,1,Flaxbourne River
+559,MDC-00027,Waima (Ure) River at SH1 Bridge,Waima (Ure) River at SH1 Bridge,TRUE,Lowland,Rural,Monthly,Monthly,Marlborough,MDC,South,351,Parent,11030136,351,NA,1,Waima River
+560,MDC-00002,Awatere River at River Mouth,Awatere River at River Mouth,TRUE,Lowland,Rural,Monthly,Monthly,Marlborough,MDC,South,54,Parent,11021883,54,NA,1,Awatere River (Kaikoura)
+561,MDC-00007,Duncan Stream at Outlet,Duncan Stream at Outlet,TRUE,Lowland,Rural,Monthly,Monthly,Marlborough,MDC,South,1347,Parent,11011381,1347,NA,1,Duncan Stream
+562,MDC-00021,Te Hoiere/Pelorus River at Kahikatea Flat,Pelorus River at Kahikatea Flat,TRUE,Lowland,Native,Monthly,Monthly,Marlborough,MDC,South,106,Parent,11010920,106,NA,1,Pelorus River
+563,MDC-00020,Te Hoiere/Pelorus River at Fishermans Flat,Pelorus River at Fishermans Flat,TRUE,Lowland,Rural,Monthly,Monthly,Marlborough,MDC,South,106,Parent,11010920,106,NA,1,Pelorus River
+564,MDC-00031,Wakamarina River at SH6,Wakamarina River at SH6,TRUE,Lowland,Exotic,Monthly,Monthly,Marlborough,MDC,South,106,Parent,11010920,106,NA,1,Pelorus River
+565,MDC-00029,Waihopai River at SH63 Bridge,Waihopai River at SH63 Bridge,TRUE,Lowland,Rural,Monthly,Monthly,Marlborough,MDC,South,18,Parent,11016624,100018,Merger of NIWA catchment 18 and 715,1,Wairau River
+566,MDC-00018,Opaoa River at Swamp Road,Opawa River at Swamp Road,TRUE,Lowland,Rural,Monthly,Monthly,Marlborough,MDC,South,194,Parent,11018918,194,NA,1,Omaka River
+567,MDC-00026,Taylor River at Rail Bridge,Taylor River at Rail Bridge,TRUE,Lowland,Rural,Monthly,Monthly,Marlborough,MDC,South,194,Parent,11018918,194,NA,1,Omaka River
+568,MDC-00028,Wairau Diversion at Neals Road Bridge,Wairau Diversion at Neals Road Bridge,TRUE,Lowland,Rural,Monthly,Monthly,Marlborough,MDC,South,18,Parent,11016624,100018,Merger of NIWA catchment 18 and 715,1,Wairau River
+569,MDC-00023,Ronga River at Upstream Rai River,Ronga River at Upstream Rai River,TRUE,Lowland,Rural,Monthly,Monthly,Marlborough,MDC,South,106,Parent,11010920,106,NA,1,Pelorus River
+570,MDC-00024,Spring Creek at Wairau River Floodgates,Spring Creek at Wairau River Floodgates,TRUE,Lowland,Rural,Unstated,Unstated,Marlborough,MDC,South,18,Parent,11016624,100018,Merger of NIWA catchment 18 and 715,1,Wairau River
+571,MDC-00004,Black Birch Stream at Awatere Intake,Black Birch Stream at Awatere Intake,TRUE,Upland,Rural,Monthly,Monthly,Marlborough,MDC,South,54,Parent,11021883,54,NA,1,Awatere River (Kaikoura)
+572,NCC-00016,Maitai South Branch at Intake,Maitai South Branch at Intake,TRUE,Upland,Native,Quarterly,Quarterly,Nelson,NCC,South,452,Parent,10010859,452,NA,1,Maitai River
+573,NCC-00030,Lud at 4.7km,Lud at 4.7km,TRUE,Lowland,Rural,Quarterly,Quarterly,Nelson,NCC,South,523,Parent,10008716,523,NA,1,Whakapuaka River
+574,NCC-00021,Todds at SH6,Todds at SH6,TRUE,Lowland,Rural,Quarterly,Quarterly,Nelson,NCC,South,954,Parent,10009288,954,NA,1,Todds Valley
+575,NCC-00034,Whangamoa at Kokorua Bridge,Whangamoa at Kokorua Bridge,TRUE,Lowland,Rural,Quarterly,Quarterly,Nelson,NCC,South,464,Parent,10007268,464,NA,1,Whangamoa River
+576,NCC-00038,Collins at SH6,Collins at SH6,TRUE,Lowland,Exotic,Quarterly,Quarterly,Nelson,NCC,South,464,Parent,10007268,464,NA,1,Whangamoa River
+577,NCC-00012,Brook at Motor Camp,Brook at Motor Camp,TRUE,Lowland,Native,Quarterly,Quarterly,Nelson,NCC,South,452,Parent,10010859,452,NA,1,Maitai River
+578,NCC-00040,Hillwood at Glen Rd,Hillwood at Glen Rd,TRUE,Lowland,Rural,Quarterly,Quarterly,Nelson,NCC,South,954,Parent,10009288,954,NA,1,Todds Valley
+579,NCC-00010,Brook at Manuka St,Brook at Manuka St,TRUE,Lowland,Urban,Quarterly,Quarterly,Nelson,NCC,South,452,Parent,10010859,452,NA,1,Maitai River
+580,NCC-00011,Brook at Burn Pl,Brook at Burn Pl,TRUE,Lowland,Exotic,Bimonthly,Quarterly,Nelson,NCC,South,452,Parent,10010859,452,NA,1,Maitai River
+581,NCC-00025,Wakapuaka at Maori Pa Rd,Wakapuaka at Maori Pa Rd,TRUE,Lowland,Rural,Quarterly,Quarterly,Nelson,NCC,South,523,Parent,10008716,523,NA,1,Whakapuaka River
+582,NCC-00028,Wakapuaka at Duckpond Rd,Wakapuaka at Duckpond Rd,TRUE,Lowland,Exotic,Quarterly,Quarterly,Nelson,NCC,South,523,Parent,10008716,523,NA,1,Whakapuaka River
+583,NCC-00013,Maitai at Riverside,Maitai at Riverside,TRUE,Lowland,Urban,Quarterly,Quarterly,Nelson,NCC,South,452,Parent,10010859,452,NA,1,Maitai River
+584,NCC-00039,Dencker at Kokorua Rd,Dencker at Kokorua Rd,TRUE,Lowland,Exotic,Quarterly,Quarterly,Nelson,NCC,South,464,Parent,10007268,464,NA,1,Whangamoa River
+585,NCC-00018,Groom at Maitai Confluence,Groom at Maitai Confluence,TRUE,Lowland,Exotic,Quarterly,Quarterly,Nelson,NCC,South,452,Parent,10010859,452,NA,1,Maitai River
+586,NCC-00005,Poorman at Barnicoat Walkway,Poorman at Barnicoat Walkway,TRUE,Upland,Exotic,Quarterly,Quarterly,Nelson,NCC,South,1630,Parent,10011985,1630,NA,1,Poorman Valley Stream
+587,NCC-00004,Poorman at Seaview Rd,Poorman at Seaview Rd,TRUE,Lowland,Urban,Quarterly,Quarterly,Nelson,NCC,South,1630,Parent,10011985,1630,NA,1,Poorman Valley Stream
+588,NCC-00032,Teal at 1.9km,Teal at 1.9km,TRUE,Lowland,Native,Quarterly,Quarterly,Nelson,NCC,South,523,Parent,10008716,523,NA,1,Whakapuaka River
+589,NCC-00015,Maitai at Groom Rd,Maitai at Groom Rd,TRUE,Lowland,Exotic,Quarterly,Quarterly,Nelson,NCC,South,452,Parent,10010859,452,NA,1,Maitai River
+590,NCC-00017,Sharland at Maitai Confluence,Sharland at Maitai Confluence,TRUE,Lowland,Exotic,Quarterly,Quarterly,Nelson,NCC,South,452,Parent,10010859,452,NA,1,Maitai River
+591,NCC-00002,Orphanage at Saxton Rd East,Orphanage at Saxton Rd East,TRUE,Lowland,Rural,Quarterly,Quarterly,Nelson,NCC,South,1388,Parent,10012654,1388,NA,1,Orphanage Stream
+592,NCC-00029,Lud at SH6,Lud at SH6,TRUE,Lowland,Rural,Quarterly,Quarterly,Nelson,NCC,South,523,Parent,10008716,523,NA,1,Whakapuaka River
+593,NCC-00036,Whangamoa at Hippolite Rd,Whangamoa at Hippolite Rd,TRUE,Lowland,Exotic,Quarterly,Quarterly,Nelson,NCC,South,464,Parent,10007268,464,NA,1,Whangamoa River
+594,NCC-00006,Jenkins at Pascoe St,Jenkins at Pascoe St,TRUE,Lowland,Urban,Monthly,Quarterly,Nelson,NCC,South,2974,Parent,10011583,2974,NA,1,Jenkins Creek
+595,NCC-00009,York at Waimea Rd,York at Waimea Rd,TRUE,Lowland,Rural,Quarterly,Quarterly,Nelson,NCC,South,1573,Parent,10010858,1573,NA,1,York Stream
+596,NRC-00028,Waiharakeke at Stringers Road,100007,TRUE,Lowland,Rural,Monthly,Monthly,Northland,NRC,North,200,Parent,1009440,200,NA,1,Waiharakeke Stream
+597,NRC-00019,Hatea at Mair Park,100194,TRUE,Lowland,Urban,Monthly,Monthly,Northland,NRC,North,621,Parent,1018533,621,NA,1,Hatea River
+598,NRC-00013,Mangahahuru at Main Road,100237,TRUE,Lowland,Exotic,Monthly,Monthly,Northland,NRC,North,19,Parent,1025624,19,NA,1,Wairoa River
+599,NRC-00014,Mangahahuru at Apotu Road,100281,TRUE,Lowland,Rural,Monthly,Monthly,Northland,NRC,North,19,Parent,1025624,19,NA,1,Wairoa River
+600,NRC-00016,Awanui at FNDC,100363,TRUE,Lowland,Rural,Monthly,Monthly,Northland,NRC,North,220,Parent,1002745,220,NA,1,Awanui River
+601,NRC-00017,Awanui at Waihue Channel,100370,TRUE,Lowland,Rural,Monthly,Monthly,Northland,NRC,North,220,Parent,1002745,220,NA,1,Awanui River
+603,NRC-00031,Waipapa at Landing,101524,TRUE,Lowland,Rural,Monthly,Monthly,Northland,NRC,North,726,Parent,1006036,726,NA,1,Waipapa Stream
+604,NRC-00021,Kerikeri at Stone Store,101530,TRUE,Lowland,Rural,Monthly,Monthly,Northland,NRC,North,435,Parent,1006289,435,NA,1,Kerikeri River
+605,NRC-00001,Mangere at Knight Road,101625,TRUE,Lowland,Rural,Monthly,Monthly,Northland,NRC,North,19,Parent,1025624,19,NA,1,Wairoa River
+607,NRC-00012,Waiotu at SH1,102248,TRUE,Lowland,Rural,Monthly,Monthly,Northland,NRC,North,19,Parent,1025624,19,NA,1,Wairoa River
+608,NRC-00011,Whakapara at Cableway,102249,TRUE,Lowland,Rural,Monthly,Monthly,Northland,NRC,North,19,Parent,1025624,19,NA,1,Wairoa River
+609,NRC-00006,Kaihu at Gorge,102256,TRUE,Lowland,Rural,Monthly,Monthly,Northland,NRC,North,19,Parent,1025624,19,NA,1,Wairoa River
+610,NRC-00002,Manganui at Mititai Road,102257,TRUE,Lowland,Rural,Monthly,Monthly,Northland,NRC,North,19,Parent,1025624,19,NA,1,Wairoa River
+611,NRC-00008,Opouteke at Suspension Bridge,102258,TRUE,Lowland,Exotic,Monthly,Monthly,Northland,NRC,North,19,Parent,1025624,19,NA,1,Wairoa River
+612,NRC-00020,Kaeo at Dip Road,102674,TRUE,Lowland,Rural,Monthly,Monthly,Northland,NRC,North,410,Parent,1003616,410,NA,1,Kaeo River
+613,NRC-00010,Waitangi at Waimate North Road,103178,TRUE,Lowland,Rural,Monthly,Monthly,Northland,NRC,North,256,Parent,1007662,256,NA,1,Waitangi River
+614,NRC-00007,Waipoua at SH12,103304,TRUE,Lowland,Native,Monthly,Monthly,Northland,NRC,North,411,Parent,1016824,411,NA,1,Waipoua River
+615,NRC-00026,Ruakaka at Flyger Road,105008,TRUE,Lowland,Rural,Monthly,Monthly,Northland,NRC,North,469,Parent,1021797,469,NA,1,Ruakaka River
+616,NRC-00005,Punakitere at Taheke,105231,TRUE,Lowland,Rural,Monthly,Monthly,Northland,NRC,North,175,Parent,1010681,175,NA,1,Punakitere River
+617,NRC-00015,Victoria at Victoria Valley Road,105532,TRUE,Lowland,Native,Monthly,Monthly,Northland,NRC,North,220,Parent,1002745,220,NA,1,Awanui River
+618,NRC-00004,Waiarohia at Second Avenue,108359,TRUE,Lowland,Urban,Monthly,Monthly,Northland,NRC,North,643,Parent,1018619,643,NA,1,Waiarohia Stream
+619,NRC-00030,Waipao at Draffin Road,108941,TRUE,Lowland,Rural,Monthly,Monthly,Northland,NRC,North,19,Parent,1025624,19,NA,1,Wairoa River
+620,NRC-00022,Mangamuka at Iwitaua Road,108978,TRUE,Lowland,Native,Monthly,Monthly,Northland,NRC,North,362,Parent,1006840,362,NA,1,Mangamuka River
+621,NRC-00024,Oruru at Oruru Road,108979,TRUE,Lowland,Rural,Monthly,Monthly,Northland,NRC,North,433,Parent,1002774,433,NA,1,Oruru River
+622,NRC-00027,Utakura at Okaka Road,109020,TRUE,Lowland,Rural,Monthly,Monthly,Northland,NRC,North,400,Parent,1008740,400,NA,1,Utakura River
+623,NRC-00018,Hakaru at Topuni,109021,TRUE,Lowland,Rural,Monthly,Monthly,Northland,NRC,North,436,Parent,1026623,436,NA,1,Hakaru River
+624,NRC-00009,Mangakahia at Twin Bridges,109096,TRUE,Lowland,Rural,Monthly,Monthly,Northland,NRC,North,19,Parent,1025624,19,NA,1,Wairoa River
+625,NRC-00029,Waimamaku at SH12,109098,TRUE,Lowland,Rural,Monthly,Monthly,Northland,NRC,North,383,Parent,1015042,383,NA,1,Waimamaku River
+626,NRC-00045,Otaika at Otaika Valley Road,110431,TRUE,Lowland,Rural,Monthly,Monthly,Northland,NRC,North,542,Parent,1019667,542,NA,1,Otaika
+627,ORC-00115,Kakanui River at Clifton Falls Br,Kakanui at Clifton Falls Bridge,TRUE,Lowland,Rural,Bimonthly,Bimonthly,Otago,ORC,South,105,Parent,14034067,105,NA,1,Kakanui
+628,ORC-00119,Lindsays Creek at North Rd Bridge,Lindsays Creek at North Road Bridge,TRUE,Lowland,Rural,Bimonthly,Bimonthly,Otago,ORC,South,590,Parent,14061293,590,NA,1,Water of Leith & Lindsay's Creek
+629,ORC-00154,Taieri River at Sutton,Taieri at Sutton,TRUE,Upland,Rural,Bimonthly,Bimonthly,Otago,ORC,South,9,Parent,14066093,9,Taieri River,1,Taieri River
+630,ORC-00156,Taieri River at Waipiata,Taieri at Waipiata,TRUE,Upland,Rural,Bimonthly,Bimonthly,Otago,ORC,South,9,Parent,14066093,9,Taieri River,1,Taieri River
+631,ORC-00071,Taieri River at Stonehenge,Taieri at Stonehenge,TRUE,Upland,Rural,Bimonthly,Bimonthly,Otago,ORC,South,9,Parent,14066093,9,Taieri River,1,Taieri River
+632,ORC-00098,Kye Burn at SH85 Bridge,Kye Burn at SH85 Bridge,TRUE,Upland,Rural,Bimonthly,Bimonthly,Otago,ORC,South,237,Parent,1403498,237,NA,1,Kye Burn (Taieri tributary)
+633,ORC-00159,Tokomairiro River at West Branch Br,Tokomairiro at West Branch Bridge,TRUE,Lowland,Rural,Bimonthly,Bimonthly,Otago,ORC,South,214,Parent,14069577,214,NA,1,Tokomairiro River
+634,ORC-00040,Lindis River at Lindis Peak,Lindis at Lindis Peak,TRUE,Upland,Rural,Bimonthly,Bimonthly,Otago,ORC,South,90,Parent,1402030,90,NA,1,Lindis River
+635,ORC-00047,Manuherikia River at Ophir,Manuherikia at Ophir,TRUE,Upland,Rural,Bimonthly,Bimonthly,Otago,ORC,South,28,Parent,1403982,28,NA,1,Manuherikia River
+636,ORC-00013,Fraser River at Marshall Road,Fraser at Marshall Road,TRUE,Lowland,Rural,Bimonthly,Bimonthly,Otago,ORC,South,1,Parent,14075006,1000008,Clutha,1,Clutha River
+637,ORC-00049,Mill Creek at Fish Trap.,Mill Creek at Fish Trap,TRUE,Upland,Rural,Bimonthly,Bimonthly,Otago,ORC,South,1,Parent,14075006,1000008,Clutha,1,Clutha River
+638,ORC-00015,Hawea River at Camphill Bridge,Hawea at Camphill Bridge,TRUE,Upland,Rural,Bimonthly,Bimonthly,Otago,ORC,South,1,Parent,14075006,1000008,Clutha,1,Clutha River
+639,ORC-00048,Matukituki River at West Wanaka,Matukituki at West Wanaka,TRUE,Upland,Rural,Bimonthly,Bimonthly,Otago,ORC,South,1,Parent,14075006,1000008,Clutha,1,Clutha River
+640,ORC-00107,Dart River at The Hillocks,Dart at The Hillocks,TRUE,Upland,Native,Bimonthly,Bimonthly,Otago,ORC,South,1,Parent,14075006,1000008,Clutha,1,Clutha River
+641,ORC-00082,Waiareka Creek at Taipo Road,Waiareka Creek at Taipo Road,TRUE,Lowland,Rural,Bimonthly,Bimonthly,Otago,ORC,South,105,Parent,14034067,105,NA,1,Kakanui
+642,ORC-00043,Luggate Creek at SH6 Bridge,Luggate Creek at SH6 Bridge,TRUE,Upland,Rural,Bimonthly,Bimonthly,Otago,ORC,South,1,Parent,14075006,1000008,Clutha,1,Clutha River
+643,ORC-00085,Waikouaiti River d/s of confluence,Waikouaiti at Confluence d/s,TRUE,Lowland,Rural,Bimonthly,Bimonthly,Otago,ORC,South,203,Parent,14053299,203,NA,1,Waikouaiti River
+644,ORC-00094,Waiwera River at Maws Farm,Waiwera at Maws Farm,TRUE,Lowland,Rural,Bimonthly,Bimonthly,Otago,ORC,South,1,Parent,14075006,1000008,Clutha,1,Clutha River
+645,ORC-00130,Pomahaka River at Burkes Ford,Pomahaka at Burkes Ford,TRUE,Lowland,Rural,Bimonthly,Bimonthly,Otago,ORC,South,40,Parent,1406845,40,NA,1,Pomahaka River
+646,ORC-00163,Waitahuna River at Tweeds Bridge,Waitahuna at Tweeds Bridge,TRUE,Lowland,Rural,Bimonthly,Bimonthly,Otago,ORC,South,1,Parent,14075006,1000008,Clutha,1,Clutha River
+647,ORC-00131,Pomahaka River at Glenken,Pomahaka at Glenken,TRUE,Upland,Rural,Bimonthly,Bimonthly,Otago,ORC,South,40,Parent,1406845,40,NA,1,Pomahaka River
+648,ORC-00066,Silverstream at Taieri Depot,Silverstream at Taieri Depot,TRUE,Lowland,Rural,Bimonthly,Bimonthly,Otago,ORC,South,9,Parent,14066093,9,Taieri River,1,Taieri River
+649,ORC-00046,Manuherikia River at Galloway,Manuherikia at Galloway,TRUE,Upland,Rural,Bimonthly,Bimonthly,Otago,ORC,South,28,Parent,1403982,28,NA,1,Manuherikia River
+650,ORC-00117,Kauru River at Ewings,Kauru at Ewings,TRUE,Lowland,Rural,Bimonthly,Bimonthly,Otago,ORC,South,105,Parent,14034067,105,NA,1,Kakanui
+651,ORC-00105,Catlins River at Houipapa,Catlins at Houipapa,TRUE,Lowland,Rural,Bimonthly,Bimonthly,Otago,ORC,South,207,Parent,14072995,207,NA,1,Catlins River
+652,ORC-00044,Main Drain at Waipori Pump,Main Drain at Waipori Pump,TRUE,Lowland,Rural,Bimonthly,Bimonthly,Otago,ORC,South,9,Parent,14066093,9,Taieri River,1,Taieri River
+653,ORC-00133,Shag River at Craig Rd,Shag at Craig Road,TRUE,Lowland,Rural,Bimonthly,Bimonthly,Otago,ORC,South,163,Parent,14047780,163,NA,1,Shag River
+654,ORC-00162,Waipahi River at Waipahi,Waipahi at Waipahi,TRUE,Lowland,Rural,Bimonthly,Bimonthly,Otago,ORC,South,40,Parent,1406845,40,NA,1,Pomahaka River
+655,ORC-00012,Dunstan Creek at Beattie Road,Dunstan Creek at Beattie Road,TRUE,Upland,Rural,Bimonthly,Bimonthly,Otago,ORC,South,28,Parent,1403982,28,NA,1,Manuherikia River
+656,ORC-00061,Shag River at Goodwood Pump,Shag at Goodwood Pump,TRUE,Lowland,Rural,Bimonthly,Bimonthly,Otago,ORC,South,163,Parent,14047780,163,NA,1,Shag River
+657,ORC-00025,Kakanui River at McCones,Kakanui at McCones,TRUE,Lowland,Rural,Bimonthly,Bimonthly,Otago,ORC,South,105,Parent,14034067,105,NA,1,Kakanui
+658,ORC-00081,Waianakarua River at Browns,Waianakarua at Browns,TRUE,Lowland,Rural,Bimonthly,Bimonthly,Otago,ORC,South,273,Parent,14037624,273,NA,1,Waianakarua River
+659,ORC-00017,Heriot Burn at Park Hill Road,Heriot Burn at Park Hill Road,TRUE,Upland,Rural,Bimonthly,Bimonthly,Otago,ORC,South,40,Parent,1406845,40,NA,1,Pomahaka River
+660,ORC-00041,Lindis River at Ardgour Road,Lindis at Ardgour Road,TRUE,Upland,Rural,Bimonthly,Bimonthly,Otago,ORC,South,90,Parent,1402030,90,NA,1,Lindis River
+661,ORC-00096,Crookston Burn at Kelso Road,Crookston Burn at Kelso Road,TRUE,Upland,Rural,Bimonthly,Bimonthly,Otago,ORC,South,40,Parent,1406845,40,NA,1,Pomahaka River
+662,ORC-00097,Wairuna Stream at Millar Road,Wairuna at Millar Road,TRUE,Lowland,Rural,Bimonthly,Bimonthly,Otago,ORC,South,40,Parent,1406845,40,NA,1,Pomahaka River
+663,ORC-00070,Taieri River at Allanton Bridge,Taieri at Allanton Bridge,TRUE,Lowland,Rural,Bimonthly,Bimonthly,Otago,ORC,South,9,Parent,14066093,9,Taieri River,1,Taieri River
+664,ORC-00074,Taieri River at Linnburn Runs Road,Taieri at Linnburn Runs Road,TRUE,Upland,Rural,Bimonthly,Bimonthly,Otago,ORC,South,9,Parent,14066093,9,Taieri River,1,Taieri River
+665,ORC-00079,Trotters Creek at Mathesons,Trotters Creek at Mathesons,TRUE,Lowland,Rural,Bimonthly,Bimonthly,Otago,ORC,South,746,Parent,14044144,746,NA,1,Trotters Creek
+666,ORC-00088,Waipahi River at Cairns Peak,Waipahi at Cairns Peak,TRUE,Upland,Rural,Bimonthly,Bimonthly,Otago,ORC,South,40,Parent,1406845,40,NA,1,Pomahaka River
+667,ORC-00089,Waipori River at Waipori Falls Reserve,Waipori at Waipori Falls Reserve,TRUE,Lowland,Rural,Bimonthly,Bimonthly,Otago,ORC,South,9,Parent,14066093,9,Taieri River,1,Taieri River
+668,ORC-00095,Water of Leith at Dundas Street Bridge,Leith at Dundas Street Bridge,TRUE,Lowland,Urban,Bimonthly,Bimonthly,Otago,ORC,South,590,Parent,14061293,590,NA,1,Water of Leith & Lindsay's Creek
+669,ORC-00031,Lake Hayes,Lake Hayes at Bendemeer Bay,TRUE,Unstated,Unstated,Unstated,Unstated,Otago,ORC,South,1,Parent,14075006,1000008,Clutha,1,Clutha River
+670,ORC-00021,Kaikorai Stream at Brighton Road,Kaikorai Stream at Brighton Road,TRUE,Lowland,Urban,Bimonthly,Bimonthly,Otago,ORC,South,593,Parent,14062803,593,NA,1,Kaikorai Stream
+671,ORC-00103,Cardrona River at Mt Barker,Cardrona at Mt Barker,TRUE,Upland,Rural,Bimonthly,Bimonthly,Otago,ORC,South,232,Parent,1401336,232,NA,1,Cardrona River
+672,TRC-00005,34308,Patea at Skinner Rd,Yes,Upland,Rural,Monthly,Monthly,Taranaki,TRC,North,86,Parent,6015863,86,NA,1,Patea River
+673,TRC-00001,34309,Mangaehu at Bridge,Yes,Upland,Rural,Monthly,Monthly,Taranaki,TRC,North,86,Parent,6015863,86,NA,1,Patea River
+674,TRC-00009,35004,Waingongoro at Eltham Rd,Yes,Lowland,Rural,Monthly,Monthly,Taranaki,TRC,North,287,Parent,6013282,287,NA,1,Waingongoro River
+675,TRC-00010,35005,Waingongoro at SH45,Yes,Upland,Rural,Monthly,Monthly,Taranaki,TRC,North,287,Parent,6013282,287,NA,1,Waingongoro River
+676,TRC-00008,38002,Stony at Mangatete Bridge,Yes,Lowland,Native,Monthly,Monthly,Taranaki,TRC,North,563,Parent,6004675,563,NA,1,Hangatahua (Stony) River
+677,TRC-00011,39201,Waiwhakaiho at Egmont Village,Yes,Upland,Rural,Monthly,Monthly,Taranaki,TRC,North,377,Parent,6002369,377,NA,1,Waiwhakaiho River
+678,TRC-00003,39402,Mangaoraka at Corbett Rd,Yes,Upland,Rural,Monthly,Monthly,Taranaki,TRC,North,345,Parent,6001779,345,NA,1,Mangaoraka Stream
+680,TRC-00011,Waiwhakaiho River at S.H.3,WKH000500,Yes,Lowland,Rural,Monthly,Monthly,Taranaki,TRC,North,377,Parent,6002369,377,NA,1,Waiwhakaiho River
+681,TRC-00009,Waingongoro River at Eltham Rd Bridge,WGG000500,Yes,Lowland,Native,Monthly,Monthly,Taranaki,TRC,North,287,Parent,6013282,287,NA,1,Waingongoro River
+682,TRC-00010,Waingongoro River at SH45,WGG000900,Yes,Lowland,Rural,Monthly,Monthly,Taranaki,TRC,North,287,Parent,6013282,287,NA,1,Waingongoro River
+683,TRC-00008,Stony River at Mangatete Road,STY000300,Yes,Upland,Rural,Monthly,Monthly,Taranaki,TRC,North,563,Parent,6004675,563,NA,1,Hangatahua (Stony) River
+684,TRC-00007,Punehu Stream at S.H. 45,PNH000900,Yes,Upland,Rural,Monthly,Monthly,Taranaki,TRC,North,634,Parent,6011392,634,NA,1,Punehu Stream
+685,TRC-00004,Patea River at Barclay Road Bridge,PAT000200,Yes,Lowland,Rural,Monthly,Monthly,Taranaki,TRC,North,86,Parent,6015863,86,NA,1,Patea River
+686,TRC-00005,Patea River at Skinner Road Bridge,PAT000360,Yes,Upland,Rural,Monthly,Monthly,Taranaki,TRC,North,86,Parent,6015863,86,NA,1,Patea River
+687,TRC-00006,Punehu Stream at Wiremu Rd.,PNH000200,Yes,Lowland,Native,Monthly,Monthly,Taranaki,TRC,North,634,Parent,6011392,634,NA,1,Punehu Stream
+688,TRC-00002,Maketawa Stream at Tarata Rd.,MKW000300,Yes,Upland,Rural,Monthly,Monthly,Taranaki,TRC,North,78,Parent,6001707,78,NA,1,Maketawa Stream
+689,TRC-00003,Mangaoraka Stream at Corbett Rd. (Recorder site).,MRK000420,Yes,Upland,Rural,Monthly,Monthly,Taranaki,TRC,North,345,Parent,6001779,345,NA,1,Mangaoraka Stream
+690,TRC-00001,Mangaehu River at Raupuha Rd Bridge,MGH000950,Yes,Upland,Rural,Monthly,Monthly,Taranaki,TRC,North,86,Parent,6015863,86,NA,1,Patea River
+691,TDC-00001,Aorere at Devils Boots,HY Aorere at Devils Boots,TRUE,Lowland,Rural,Quarterly,Quarterly,Tasman,TDC,South,222,Parent,10000533,222,NA,1,Aorere River
+692,TDC-00017,Wangapeka at Walter Peak,HY Wangapeka at Walter Peak,TRUE,Lowland,Rural,Quarterly,Quarterly,Tasman,TDC,South,41,Parent,10006766,41,NA,1,Motueka River
+693,TDC-00008,Motupiko at Christies,HY Motupiko at Christies,TRUE,Upland,Rural,Quarterly,Quarterly,Tasman,TDC,South,41,Parent,10006766,41,NA,1,Motueka River
+694,TDC-00016,Wairoa at Irvines,HY Wairoa at Irvines,TRUE,Lowland,Rural,Quarterly,Quarterly,Tasman,TDC,South,126,Parent,10011526,126,NA,1,Waimea River
+695,TDC-00013,Takaka at Harwoods,HY Takaka at Harwoods,TRUE,Lowland,Rural,Quarterly,Quarterly,Tasman,TDC,South,109,Parent,10002180,109,NA,1,Takaka River
+696,TDC-00014,Takaka at Kotinga,HY Takaka at Kotinga,TRUE,Lowland,Rural,Quarterly,Quarterly,Tasman,TDC,South,109,Parent,10002180,109,NA,1,Takaka River
+697,TDC-00002,Aorere at Le Comte,RW Aorere @ Le Comte,TRUE,Lowland,Rural,Quarterly,Quarterly,Tasman,TDC,South,222,Parent,10000533,222,NA,1,Aorere River
+698,TDC-00003,Black Valley Stream at Lake,RW Black Vly @ 30m us Lake,TRUE,Upland,Rural,Quarterly,Quarterly,Tasman,TDC,South,6,Parent,12009639,1000004,Upper Buller split by RC boundary,1,Upper Buller
+699,TDC-00033,Graham at Kikiwa,RW Graham @ Kikiwa,TRUE,Upland,Rural,Quarterly,Quarterly,Tasman,TDC,South,41,Parent,10006766,41,NA,1,Motueka River
+700,TDC-00032,Hunters at Kikiwa,RW Hunters @ Kikiwa,TRUE,Upland,Rural,Quarterly,Quarterly,Tasman,TDC,South,41,Parent,10006766,41,NA,1,Motueka River
+701,TDC-00048,Kaituna at 500m u-s Track start,RW Kaituna @ 500m us Track start,TRUE,Upland,Rural,Quarterly,Quarterly,Tasman,TDC,South,222,Parent,10000533,222,NA,1,Aorere River
+702,TDC-00004,Kaituna at Sollys Road,RW Kaituna @ Sollys Rd,TRUE,Lowland,Rural,Quarterly,Quarterly,Tasman,TDC,South,222,Parent,10000533,222,NA,1,Aorere River
+703,TDC-00031,Kikiwa at Kikiwa,RW Kikiwa @ Kikiwa,TRUE,Upland,Rural,Quarterly,Quarterly,Tasman,TDC,South,41,Parent,10006766,41,NA,1,Motueka River
+704,TDC-00020,Lee at Meads Br,RW Lee @ Meads Br,TRUE,Lowland,Rural,Quarterly,Quarterly,Tasman,TDC,South,126,Parent,10011526,126,NA,1,Waimea River
+705,TDC-00025,Little Sydney at Factory Rd,RW Little Sydney @ Factory Rd,TRUE,Lowland,Rural,Quarterly,Quarterly,Tasman,TDC,South,1348,Parent,10006483,1348,NA,1,Little Sydney Stream
+706,TDC-00005,Mangles at Gorge,RW Mangles @ Gorge,TRUE,Upland,Rural,Quarterly,Quarterly,Tasman,TDC,South,6,Parent,12009639,1000004,Upper Buller split by RC boundary,1,Upper Buller
+707,TDC-00024,Mangles at 1.5km u-s Tutaki,RW Mangles @ 1.5 km u-s Tutaki,TRUE,Lowland,Rural,Quarterly,Quarterly,Tasman,TDC,South,6,Parent,12009639,1000004,Upper Buller split by RC boundary,1,Upper Buller
+708,TDC-00010,Riwaka at Hickmotts,HY Riwaka at Hickmotts,TRUE,Lowland,Rural,Quarterly,Quarterly,Tasman,TDC,South,462,Parent,10006407,462,NA,1,Riwaka River
+709,TDC-00030,Motueka at Woodmans Bend,HY Motueka at Woodmans Bend,TRUE,Lowland,Rural,Quarterly,Quarterly,Tasman,TDC,South,41,Parent,10006766,41,NA,1,Motueka River
+710,TDC-00022,Matakitaki at SH6 Murchison,RW Matakitaki @ SH6 Murchison,TRUE,Lowland,Rural,Quarterly,Quarterly,Tasman,TDC,South,6,Parent,12009639,1000004,Upper Buller split by RC boundary,1,Upper Buller
+711,TDC-00034,Motueka at u-s Wangapeka,RW Motueka @ u-s Wangapeka,TRUE,Lowland,Rural,Quarterly,Quarterly,Tasman,TDC,South,41,Parent,10006766,41,NA,1,Motueka River
+712,TDC-00041,Motupipi at Factory Farm Br,RW Motupipi @ Factory Farm Br,TRUE,Lowland,Rural,Quarterly,Quarterly,Tasman,TDC,South,880,Parent,10002486,880,NA,1,Motupipi
+713,TDC-00038,Motupipi at Reillys Br,RW Motupipi @ Reillys Br,TRUE,Lowland,Rural,Quarterly,Quarterly,Tasman,TDC,South,880,Parent,10002486,880,NA,1,Motupipi
+714,TDC-00037,Motupipi at Abel Tasman Dr,RW Motupipi @ Abel Tasman Dr,TRUE,Lowland,Rural,Quarterly,Quarterly,Tasman,TDC,South,880,Parent,10002486,880,NA,1,Motupipi
+715,TDC-00023,Murchison Creek at 20m u-s SH6,RW Murchison Ck @ 20m u-s SH6,TRUE,Upland,Rural,Quarterly,Quarterly,Tasman,TDC,South,6,Parent,12009639,1000004,Upper Buller split by RC boundary,1,Upper Buller
+716,TDC-00047,Onahau at Onahau Rd,RW Onahau @ Onahau Rd,TRUE,Lowland,Rural,Quarterly,Quarterly,Tasman,TDC,South,1007,Parent,10001751,1007,NA,1,Onehau
+717,TDC-00046,Onekaka at Shambala Br,RW Onekaka @ Shambala Br,TRUE,Lowland,Rural,Quarterly,Quarterly,Tasman,TDC,South,1049,Parent,10001153,1049,NA,1,Onekaka
+718,TDC-00045,Onekaka at u-s Ironstone,RW Onekaka @ u-s Ironstone,TRUE,Lowland,Rural,Quarterly,Quarterly,Tasman,TDC,South,1049,Parent,10001153,1049,NA,1,Onekaka
+719,TDC-00009,Reservoir Creek at Marlborough Crescent,RW Reservoir Ck @ Marlborough Cr,TRUE,Lowland,Rural,Quarterly,Quarterly,Tasman,TDC,South,2292,Parent,10012892,2292,NA,1,Reservoir Creek
+720,TDC-00019,Reservoir Creek at 20m d-s Salisbury Rd,RW Reservoir Ck @ 20m d-s Salisbury Rd,TRUE,Lowland,Urban,Quarterly,Quarterly,Tasman,TDC,South,2292,Parent,10012892,2292,NA,1,Reservoir Creek
+721,TDC-00026,Riwaka at Northbranch Source,RW Riwaka @ Northbranch Source,TRUE,Lowland,Rural,Quarterly,Quarterly,Tasman,TDC,South,462,Parent,10006407,462,NA,1,Riwaka River
+722,TDC-00035,Sherry at Blue Rock,RW Sherry @ Blue Rock,TRUE,Upland,Rural,Quarterly,Quarterly,Tasman,TDC,South,41,Parent,10006766,41,NA,1,Motueka River
+723,TDC-00012,Sherry at u-s Cave Cr,RW Sherry @ u-s Cave Ck,TRUE,Upland,Rural,Quarterly,Quarterly,Tasman,TDC,South,41,Parent,10006766,41,NA,1,Motueka River
+724,TDC-00021,Wairoa at Pig Valley,RW Wairoa @ Pig Vly,TRUE,Upland,Rural,Quarterly,Quarterly,Tasman,TDC,South,126,Parent,10011526,126,NA,1,Waimea River
+725,TDC-00029,Waiwhero at Cemetery,RW Waiwhero @ Cemetery,TRUE,Lowland,Rural,Quarterly,Quarterly,Tasman,TDC,South,41,Parent,10006766,41,NA,1,Motueka River
+726,TDC-00042,Watercress at u-s Dairy Factory,RW Watercress @ u-s Dairy Factory,TRUE,Lowland,Rural,Quarterly,Quarterly,Tasman,TDC,South,880,Parent,10002486,880,NA,1,Motupipi
+727,TDC-00036,Wangapeka at 5km u-s Dart,RW Wangapeka @ 5km u-s Dart,TRUE,Upland,Rural,Quarterly,Quarterly,Tasman,TDC,South,41,Parent,10006766,41,NA,1,Motueka River
+728,TDC-00039,Powell at Glenview Rd,RW Powell @ Glenview Rd,TRUE,Lowland,Rural,Quarterly,Quarterly,Tasman,TDC,South,880,Parent,10002486,880,NA,1,Motupipi
+729,TDC-00040,Powell at 40m u-s Motupipi Rv,RW Powell @ 40m u-s Motupipi Rv,TRUE,Lowland,Rural,Quarterly,Quarterly,Tasman,TDC,South,880,Parent,10002486,880,NA,1,Motupipi
+730,TDC-00028,Tasman Valley at u-s Jesters House,RW Tasman @ u-s Jesters Hse,TRUE,Lowland,Rural,Quarterly,Quarterly,Tasman,TDC,South,1234,Parent,10009063,1234,NA,1,Tasman Valley Stream
+731,TDC-00027,Seaton Valley at Stafford Dr,RW Seaton Vly @ Stafford Dr,TRUE,Lowland,Rural,Quarterly,Quarterly,Tasman,TDC,South,2005,Parent,10010434,2005,NA,1,Seaton Valley
+733,TDC-00018,Winter Creek at 50m u-s Abel Tasman Dr,RW Winter @ 50m u-s Abel Tasman Dr,TRUE,Lowland,Rural,Quarterly,Quarterly,Tasman,TDC,South,3206,Parent,10002231,3206,NA,1,Winter Creek
+734,TDC-00015,Waimea at SH60 Appleby,RW Waimea @ SH60 Appleby,TRUE,Lowland,Rural,Quarterly,Quarterly,Tasman,TDC,South,126,Parent,10011526,126,NA,1,Waimea River
+735,TDC-00011,Roding at Twin Bridges,RW Roding @ Twin Bridges,TRUE,Lowland,Rural,Quarterly,Quarterly,Tasman,TDC,South,126,Parent,10011526,126,NA,1,Waimea River
+736,TDC-00052,Graham at Farm Forest Boundary,RW Graham @ farm forest bdy,TRUE,Upland,Exotic,Quarterly,Quarterly,Tasman,TDC,South,41,Parent,10006766,41,NA,1,Motueka River
+737,WCRC-00011,Seven Mile Ck @ u/s Tillers Mine Ck,Seven Mile Ck @ u/s Tillers Mine Ck,TRUE,Lowland,Native,Unstated,Unstated,West Coast,WCRC,South,681,Parent,12026554,681,NA,1,Seven Mile Creek
+738,WCRC-00037,Orangipuku Rv @ Mouth,Orangipuku Rv @ Mouth,TRUE,Lowland,Rural,Bimonthly,Monthly,West Coast,WCRC,South,14,Parent,12027924,14,NA,1,Grey River
+739,WCRC-00008,Sawyers Ck @ Bush Fringe,Sawyers Ck @ Bush Fringe,TRUE,Lowland,Native,Quarterly,Quarterly,West Coast,WCRC,South,14,Parent,12027924,14,NA,1,Grey River
+740,WCRC-00036,Hohonu Rv @ Mitchells-Kumara Rd Br,Hohonu Rv @ Mitchells-Kumara Rd Br,TRUE,Upland,Native,Bimonthly,Bimonthly,West Coast,WCRC,South,14,Parent,12027924,14,NA,1,Grey River
+741,WCRC-00040,Hohonu Rv @ Mouth,Hohonu Rv @ Mouth,TRUE,Lowland,Native,Bimonthly,Bimonthly,West Coast,WCRC,South,14,Parent,12027924,14,NA,1,Grey River
+742,WCRC-00001,Deep Ck @ Arnold Vly Rd Br,Deep Ck @ Arnold Vly Rd Br,TRUE,Lowland,Native,,Quarterly,West Coast,WCRC,South,14,Parent,12027924,14,NA,1,Grey River
+743,WCRC-00032,Arnold Rv @ Kotuku Fishing Access,Arnold Rv @ Kotuku Fishing Access,TRUE,Lowland,Native,Quarterly,Bimonthly,West Coast,WCRC,South,14,Parent,12027924,14,NA,1,Grey River
+744,WCRC-00009,Seven Mile Ck @ Dunollie 400m u/s Ox Pd,Seven Mile Ck @ Dunollie 400m u/s Ox Pd,TRUE,Lowland,Native,Quarterly,Quarterly,West Coast,WCRC,South,681,Parent,12026554,681,NA,1,Seven Mile Creek
+745,WCRC-00029,Page Stm @ Chasm Ck Walkway,Page Stm @ Chasm Ck Walkway,TRUE,Lowland,Rural,Quarterly,Quarterly,West Coast,WCRC,South,130,Parent,12005907,130,NA,1,Mokihinui River
+746,WCRC-00010,Seven Mile Ck @ 300m d/s Raleigh Ck,Seven Mile Ck @ 300m d/s Raleigh Ck,TRUE,Lowland,Native,Quarterly,Quarterly,West Coast,WCRC,South,681,Parent,12026554,681,NA,1,Seven Mile Creek
+747,WCRC-00016,Bradshaws Ck @ Bradshaw Rd,Bradshaws Ck @ Bradshaw Rd,TRUE,Lowland,Rural,Quarterly,Quarterly,West Coast,WCRC,South,592,Parent,12009638,592,NA,1,Bradshaws Creek
+748,WCRC-00006,Mawheraiti Rv @ SH7 Maimai,Mawheraiti Rv @ SH7 Maimai,TRUE,Upland,Native,Quarterly,Quarterly,West Coast,WCRC,South,14,Parent,12027924,14,NA,1,Grey River
+749,WCRC-10003,Grey River @ Taylorville Swimming Hole,Grey Rv @ Taylorville Swimming Hole,TRUE,Lowland,Native,Unstated,Unstated,West Coast,WCRC,South,14,Parent,12027924,14,NA,1,Grey River
+750,WCRC-00020,Ellis Ck @ 50m d/s Ferry Rd Br,Ellis Ck @ 50m d/s Ferry Rd Br,TRUE,Lowland,Rural,Quarterly,Quarterly,West Coast,WCRC,South,251,Parent,12037342,251,NA,1,Waitaha
+751,WCRC-00024,Okutua Ck @ New Rd Br-Okarito Forest,Okutua Ck @ New Rd Br-Okarito Forest,TRUE,Lowland,Native,Quarterly,Quarterly,West Coast,WCRC,South,255,Parent,12041582,255,NA,1,Okarito
+752,WCRC-00038,Poerua Rv @ Rail Br,Poerua Rv @ Station Rd end,TRUE,Lowland,Native,Bimonthly,Monthly,West Coast,WCRC,South,14,Parent,12027924,14,NA,1,Grey River
+753,WCRC-00004,Ford Ck @ Blackball-Taylorville Rd,Ford Ck @ Blackball-Taylorville Rd,TRUE,Lowland,Native,Quarterly,Quarterly,West Coast,WCRC,South,14,Parent,12027924,14,NA,1,Grey River
+754,WCRC-00015,Murray Ck @ Ford Rd S,Murray Ck @ Ford Rd S,TRUE,Lowland,Rural,Quarterly,Quarterly,West Coast,WCRC,South,84,Parent,12033313,84,NA,1,Hokitika River
+755,WCRC-00027,Baker Ck @ Baker Ck Rd,Baker Ck @ Baker Ck Rd,TRUE,Lowland,Native,Quarterly,Quarterly,West Coast,WCRC,South,826,Parent,12003086,826,NA,1,Baker Creek
+756,WCRC-00028,Baker Ck @ Oparara Rd,Baker Ck @ Oparara Rd,TRUE,Lowland,Rural,Quarterly,Quarterly,West Coast,WCRC,South,826,Parent,12003086,826,NA,1,Baker Creek
+757,WCRC-00033,Crooked Rv @ Rotomanu-Bell Hill Rd,Crooked Rv @ Rotomanu-Bell Hill Rd,TRUE,Lowland,Native,Quarterly,Bimonthly,West Coast,WCRC,South,14,Parent,12027924,14,NA,1,Grey River
+758,WCRC-00013,Duck Ck @ Kokatahi-Kowhitirangi Rd Br,Duck Ck @ Kokatahi-Kowhitirangi Rd Br,TRUE,Lowland,Rural,Quarterly,Quarterly,West Coast,WCRC,South,84,Parent,12033313,84,NA,1,Hokitika River
+759,WCRC-00014,Harris Ck @ Mulvaney Rd,Harris Ck @ Mulvaney Rd,TRUE,Lowland,Rural,Quarterly,Quarterly,West Coast,WCRC,South,84,Parent,12033313,84,NA,1,Hokitika River
+760,WCRC-00003,Nelson Ck @ Swimming Hole Reserve,Nelson Ck @ Swimming Hole Reserve,TRUE,Lowland,Native,Quarterly,Quarterly,West Coast,WCRC,South,14,Parent,12027924,14,NA,1,Grey River
+761,WCRC-00025,Unnamed Ck @ Adamson Rd Whataroa,Unnamed Ck @ Adamson Rd Whataroa,TRUE,Lowland,Native,Quarterly,Quarterly,West Coast,WCRC,South,155,Parent,12039911,155,NA,1,Whataroa
+762,WCRC-00026,Vickers Ck @ Whataroa N Base,Vickers Ck @ Whataroa N Base,TRUE,Lowland,Rural,Quarterly,Quarterly,West Coast,WCRC,South,155,Parent,12039911,155,NA,1,Whataroa
+763,WCRC-00018,Orowaiti Rv @ Excelsior Rd,Orowaiti Rv @ Excelsior Rd,TRUE,Lowland,Rural,Quarterly,Quarterly,West Coast,WCRC,South,604,Parent,12009875,604,NA,1,Orowaiti River
+764,WCRC-00019,Orowaiti Rv @ Keoghans Rd,Orowaiti Rv @ Keoghans Rd,TRUE,Lowland,Native,Quarterly,Quarterly,West Coast,WCRC,South,604,Parent,12009875,604,NA,1,Orowaiti River
+765,WCRC-00007,Sawyers Ck @ Dixon Pk,Sawyers Ck @ Dixon Pk,TRUE,Lowland,Native,Quarterly,Quarterly,West Coast,WCRC,South,14,Parent,12027924,14,NA,1,Grey River
+766,WCRC-00012,Seven Mile Ck @ SH6 Rapahoe,Seven Mile Ck @ SH6 Rapahoe,TRUE,Lowland,Native,Quarterly,Quarterly,West Coast,WCRC,South,681,Parent,12026554,681,NA,1,Seven Mile Creek
+767,WCRC-00021,Berry Ck @ N Brch Wanganui Flat Rd,Berry Ck @ N Brch Wanganui Flat Rd,TRUE,Lowland,Rural,Quarterly,Quarterly,West Coast,WCRC,South,172,Parent,12038565,172,NA,1,Wanganui River
+768,WCRC-00031,Arnold Rv @ Blairs Rd No. 2 Br,Arnold Rv @ Blairs Rd No. 2 Br,TRUE,Lowland,Native,Quarterly,Bimonthly,West Coast,WCRC,South,6,Parent,12009639,1000005,Lower Buller spli by RC Boundary,1,Lower Buller
+769,WCRC-00030,Blackwater Ck @ Farm 846,Blackwater Ck @ Farm 846,TRUE,Lowland,Rural,Quarterly,Quarterly,West Coast,WCRC,South,2232,Parent,12003609,2232,NA,1,Blackwater Creek
+770,WCRC-00005,Burkes Ck @ SH69,Burkes Ck @ SH69,TRUE,Upland,Rural,Quarterly,Quarterly,West Coast,WCRC,South,6,Parent,12009639,1000005,Lower Buller spli by RC Boundary,1,Lower Buller
+771,WCRC-00002,Molloy Ck @ Rail Line,Molloy Ck @ Rail Line,TRUE,Lowland,Native,Quarterly,Quarterly,West Coast,WCRC,South,14,Parent,12027924,14,NA,1,Grey River
+772,WCRC-00022,La Fontaine Stm @ Airstrip Fishing Access,La Fontaine Stm @ Airstrip Fishing Access,TRUE,Lowland,Rural,Quarterly,Quarterly,West Coast,WCRC,South,172,Parent,12038565,172,NA,1,Wanganui River
+773,WCRC-00023,La Fontaine Stm @ Herepo Fishing Access,La Fontaine Stm @ Herepo Fishing Access,TRUE,Lowland,Rural,Quarterly,Quarterly,West Coast,WCRC,South,172,Parent,12038565,172,NA,1,Wanganui River
+774,WCRC-00049,Grey Rv @ Waipuna,Grey Rv @ Waipuna,TRUE,Unstated,Unstated,Unstated,Unstated,West Coast,WCRC,South,14,Parent,12027924,14,NA,1,Grey River
+775,WCRC-00039,Crooked Rv @ Te Kinga,Crooked Rv @ Te Kinga,TRUE,Lowland,Native,Quarterly,Bimonthly,West Coast,WCRC,South,14,Parent,12027924,14,NA,1,Grey River
+776,EW-00061,Pueto Stm at Broadlands Rd Br,41835,Yes,Upland,Exotic,Monthly,Monthly,Waikato,WRC,North,2,Parent,3009006,2,NA,1,Waikato River
+777,EW-00063,Puniu River at Bartons Corner Rd Br,41893,Yes,Lowland,Rural,Monthly,Monthly,Waikato,WRC,North,2,Parent,3009006,2,NA,1,Waikato River
+778,EW-00064,Tahunaatara Stm at Ohakuri Rd,42292,Yes,Upland,Exotic,Monthly,Monthly,Waikato,WRC,North,2,Parent,3009006,2,NA,1,Waikato River
+779,EW-00065,Tairua River at Morrisons Br Hikuai,42340,Yes,Lowland,Native,Monthly,Monthly,Waikato,WRC,North,296,Parent,3003544,296,NA,1,Tairua River
+780,EW-00066,Tapu River at Tapu-Coroglen Rd,42385,Yes,Lowland,Native,Monthly,Monthly,Waikato,WRC,North,823,Parent,3002756,823,NA,1,Tapu River
+781,EW-00068,Tawarau River at Off Speedies Rd,42477,Yes,Lowland,Native,Monthly,Monthly,Waikato,WRC,North,224,Parent,3030336,224,NA,1,Marokopa River
+782,EW-00001,Awakino River at Gribbon Rd,14393,Yes,Lowland,Rural,Monthly,Monthly,Waikato,WRC,North,219,Parent,3042268,219,NA,1,Awakino River
+783,EW-00002,Awakino River at SH3 Awakau Rd Junction,14395,Yes,Lowland,Native,Monthly,Monthly,Waikato,WRC,North,219,Parent,3042268,219,NA,1,Awakino River
+784,EW-00016,Little Waipa Stm at Arapuni - Putaruru Rd,37523,Yes,Lowland,Rural,Monthly,Monthly,Waikato,WRC,North,2,Parent,3009006,2,NA,1,Waikato River
+785,EW-00017,Mangaharakeke Stm (Atiamuri) at SH30 (Off Jct SH1),37631,Yes,Upland,Rural,Monthly,Monthly,Waikato,WRC,North,2,Parent,3009006,2,NA,1,Waikato River
+786,EW-00018,Mangakara Stm (Reporoa) at SH5,37700,Yes,Upland,Rural,Monthly,Monthly,Waikato,WRC,North,2,Parent,3009006,2,NA,1,Waikato River
+787,EW-00019,Mangakino Stm (Whakamaru) at Sandel Rd,37720,Yes,Upland,Native,Monthly,Monthly,Waikato,WRC,North,2,Parent,3009006,2,NA,1,Waikato River
+788,EW-00004,Awaroa Stm (Rotowaro) at Sansons Br @ Rotowaro-Huntly Rd,14435,Yes,Lowland,Rural,Monthly,Monthly,Waikato,WRC,North,2,Parent,3009006,2,NA,1,Waikato River
+789,EW-00020,Mangakotukutuku Stm (Rukuhia) at Peacockes Rd,37768,Yes,Lowland,Rural,Monthly,Monthly,Waikato,WRC,North,2,Parent,3009006,2,NA,1,Waikato River
+790,EW-00021,Mangamingi Stm (Tokoroa) at Paraonui Rd Br,37825,Yes,Upland,Rural,Monthly,Monthly,Waikato,WRC,North,2,Parent,3009006,2,NA,1,Waikato River
+791,EW-00003,Awaroa River (Waiuku) at Otaua Rd Br opp Moseley Rd,14419,Yes,Lowland,Rural,Monthly,Monthly,Waikato,WRC,North,2,Parent,3009006,2,NA,1,Waikato River
+792,EW-00022,Manganui River at Off Manganui Rd,37841,Yes,Lowland,Rural,Monthly,Monthly,Waikato,WRC,North,219,Parent,3042268,219,NA,1,Awakino River
+793,EW-00023,Mangaohoi Stm at South Branch Maru Rd,37860,Yes,Upland,Rural,Monthly,Monthly,Waikato,WRC,North,2,Parent,3009006,2,NA,1,Waikato River
+794,EW-00024,Mangaokewa Stm at Lawrence Street Br,37891,Yes,Lowland,Native,Monthly,Monthly,Waikato,WRC,North,2,Parent,3009006,2,NA,1,Waikato River
+795,EW-00025,Mangaone Stm (Waikato) at Annebrooke Rd Br,37939,Yes,Lowland,Rural,Monthly,Monthly,Waikato,WRC,North,2,Parent,3009006,2,NA,1,Waikato River
+796,EW-00026,Mangaonua Stm at Hoeka Rd,37986,Yes,Lowland,Rural,Monthly,Monthly,Waikato,WRC,North,2,Parent,3009006,2,NA,1,Waikato River
+797,EW-00027,Mangaonua Stm at Te Miro Rd (a.k.a Waitakaruru stm),37993,Yes,Lowland,Rural,Monthly,Monthly,Waikato,WRC,North,2,Parent,3009006,2,NA,1,Waikato River
+798,EW-00028,Mangaotaki River at SH3 Br,38025,Yes,Lowland,Rural,Monthly,Monthly,Waikato,WRC,North,59,Parent,3043401,59,NA,1,Mokau River
+799,EW-00029,Mangapiko Stm (Pirongia/Te Awamutu) at Bowman Rd,38101,Yes,Lowland,Rural,Monthly,Monthly,Waikato,WRC,North,2,Parent,3009006,2,NA,1,Waikato River
+800,EW-00030,Mangapu River at Otorohanga,38165,Yes,Lowland,Rural,Monthly,Monthly,Waikato,WRC,North,2,Parent,3009006,2,NA,1,Waikato River
+801,EW-00031,Mangatangi River at SH2 Maramarua,38220,Yes,Lowland,Rural,Monthly,Monthly,Waikato,WRC,North,2,Parent,3009006,2,NA,1,Waikato River
+802,EW-00032,Mangatawhiri River at Lyons Rd At Buckingham Br,38263,Yes,Lowland,Rural,Monthly,Monthly,Waikato,WRC,North,2,Parent,3009006,2,NA,1,Waikato River
+803,EW-00033,Mangatutu Stm (Waikeria) at Walker Rd Br,38350,Yes,Lowland,Rural,Monthly,Monthly,Waikato,WRC,North,2,Parent,3009006,2,NA,1,Waikato River
+804,EW-00034,Mangauika Stm at Te Awamutu Borough W/S Intake,38367,Yes,Upland,Rural,Monthly,Monthly,Waikato,WRC,North,2,Parent,3009006,2,NA,1,Waikato River
+805,EW-00035,Mangawara Stm at Rutherford Rd Br,38386,Yes,Lowland,Native,Monthly,Monthly,Waikato,WRC,North,2,Parent,3009006,2,NA,1,Waikato River
+806,EW-00036,Mangawhero Stm (Cambridge) at Cambridge-Ohaupo Rd,38424,Yes,Lowland,Rural,Monthly,Monthly,Waikato,WRC,North,2,Parent,3009006,2,NA,1,Waikato River
+807,EW-00037,Mangawhero Stm (Kaihere) at Mangawara Rd,38431,Yes,Lowland,Exotic,Monthly,Monthly,Waikato,WRC,North,57,Parent,3005218,57,NA,1,Piako River
+808,EW-00040,Marokopa River at Speedies Rd (Off Te Anga Rd),38533,Yes,Lowland,Rural,Monthly,Monthly,Waikato,WRC,North,224,Parent,3030336,224,NA,1,Marokopa River
+809,EW-00042,Matahuru Stm at Waiterimu Road Below Confluence,38551,Yes,Lowland,Rural,Monthly,Monthly,Waikato,WRC,North,2,Parent,3009006,2,NA,1,Waikato River
+810,EW-00043,Mokau River at Awakau Rd,40718,Yes,Lowland,Rural,Monthly,Monthly,Waikato,WRC,North,59,Parent,3043401,59,NA,1,Mokau River
+811,EW-00044,Mokau River at Mangaokewa Rd (Off SH30),40716,Yes,Upland,Rural,Monthly,Monthly,Waikato,WRC,North,59,Parent,3043401,59,NA,1,Mokau River
+812,EW-00045,Mokau River at Totoro Rd Recorder,40720,Yes,Lowland,Native,Monthly,Monthly,Waikato,WRC,North,59,Parent,3043401,59,NA,1,Mokau River
+813,EW-00046,Mokauiti Stm at Three Way Point - Aria,40738,Yes,Lowland,Rural,Monthly,Monthly,Waikato,WRC,North,59,Parent,3043401,59,NA,1,Mokau River
+814,EW-00047,Ohaeroa Stm at SH22 Br,40966,Yes,Lowland,Rural,Monthly,Monthly,Waikato,WRC,North,2,Parent,3009006,2,NA,1,Waikato River
+815,EW-00048,Ohautira Stm at Waingaro Te Uku Rd,40998,Yes,Lowland,Rural,Monthly,Monthly,Waikato,WRC,North,582,Parent,3017321,582,NA,1,Ohautira Stream
+816,EW-00049,Ohinemuri River at Queens Head,41010,Yes,Lowland,Rural,Monthly,Monthly,Waikato,WRC,North,45,Parent,3004855,45,NA,1,Waihou River
+817,EW-00050,Ohinemuri River at SH25 Br,41011,Yes,Lowland,Rural,Monthly,Monthly,Waikato,WRC,North,45,Parent,3004855,45,NA,1,Waihou River
+818,EW-00051,Ohote Stm at Whatawhata/Horotiu Rd,41071,Yes,Lowland,Rural,Monthly,Monthly,Waikato,WRC,North,2,Parent,3009006,2,NA,1,Waikato River
+819,EW-00052,Oparau River at Langdon Rd (Off Okupata Rd),41211,Yes,Lowland,Rural,Monthly,Monthly,Waikato,WRC,North,402,Parent,3023504,402,NA,1,Oparau River
+820,EW-00053,Opuatia Stm at Ponganui Rd,41249,Yes,Lowland,Native,Monthly,Monthly,Waikato,WRC,North,2,Parent,3009006,2,NA,1,Waikato River
+821,EW-00054,Oraka Stm at Lake Rd,41303,Yes,Lowland,Rural,Monthly,Monthly,Waikato,WRC,North,45,Parent,3004855,45,NA,1,Waihou River
+822,EW-00056,Otamakokore Stm at Hossack Rd,41355,Yes,Upland,Exotic,Monthly,Monthly,Waikato,WRC,North,2,Parent,3009006,2,NA,1,Waikato River
+823,EW-00057,Piako River at Kiwitahi,41630,Yes,Lowland,Rural,Monthly,Monthly,Waikato,WRC,North,57,Parent,3005218,57,NA,1,Piako River
+824,EW-00058,Piako River at Paeroa-Tahuna Rd Br,41634,Yes,Lowland,Rural,Monthly,Monthly,Waikato,WRC,North,57,Parent,3005218,57,NA,1,Piako River
+825,EW-00059,Piakonui Stm at Piakonui Rd,41667,Yes,Upland,Rural,Monthly,Monthly,Waikato,WRC,North,57,Parent,3005218,57,NA,1,Piako River
+826,EW-00060,Pokaiwhenua Stm at Arapuni - Putaruru Rd,41766,Yes,Lowland,Rural,Monthly,Monthly,Waikato,WRC,North,2,Parent,3009006,2,NA,1,Waikato River
+827,EW-00070,Tokaanu Stm at Off SH41 Turangi,42685,Yes,Upland,Rural,Monthly,Monthly,Waikato,WRC,North,2,Parent,3009006,2,NA,1,Waikato River
+828,EW-00071,Torepatutahi Stm at Vaile Rd Br,42773,Yes,Upland,Native,Monthly,Monthly,Waikato,WRC,North,2,Parent,3009006,2,NA,1,Waikato River
+829,EW-00072,Waerenga Stm at Taniwha Rd,42974,Yes,Lowland,Exotic,Monthly,Monthly,Waikato,WRC,North,2,Parent,3009006,2,NA,1,Waikato River
+830,EW-00073,Waiau River at E309 Rd Ford,42993,Yes,Lowland,Rural,Monthly,Monthly,Waikato,WRC,North,747,Parent,3001162,747,NA,1,Wairau River
+831,EW-00074,Waihaha River at SH32,43010,Yes,Upland,Rural,Monthly,Monthly,Waikato,WRC,North,2,Parent,3009006,2,NA,1,Waikato River
+832,EW-00075,Waihou River at Okauia,43171,Yes,Lowland,Urban,Monthly,Monthly,Waikato,WRC,North,45,Parent,3004855,45,NA,1,Waihou River
+833,EW-00076,Waihou River at Whites Rd,43145,Yes,Lowland,Rural,Monthly,Monthly,Waikato,WRC,North,45,Parent,3004855,45,NA,1,Waihou River
+834,EW-00082,Waikato River at Ohaaki Br,43334,Yes,Upland,Native,Monthly,Monthly,Waikato,WRC,North,2,Parent,3009006,2,NA,1,Waikato River
+835,EW-00083,Waikato River at Ohakuri Tailrace Br,43336,Yes,Upland,Native,Monthly,Monthly,Waikato,WRC,North,2,Parent,3009006,2,NA,1,Waikato River
+836,EW-00119,Waikato River at Taupo Control Gates,43349,Yes,Upland,Native,Monthly,Monthly,Waikato,WRC,North,2,Parent,3009006,2,NA,1,Waikato River
+837,EW-00084,Waikato River at Tuakau Br,43411,Yes,Lowland,Native,Monthly,Monthly,Waikato,WRC,North,2,Parent,3009006,2,NA,1,Waikato River
+838,EW-00085,Waikato River at Waipapa Tailrace,43361,Yes,Lowland,Native,Monthly,Monthly,Waikato,WRC,North,2,Parent,3009006,2,NA,1,Waikato River
+839,EW-00086,Waikato River at Whakamaru Tailrace,43278,Yes,Upland,Native,Monthly,Monthly,Waikato,WRC,North,2,Parent,3009006,2,NA,1,Waikato River
+840,EW-00080,Waikato River at Narrows Boat Ramp,43552,Yes,Lowland,Native,Monthly,Monthly,Waikato,WRC,North,2,Parent,3009006,2,NA,1,Waikato River
+841,EW-00077,Waikato River at Horotiu Br,43313,Yes,Lowland,Native,Monthly,Monthly,Waikato,WRC,North,2,Parent,3009006,2,NA,1,Waikato River
+842,EW-00078,Waikato River at Huntly-Tainui Br,43224,Yes,Lowland,Native,Monthly,Monthly,Waikato,WRC,North,2,Parent,3009006,2,NA,1,Waikato River
+843,EW-00079,Waikato River at Mercer Br,43401,Yes,Lowland,Native,Monthly,Monthly,Waikato,WRC,North,2,Parent,3009006,2,NA,1,Waikato River
+844,EW-00087,Waingaro River (Pukemiro) at Ruakiwi Rd Off SH22,43768,Yes,Lowland,Rural,Monthly,Monthly,Waikato,WRC,North,395,Parent,3016676,395,NA,1,Waingaro River
+845,EW-00088,Waiohotu Stm at Waiohotu Rd (Off SH5),43794,Yes,Upland,Native,Monthly,Monthly,Waikato,WRC,North,45,Parent,3004855,45,NA,1,Waihou River
+846,EW-00089,Waiomou Stm at Matamata-Tauranga Rd,43809,Yes,Lowland,Rural,Monthly,Monthly,Waikato,WRC,North,45,Parent,3004855,45,NA,1,Waihou River
+847,EW-00090,Waiotapu Stm at Campbell Rd Br,43879,Yes,Upland,Rural,Monthly,Monthly,Waikato,WRC,North,2,Parent,3009006,2,NA,1,Waikato River
+848,EW-00091,Waiotapu Stm at Homestead Rd Br,43855,Yes,Upland,Rural,Monthly,Monthly,Waikato,WRC,North,2,Parent,3009006,2,NA,1,Waikato River
+849,EW-00093,Waipa River at Pirongia-Ngutunui Rd Br,43913,Yes,Lowland,Native,Monthly,Monthly,Waikato,WRC,North,2,Parent,3009006,2,NA,1,Waikato River
+850,EW-00094,Waipa River at SH3 Otorohanga,43915,Yes,Lowland,Native,Monthly,Monthly,Waikato,WRC,North,2,Parent,3009006,2,NA,1,Waikato River
+851,EW-00092,Waipa River at Mangaokewa Rd,43910,Yes,Upland,Rural,Monthly,Monthly,Waikato,WRC,North,2,Parent,3009006,2,NA,1,Waikato River
+852,EW-00095,Waipapa Stm (Mokai) at Tirohanga Rd Br,43992,Yes,Upland,Rural,Monthly,Monthly,Waikato,WRC,North,2,Parent,3009006,2,NA,1,Waikato River
+853,EW-00096,Waitahanui River at Blake Rd,44082,Yes,Upland,Native,Monthly,Monthly,Waikato,WRC,North,2,Parent,3009006,2,NA,1,Waikato River
+854,EW-00097,Waitakaruru River (Hauraki Plains) at Coxhead Rd Br,44092,Yes,Lowland,Rural,Monthly,Monthly,Waikato,WRC,North,520,Parent,3005936,520,NA,1,Waitakaruru River
+855,EW-00098,Waitawhiriwhiri Stm at Edgecumbe Street,44178,Yes,Lowland,Native,Monthly,Monthly,Waikato,WRC,North,2,Parent,3009006,2,NA,1,Waikato River
+856,EW-00099,Waitekauri River at U/S Ohinemuri Conflu,44241,Yes,Lowland,Native,Monthly,Monthly,Waikato,WRC,North,45,Parent,3004855,45,NA,1,Waihou River
+857,EW-00100,Waitetuna River at Te Uku-Waingaro Rd,44285,Yes,Lowland,Rural,Monthly,Monthly,Waikato,WRC,North,341,Parent,3017917,341,NA,1,Waitetuna River
+858,EW-00101,Waitoa River at Landsdowne Rd Br,44331,Yes,Lowland,Rural,Monthly,Monthly,Waikato,WRC,North,57,Parent,3005218,57,NA,1,Piako River
+859,EW-00102,Waitoa River at Mellon Rd Recorder,44334,Yes,Lowland,Rural,Monthly,Monthly,Waikato,WRC,North,57,Parent,3005218,57,NA,1,Piako River
+860,EW-00104,Waitomo Stm at SH31 Otorohanga,44391,Yes,Lowland,Rural,Monthly,Monthly,Waikato,WRC,North,2,Parent,3009006,2,NA,1,Waikato River
+861,EW-00105,Waitomo Stm at Tumutumu Rd,44379,Yes,Lowland,Rural,Monthly,Monthly,Waikato,WRC,North,2,Parent,3009006,2,NA,1,Waikato River
+862,EW-00106,Waiwawa River at SH25 Coroglen,44407,Yes,Lowland,Native,Monthly,Monthly,Waikato,WRC,North,324,Parent,3002013,324,NA,1,Waiwawa River
+863,EW-00108,Whakapipi Stm at SH22 Br,44529,Yes,Lowland,Rural,Monthly,Monthly,Waikato,WRC,North,2,Parent,3009006,2,NA,1,Waikato River
+864,EW-00109,Whakauru Stm at U/S  SH1 Br,44580,Yes,Upland,Native,Monthly,Monthly,Waikato,WRC,North,2,Parent,3009006,2,NA,1,Waikato River
+865,EW-00110,Whangamarino River at Island Block Rd,44617,Yes,Lowland,Exotic,Monthly,Monthly,Waikato,WRC,North,2,Parent,3009006,2,NA,1,Waikato River
+866,EW-00111,Whangamarino River at Jefferies Rd Br,44607,Yes,Lowland,Native,Monthly,Monthly,Waikato,WRC,North,2,Parent,3009006,2,NA,1,Waikato River
+867,EW-00112,Whangamata Stm (Kinloch) at Whangamata Rd,44668,Yes,Upland,Native,Monthly,Monthly,Waikato,WRC,North,2,Parent,3009006,2,NA,1,Waikato River
+868,EW-00113,Whanganui Stm at Lakeside Lake Taupo T8,44674,Yes,Upland,Native,Monthly,Monthly,Waikato,WRC,North,2,Parent,3009006,2,NA,1,Waikato River
+869,EW-00114,Whangape Stm at Rangiriri-Glen Murray Rd,44677,Yes,Lowland,Rural,Monthly,Monthly,Waikato,WRC,North,2,Parent,3009006,2,NA,1,Waikato River
+870,EW-00115,Wharekawa River at SH25,44749,Yes,Lowland,Rural,Monthly,Monthly,Waikato,WRC,North,550,Parent,3004519,550,NA,1,Wharekawa River
+871,EW-00116,Whareroa Stm (Taupo) at Lakeside Lake Taupo T9,44791,Yes,Upland,Native,Monthly,Monthly,Waikato,WRC,North,2,Parent,3009006,2,NA,1,Waikato River
+872,EW-00118,Whirinaki Stm at Corbett Rd,44845,Yes,Upland,Rural,Monthly,Monthly,Waikato,WRC,North,2,Parent,3009006,2,NA,1,Waikato River
+873,EW-00069,Tokaanu Power Station Tailrace Canal at SH41 Bridge Over Canal,42678,Yes,Upland,Native,Monthly,Monthly,Waikato,WRC,North,2,Parent,3009006,2,NA,1,Waikato River
+874,EW-00005,Hikutaia River at Old Maratoto Rd,24166,Yes,Lowland,Rural,Monthly,Monthly,Waikato,WRC,North,45,Parent,3004855,45,NA,1,Waihou River
+875,EW-00006,Hinemaiaia River at SH1,24172,Yes,Upland,Native,Monthly,Monthly,Waikato,WRC,North,2,Parent,3009006,2,NA,1,Waikato River
+876,EW-00007,Kaniwhaniwha Stm at Wright Rd,36706,Yes,Lowland,Rural,Monthly,Monthly,Waikato,WRC,North,2,Parent,3009006,2,NA,1,Waikato River
+877,EW-00008,Karapiro Stm at Hickey Rd Bridge,36745,Yes,Lowland,Native,Monthly,Monthly,Waikato,WRC,North,2,Parent,3009006,2,NA,1,Waikato River
+878,EW-00009,Kauaeranga River at Smiths Cableway/Recorder,36768,Yes,Lowland,Native,Monthly,Monthly,Waikato,WRC,North,389,Parent,3004591,389,NA,1,Kaueranga River
+879,EW-00010,Kawaunui Stm at SH5 Br,36800,Yes,Upland,Rural,Monthly,Monthly,Waikato,WRC,North,2,Parent,3009006,2,NA,1,Waikato River
+880,EW-00011,Kirikiriroa Stm at Tauhara Dr,36867,Yes,Lowland,Urban,Monthly,Monthly,Waikato,WRC,North,2,Parent,3009006,2,NA,1,Waikato River
+881,EW-00012,Komakorau Stm at Henry Rd,36890,Yes,Lowland,Rural,Monthly,Monthly,Waikato,WRC,North,2,Parent,3009006,2,NA,1,Waikato River
+882,EW-00013,Kuratau River at SH41 Moerangi,36998,Yes,Upland,Native,Monthly,Monthly,Waikato,WRC,North,2,Parent,3009006,2,NA,1,Waikato River
+883,EW-00014,Kuratau River at Te Rae Street T10,37003,Yes,Upland,Native,Monthly,Monthly,Waikato,WRC,North,2,Parent,3009006,2,NA,1,Waikato River
+383,NRWQN-00047,Hutt River at Kaitoke,Hutt River at Kaitoke,TRUE,Upland,Forest,Monthly,Monthly,Wellington,GWRC,North,147,Parent,9013064,147,NA,1,Hutt River
+419,NRWQN-00046,Ruamahanga River at Waihenga Bridge,Ruamahanga River at Waihenga Bridge,TRUE,Lowland,Rural,Monthly,Monthly,Wellington,GWRC,North,22,Parent,9016633,22,NA,1,Ruamahanga River
+420,NRWQN-00048,Ruamahanga River at Wardells,Ruamahanga River at Wardells,TRUE,Lowland,Rural,Monthly,Monthly,Wellington,GWRC,North,22,Parent,9016633,22,NA,1,Ruamahanga River
+538,NRWQN-00018,Rangitikei @ Kakariki,Rangitikei @ Kakariki,Yes,Lowland,Rural,Monthly,Monthly,Horizons,HRC,North,15,Parent,7038092,15,NA,1,Rangitikei River
+539,NRWQN-00019,Whanganui @ Paetawa,Whanganui @ Paetawa,Yes,Lowland,Rural,Monthly,Monthly,Horizons,HRC,North,5,Parent,7030483,5,NA,1,Whanganui River
+602,NRWQN-00021,101038,Mangakahia at Titoki,TRUE,Lowland,Rural,Monthly,Monthly,Northland,NRC,North,19,Parent,1025624,19,NA,1,Wairoa River
+679,NRWQN-00036,39503,Waitara at Bertrand Rd,Yes,Upland,Rural,Monthly,Monthly,Taranaki,TRC,North,78,Parent,6001707,78,NA,1,Maketawa Stream
+884,NRWQN-00001,AK2,Rangitopuni at Walkers,Yes,Lowland,Rural,Monthly,Monthly,Auckland,NIWA,North,439,Parent,2004741,439,NA,1,Rangitopuni River
+885,NRWQN-00002,AK1,Hoteo at Gubbs,Yes,Lowland,Rural,Monthly,Monthly,Auckland,NIWA,North,228,Parent,2001886,228,NA,1,Hoteo
+886,NRWQN-00003,TK6,Waitaki at SH1 Br.,Yes,Lowland,Rural,Monthly,Monthly,Canterbury,NIWA,South,3,Parent,13524507,3,NA,1,Upper and Lower Waitaki Catchment
+887,NRWQN-00004,TK5,Hakatakamea above MH Br.,Yes,Upland,Rural,Monthly,Monthly,Canterbury,NIWA,South,3,Parent,13524507,3,NA,1,Upper and Lower Waitaki Catchment
+888,NRWQN-00005,TK4,Waitaki at Kurow,Yes,Upland,Rural,Monthly,Monthly,Canterbury,NIWA,South,3,Parent,13524507,3,NA,1,Upper and Lower Waitaki Catchment
+889,NRWQN-00006,TK1,Opihi at GRASSY BANKS,Yes,Lowland,Rural,Monthly,Monthly,Canterbury,NIWA,South,35,Parent,13070002,35,NA,1,Opihi River
+890,NRWQN-00007,TK2,Opihi at Rockwood,Yes,Upland,Rural,Monthly,Monthly,Canterbury,NIWA,South,35,Parent,13070002,35,NA,1,Opihi River
+891,NRWQN-00008,TK3,Opuha at Skipton Br.,Yes,Upland,Rural,Monthly,Monthly,Canterbury,NIWA,South,35,Parent,13070002,35,NA,1,Opihi River
+892,NRWQN-00009,CH1,Hurunui at Mandamus,Yes,Upland,Forest,Monthly,Monthly,Canterbury,NIWA,South,31,Parent,13024355,31,NA,1,Hurunui River
+893,NRWQN-00010,GS1,Waipoa at Kanakanaia,Yes,Lowland,Rural,Monthly,Monthly,Gisborne,NIWA,North,37,Parent,5013426,37,NA,1,Waipaoa
+894,NRWQN-00011,GS2,Waikohu at No. 1 Br.,Yes,Upland,Rural,Monthly,Monthly,Gisborne,NIWA,North,37,Parent,5013426,37,NA,1,Waipaoa
+895,NRWQN-00012,GS3,Motu at Waitangirua,Yes,Upland,Rural,Monthly,Monthly,Bay of Plenty,NIWA,North,63,Parent,4005089,63,NA,1,Motu River
+896,NRWQN-00013,HV1,Makaroro at Burnt Br.,Yes,Upland,Forest,Monthly,Monthly,Hawkes Bay,NIWA,North,33,Parent,0,33,Tukituki SW,1,Tukutuki River
+897,NRWQN-00014,HV3,Ngaruroro at Chesterhope,Yes,Lowland,Rural,Monthly,Monthly,Hawkes Bay,NIWA,North,21,Parent,0,1000021,Ngaruroro SW,1,Ngaruroro River
+898,NRWQN-00015,HV4,Ngaruroro at Kuripapango,Yes,Upland,Forest,Monthly,Monthly,Hawkes Bay,NIWA,North,21,Parent,0,1000021,Ngaruroro SW,1,Ngaruroro River
+899,NRWQN-00016,HV6,Mohaka at Glenfalls,Yes,Upland,Forest,Monthly,Monthly,Hawkes Bay,NIWA,North,34,Parent,0,34,Mohaka SW,1,Mohaka River
+900,NRWQN-00017,HV5,Mohaka at Raupunga,Yes,Lowland,Forest,Monthly,Monthly,Hawkes Bay,NIWA,North,34,Parent,0,34,Mohaka SW,1,Mohaka River
+901,NRWQN-00018,WA6,Rangitikei at Kakariki,Yes,Lowland,Rural,Monthly,Monthly,Horizons,NIWA,North,15,Parent,7038092,15,NA,1,Rangitikei River
+902,NRWQN-00019,WA4,Whanganui at Paetawa,Yes,Lowland,Rural,Monthly,Monthly,Horizons,NIWA,North,5,Parent,7030483,5,NA,1,Whanganui River
+903,NRWQN-00020,NN4,Wairau at Tuamarina,Yes,Lowland,Forest,Monthly,Monthly,Marlborough,NIWA,South,18,Parent,11016624,100018,Merger of NIWA catchment 18 and 715,1,Wairau River
+904,NRWQN-00021,WH3,Mangakahia at Titoki Br.,Yes,Lowland,Rural,Monthly,Monthly,Northland,NIWA,North,19,Parent,1025624,19,NA,1,Wairoa River
+905,NRWQN-00022,WH4,Wairu at Purua,Yes,Lowland,Rural,Monthly,Monthly,Northland,NIWA,North,19,Parent,1025624,19,NA,1,Wairoa River
+906,NRWQN-00023,WH2,Waitangi at Wakelins,Yes,Lowland,Rural,Monthly,Monthly,Northland,NIWA,North,256,Parent,1007662,256,NA,1,Waitangi River
+907,NRWQN-00024,WH1,Waipapa at Forest Ranger,Yes,Lowland,Forest,Monthly,Monthly,Northland,NIWA,North,268,Parent,1008535,268,NA,1,Waipapa River
+908,NRWQN-00025,DN4,Clutha at Balclutha,Yes,Lowland,Rural,Monthly,Monthly,Otago,NIWA,South,1,Parent,14075006,1000008,Clutha,1,Clutha River
+909,NRWQN-00026,DN3,Taieri at Outram,Yes,Lowland,Rural,Monthly,Monthly,Otago,NIWA,South,9,Parent,14066093,9,Taieri River,1,Taieri River
+910,NRWQN-00027,AX4,Clutha at Millers Flat,Yes,Lowland,Rural,Monthly,Monthly,Otago,NIWA,South,1,Parent,14075006,1000008,Clutha,1,Clutha River
+911,NRWQN-00028,DN2,Sutton at SH87,Yes,Upland,Rural,Monthly,Monthly,Otago,NIWA,South,9,Parent,14066093,9,Taieri River,1,Taieri River
+912,NRWQN-00029,DN1,Taieri at Tiroiti,Yes,Upland,Rural,Monthly,Monthly,Otago,NIWA,South,9,Parent,14066093,9,Taieri River,1,Taieri River
+913,NRWQN-00030,AX2,Kawarau at Chards,Yes,Upland,Rural,Monthly,Monthly,Otago,NIWA,South,1,Parent,14075006,1000008,Clutha,1,Clutha River
+914,NRWQN-00031,AX3,Shotover at Bowens Peak,Yes,Upland,Rural,Monthly,Monthly,Otago,NIWA,South,1,Parent,14075006,1000008,Clutha,1,Clutha River
+915,NRWQN-00032,AX1,Clutha at Luggate Br.,Yes,Upland,Rural,Monthly,Monthly,Otago,NIWA,South,1,Parent,14075006,1000008,Clutha,1,Clutha River
+916,NRWQN-00034,DN10,Monowai below Gates,Yes,Upland,Forest,Monthly,Monthly,Southland,NIWA,South,4,Parent,15054970,4,NA,1,Waiau River
+917,NRWQN-00035,WA2,Manganui at SH3,Yes,Upland,Rural,Monthly,Monthly,Taranaki,NIWA,North,78,Parent,6001707,78,NA,1,Maketawa Stream
+918,NRWQN-00036,WA1,Waitara at Bertrand Rd,Yes,Lowland,Rural,Monthly,Monthly,Taranaki,NIWA,North,78,Parent,6001707,78,NA,1,Maketawa Stream
+919,NRWQN-00037,NN5,Buller at Longford,Yes,Upland,Forest,Monthly,Monthly,Tasman,NIWA,South,6,Parent,12009639,1000004,Upper Buller split by RC boundary,1,Upper Buller
+920,NRWQN-00038,TU2,Tongariro at Turangi,Yes,Upland,Forest,Monthly,Monthly,Waikato,NIWA,North,2,Parent,3009006,2,NA,1,Waikato River
+921,NRWQN-00039,RO6,Waikato at Reids Farm,Yes,Upland,Forest,Monthly,Monthly,Waikato,NIWA,North,2,Parent,3009006,2,NA,1,Waikato River
+922,NRWQN-00040,HM1,Waipa at Otewa,Yes,Lowland,Rural,Monthly,Monthly,Waikato,NIWA,North,2,Parent,3009006,2,NA,1,Waikato River
+923,NRWQN-00041,HM2,Waipa at Whatawhata,Yes,Lowland,Rural,Monthly,Monthly,Waikato,NIWA,North,2,Parent,3009006,2,NA,1,Waikato River
+924,NRWQN-00042,HM3,Waikato at Hamilton Traffic Br.,Yes,Lowland,Rural,Monthly,Monthly,Waikato,NIWA,North,2,Parent,3009006,2,NA,1,Waikato River
+925,NRWQN-00043,HM5,Waihou at Te Aroha,Yes,Lowland,Rural,Monthly,Monthly,Waikato,NIWA,North,45,Parent,3004855,45,NA,1,Waihou River
+926,NRWQN-00044,HM4,Waikato at Rangiriri,Yes,Lowland,Rural,Monthly,Monthly,Waikato,NIWA,North,2,Parent,3009006,2,NA,1,Waikato River
+927,NRWQN-00045,HM6,Ohinemuri at Karangahake,Yes,Lowland,Rural,Monthly,Monthly,Waikato,NIWA,North,45,Parent,3004855,45,NA,1,Waihou River
+928,NRWQN-00046,AK2,Ruamahanga @ Waihenga,Yes,Lowland,Rural,Monthly,Monthly,Wellington,NIWA,North,22,Parent,9016633,22,NA,1,Ruamahanga River
+929,NRWQN-00047,AK1,Hutt at Kaitoke,Yes,Upland,Forest,Monthly,Monthly,Wellington,NIWA,North,147,Parent,9013064,147,NA,1,Hutt River
+930,NRWQN-00048,TK6,Ruamahanga at Wardells,Yes,Lowland,Rural,Monthly,Monthly,Wellington,NIWA,North,22,Parent,9016633,22,NA,1,Ruamahanga River
+931,NRWQN-00049,TK5,Ruramahanga at SH2,Yes,Upland,Forest,Monthly,Monthly,Wellington,NIWA,North,22,Parent,9016633,22,NA,1,Ruamahanga River
+932,NRWQN-00050,TK4,Haast at Roaring Billy,Yes,Lowland,Forest,Monthly,Monthly,West Coast,NIWA,South,64,Parent,12050778,64,NA,1,Haast
+933,NRWQN-00051,TK1,Grey at Dobson,Yes,Lowland,Forest,Monthly,Monthly,West Coast,NIWA,South,14,Parent,12027924,14,NA,1,Grey River
+934,NRWQN-00052,TK2,Grey at Waipuna,Yes,Upland,Forest,Monthly,Monthly,West Coast,NIWA,South,14,Parent,12027924,14,NA,1,Grey River
+935,NRWQN-00053,TK3,Buller at Te Kuha,Yes,Lowland,Forest,Monthly,Monthly,West Coast,NIWA,South,6,Parent,12009639,1000005,Lower Buller spli by RC Boundary,1,Lower Buller
+936,NRWQN-00054,CH1,Waimakariri above old HW Br.,Yes,Lowland,Rural,Monthly,Monthly,Canterbury,NIWA,South,17,Parent,13070003,17,NA,1,Waimakariri River
+937,NRWQN-00055,GS1,Waimakariri at Gorge,Yes,Upland,Rural,Monthly,Monthly,Canterbury,NIWA,South,17,Parent,13070003,17,NA,1,Waimakariri River
+938,NRWQN-00056,GS2,Motueka at Gorge,Yes,Upland,Forest,Monthly,Monthly,Tasman,NIWA,South,41,Parent,10006766,41,NA,1,Motueka River
+939,NRWQN-00057,GS3,Motueka at Woodstock,Yes,Lowland,Forest,Monthly,Monthly,Tasman,NIWA,South,41,Parent,10006766,41,NA,1,Motueka River
+940,NRWQN-00058,HV1,Wairau at Dip Flat,Yes,Upland,Forest,Monthly,Monthly,Marlborough,NIWA,South,18,Parent,11016624,100018,Merger of NIWA catchment 18 and 715,1,Wairau River
+941,NRWQN-00059,HV3,Hurunui River at SH1 Bridge,Yes,Lowland,Rural,Monthly,Monthly,Canterbury,NIWA,South,31,Parent,13024355,31,NA,1,Hurunui River
